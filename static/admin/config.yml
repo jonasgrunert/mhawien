@@ -19,14 +19,14 @@ collections:
               widget: "hidden",
               default: "index-page",
             }
-          - { label: Title, name: title, widget: string, }
-          - { label: Subtitle, name: Subtitle, widget: string, }
-          - label: Workshops,
-            name: workshops,
-            wdiget: list, 
+          - { label: Title, name: title, widget: string }
+          - { label: Subtitle, name: Subtitle, widget: string }
+          - label: Workshops
+            name: workshops
+            wdiget: list
             fields:
-              - { label: Titel, name: title, widget: string, }
-              - { label: Start, name: start, widget: datetime, }
+              - { label: Titel, name: title, widget: string }
+              - { label: Start, name: start, widget: datetime }
               - { label: Ende, name: end, widget: datetime }
               - { label: Beschreibung, name: description, widget: text }
               - { label: Ort, name: place, widget: string }
