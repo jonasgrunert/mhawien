@@ -6,17 +6,6 @@ media_folder: static/img
 public_folder: /img
 
 collections:
-  - label: "Workshops"
-    name: "workshops"
-    folder: "src/pages/workshops"
-    create: true
-    fields:
-      - { label: Titel, name: title, widget: string }
-      - { label: Start, name: start, widget: datetime }
-      - { label: Ende, name: end, widget: datetime }
-      - { label: Beschreibung, name: description, widget: text }
-      - { label: Ort, name: place, widget: string }
-      - { label: Verantwortlicher, name: person, widget: string }
   - name: "pages"
     label: "Pages"
     files:
@@ -32,6 +21,18 @@ collections:
             }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: Subtitle, widget: string }
+          - { 
+              label: Workshops,
+              name: workshops,
+              wdiget: list, 
+              fields:
+                - { label: Titel, name: title, widget: string }
+                - { label: Start, name: start, widget: datetime }
+                - { label: Ende, name: end, widget: datetime }
+                - { label: Beschreibung, name: description, widget: text }
+                - { label: Ort, name: place, widget: string }
+                - { label: Verantwortlicher, name: person, widget: string }
+            }
       - file: "src/pages/about/index.md"
         label: "About"
         name: "about"
