@@ -43,7 +43,7 @@ const Footer = class extends React.Component {
                     <li>
                       <Link
                         className="navbar-item has-text-black"
-                        to="/contact"
+                        to="/impressum"
                       >
                         Impressum
                       </Link>
