@@ -2,7 +2,6 @@
 templateKey: index-page
 path: /
 title: Mental Health Awareness Week Vienna
-Subtitle: '#beaware #dontjudge #takecare'
+subtitle: "#beaware #dontjudge #takecare"
 workshops: []
 ---
-
