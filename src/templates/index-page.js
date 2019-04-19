@@ -6,6 +6,7 @@ import moment from "moment";
 
 import Layout from "../components/Layout";
 import "react-big-calendar/lib/css/react-big-calendar.css";
+import { HTMLContent } from "../components/Content";
 
 moment.locale("de");
 const localizer = Calendar.momentLocalizer(moment);
@@ -16,7 +17,7 @@ export class IndexPageTemplate extends React.Component {
     this.state = { shownEvents: props.events.map(() => false) };
   }
   render() {
-    const { title, events, subtitle } = this.props;
+    const { title, events, subtitle, content } = this.props;
     return (
       <div>
         <div
@@ -105,6 +106,7 @@ export class IndexPageTemplate extends React.Component {
         <section className="section section--gradient">
           <div className="container">
             <div className="section">
+              <HTMLContent className="content" content={content} />
               <div className="columns">
                 <div className="column is-10 is-offset-1">
                   <div className="content">
@@ -155,14 +157,9 @@ const IndexPage = ({ data }) => {
   return (
     <Layout>
       <IndexPageTemplate
-        image={frontmatter.image}
         title={frontmatter.title}
-        heading={frontmatter.heading}
-        subheading={frontmatter.subheading}
-        mainpitch={frontmatter.mainpitch}
-        description={frontmatter.description}
-        intro={frontmatter.intro}
-        events={frontmatter.workshops}
+        content={data.markdownRemark.html}
+        events={frontmatter.workshops ? frontmatter.workshops : []}
         subtitle={frontmatter.subtitle}
       />
     </Layout>
@@ -182,6 +179,7 @@ export default IndexPage;
 export const pageQuery = graphql`
   query IndexPageTemplate {
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
+      html
       frontmatter {
         title
         subtitle
