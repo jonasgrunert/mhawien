@@ -1,13 +1,12 @@
 ---
 templateKey: index-page
 title: Mental Health Awareness Week Vienna
-Subtitle: '#beaware'
+subtitle: "#beaware"
 workshops:
   - description: Dies ist ein Test Course
-    end: 2019-05-21T15:40:31.112Z
+    end: 2019-05-15T15:40:31.112Z
     person: Ich
     place: Wien
-    start: 2019-05-19T15:40:31.013Z
+    start: 2019-05-13T15:40:31.013Z
     title: Test
 ---
-
