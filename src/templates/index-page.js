@@ -7,6 +7,7 @@ import moment from "moment";
 import Layout from "../components/Layout";
 import "react-big-calendar/lib/css/react-big-calendar.css";
 import { HTMLContent } from "../components/Content";
+import TitleImage from "../img/Titelbild MHAW 2019.jpg";
 
 moment.locale("de");
 const localizer = Calendar.momentLocalizer(moment);
@@ -17,7 +18,7 @@ export class IndexPageTemplate extends React.Component {
     this.state = { shownEvents: props.events.map(() => false) };
   }
   render() {
-    const { title, events, subtitle, content, image } = this.props;
+    const { title, events, subtitle, content } = this.props;
     return (
       <div>
         <div
@@ -25,7 +26,7 @@ export class IndexPageTemplate extends React.Component {
           style={{
             backgroundColor: "#46f1a2",
             flexDirection: "column",
-            backgroundImage: `url(${!!image ? image.fluid.src : image})`,
+            backgroundImage: `url("${TitleImage}")`,
             backgroundPosition: "top"
           }}
         >
@@ -102,6 +103,7 @@ export class IndexPageTemplate extends React.Component {
                   action="/success"
                 >
                   <input type="hidden" name="form-name" value={e.title} />
+                  <input type="hidden" name="workshop " value={e.title} />
                   <div className="field is-horizontal">
                     <div className="field-label is-normal">
                       <label class="label">Name</label>
@@ -240,7 +242,6 @@ const IndexPage = ({ data }) => {
         content={data.markdownRemark.html}
         events={frontmatter.workshops ? frontmatter.workshops : []}
         subtitle={frontmatter.subtitle}
-        image={data.imageSharp}
       />
     </Layout>
   );
@@ -258,11 +259,6 @@ export default IndexPage;
 
 export const pageQuery = graphql`
   query IndexPageTemplate {
-    imageSharp(id: { eq: "2c1db8af-7dab-5c4c-b0bf-8ed7ffcbc554" }) {
-      fluid(maxHeight: 1000, quality: 100, cropFocus: NORTH) {
-        ...GatsbyImageSharpFluid
-      }
-    }
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       html
       frontmatter {
