@@ -1,11 +1,11 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import { StaticQuery, graphql } from 'gatsby'
+import React from "react";
+import Helmet from "react-helmet";
+import { StaticQuery, graphql } from "gatsby";
 
-import Navbar from '../components/Navbar'
-import Footer from '../components/Footer'
+import Navbar from "../components/Navbar";
+import Footer from "../components/Footer";
 
-import './all.sass'
+import "./all.sass";
 
 const TemplateWrapper = ({ children }) => (
   <StaticQuery
@@ -28,7 +28,12 @@ const TemplateWrapper = ({ children }) => (
             name="description"
             content={data.site.siteMetadata.description}
           />
-
+          <script
+            defer
+            src="https://use.fontawesome.com/releases/v5.8.1/js/all.js"
+            integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ"
+            crossorigin="anonymous"
+          />
           <link
             rel="apple-touch-icon"
             sizes="180x180"
@@ -59,6 +64,8 @@ const TemplateWrapper = ({ children }) => (
       </div>
     )}
   />
-)
+);
 
-export default TemplateWrapper
+export default TemplateWrapper;
+
+// page id: 540090573014064

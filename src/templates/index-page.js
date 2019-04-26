@@ -17,17 +17,22 @@ export class IndexPageTemplate extends React.Component {
     this.state = { shownEvents: props.events.map(() => false) };
   }
   render() {
-    const { title, events, subtitle, content } = this.props;
+    const { title, events, subtitle, content, image } = this.props;
     return (
       <div>
         <div
           className="full-width-image margin-top-0"
-          style={{ backgroundColor: "#46f1a2", flexDirection: "column" }}
+          style={{
+            backgroundColor: "#46f1a2",
+            flexDirection: "column",
+            backgroundImage: `url(${!!image ? image.fluid.src : image})`,
+            backgroundPosition: "top"
+          }}
         >
           <div
             style={{
               display: "flex",
-              height: "150px",
+              height: "750px",
               lineHeight: "1",
               justifyContent: "space-around",
               alignItems: "left",
@@ -85,13 +90,87 @@ export class IndexPageTemplate extends React.Component {
                   </div>
                   <div className="column">
                     Von <b>{new Date(e.start).toLocaleString()}</b> bis{" "}
-                    <b>{new Date(e.end).toLocaleString()}</b>
-                    in <b>{e.place}</b>
+                    <b>{new Date(e.end).toLocaleString()}</b> in{" "}
+                    <b>{e.place}</b>
                   </div>
                 </div>
-                <div className="notification is-warning">
-                  Die Anmeldung wird erst zu einem späteren Zeitpunkt geöffnet
-                </div>
+                <form
+                  name={e.title}
+                  method="post"
+                  data-netlify
+                  data-netlify-honeypot="gender"
+                  action="/success"
+                >
+                  <input type="hidden" name="form-name" value={e.title} />
+                  <div className="field is-horizontal">
+                    <div className="field-label is-normal">
+                      <label class="label">Name</label>
+                    </div>
+                    <div className="field-body">
+                      <div className="field">
+                        <p className="control has-icons-left">
+                          <input
+                            type="text"
+                            className="input"
+                            placeholder="Vorname"
+                            name="firstname"
+                            required
+                          />
+                          <span className="icon is-small is-left">
+                            <i className="fas fa-user" />
+                          </span>
+                        </p>
+                      </div>
+                      <div className="field">
+                        <p className="control has-icons-left">
+                          <input
+                            type="text"
+                            className="input"
+                            placeholder="Nachname"
+                            name="lastname"
+                            required
+                          />
+                          <span className="icon is-small is-left">
+                            <i className="fas fa-user" />
+                          </span>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <div className="field is-horizontal">
+                    <div className="field-label is-normal">
+                      <label class="label">E-Mail</label>
+                    </div>
+                    <div className="field-body">
+                      <div className="field">
+                        <p className="control has-icons-left">
+                          <input
+                            type="email"
+                            className="input"
+                            placeholder="E-Mail"
+                            name="email"
+                          />
+                          <span className="icon is-small is-left">
+                            <i className="fas fa-envelope" />
+                          </span>
+                        </p>
+                      </div>
+                    </div>
+                  </div>
+                  <input style={{ display: "none" }} name="gender" />
+                  <div className="field is-horizontal">
+                    <div className="field-label is-normal" />
+                    <div className="field-body">
+                      <div className="field">
+                        <div className="control">
+                          <button class="button is-primary" type="submit">
+                            Anmelden
+                          </button>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </form>
               </div>
             </div>
             <button
@@ -161,6 +240,7 @@ const IndexPage = ({ data }) => {
         content={data.markdownRemark.html}
         events={frontmatter.workshops ? frontmatter.workshops : []}
         subtitle={frontmatter.subtitle}
+        image={data.imageSharp}
       />
     </Layout>
   );
@@ -178,6 +258,11 @@ export default IndexPage;
 
 export const pageQuery = graphql`
   query IndexPageTemplate {
+    imageSharp(id: { eq: "2c1db8af-7dab-5c4c-b0bf-8ed7ffcbc554" }) {
+      fluid(maxHeight: 1000, quality: 100, cropFocus: NORTH) {
+        ...GatsbyImageSharpFluid
+      }
+    }
     markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
       html
       frontmatter {
