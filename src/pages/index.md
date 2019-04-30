@@ -54,6 +54,34 @@ workshops:
     place: 'Hörsaal A, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-13T14:45:00.000Z
     title: 'Workshop: Psychologische Erste Hilfe'
+  - count: 20
+    description: >-
+      Den TRIALOG gibt es seit 1994 in Wien als ein unabhängiges Gesprächsforum
+      zu psychosozialen und psychiatrischen Themen. 
+
+      Hier bringen sich Menschen mit psychischen Problemen und/oder
+      psychiatrischen Diagnosen, Angehörige und im psychosozialen Bereich
+      Arbeitende gleichberechtigt zu verschiedenen Themen ein.
+
+      Ziel ist es, gegenseitige Vorurteile abzubauen, die eigenen Anliegen den
+      Anderen verständlich zu machen, voneinander zu lernen und einander besser
+      zu verstehen.
+
+
+      Der TRIALOG als Ort gemeinsamen Erzählens, Diskutierens und
+      (Kennen)-Lernens eröffnet allen Beteiligten kreative Möglichkeiten zum
+      Gedankenaustausch und neue Perspektiven im Umgang mit psychischen Krisen
+      und Erkrankungen. Der Trialog ist jedoch keine Therapie oder
+      Selbsthilfegruppe.
+
+
+      Bei diesem Trialog soll über “Gemeinsam für psychische Gesundheit”
+      gesprochen werden.
+    end: 2019-05-13T18:00:00.000Z
+    person: 'Ingrid Machold, Dr.in Michaela Amering'
+    place: 'Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8'
+    start: 2019-05-13T16:30:00.000Z
+    title: 'Workshop: Trialog - Gemeinsam für psychische Gesundheit'
 ---
 
 # MHAW
