@@ -34,6 +34,26 @@ workshops:
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-13T13:00:00.000Z
     title: 'Workshop: Positive Psychologie'
+  - count: 25
+    description: >-
+      Wir, das sind Hannah und Vanessa, studieren in verschiedenen Schwerpunkten
+      im Master Psychologie an der Universität Wien.
+
+      In unserem Workshop würden wir euch gern die Möglichkeit geben über
+      persönliche Herausforderungen zu sprechen und gemeinsam mit euch
+      verschiedene Bewältigungsstrategien herausarbeiten. Die Frage hier ist:
+      Wie kann ich Freunde und Familie in Momenten von Trauer, Angst oder
+      Einsamkeit unterstützen und was brauche ich eigentlich selbst, um mich
+      sicher zu fühlen? Zusätzlich wollen wir uns unserer eigenen Ressourcen
+      bewusst werden und herausfinden, wie wir sie nutzen können. Unser Anliegen
+      ist es einen Raum zu kreieren indem wir achtsam und respektvoll
+      miteinander umgehen und persönliche Momente geteilt werden können.Wir
+      freuen uns auf den Austausch und über jede/n die/der kommt.
+    end: 2019-05-13T16:15:00.000Z
+    person: Hannah und Vanessa
+    place: 'Hörsaal A, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
+    start: 2019-05-13T14:45:00.000Z
+    title: 'Workshop: Psychologische Erste Hilfe'
 ---
 
 # MHAW
