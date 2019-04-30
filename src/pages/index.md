@@ -142,6 +142,13 @@ workshops:
     title: >-
       Workshop: Umgang mit Menschen, die psychisch krank oder irgendwie “anders”
       sind
+  - count: 20
+    description: TBA
+    end: 2019-05-15T11:00:00.000Z
+    person: Frau Milojevic
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
+    start: 2019-05-15T09:30:00.000Z
+    title: 'Workshop: Achtsamkeit'
 ---
 
 # MHAW
