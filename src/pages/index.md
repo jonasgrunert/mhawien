@@ -94,6 +94,27 @@ workshops:
     place: 'Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8'
     start: 2019-05-14T07:00:00.000Z
     title: 'Workshop: Sucht Basics'
+  - count: 18
+    description: >-
+      Yoga – was ist das, wozu macht man das und kann ich das auch?
+
+
+      Das Wort Yoga ist heutzutage den meisten ein Begriff. Doch wenn man dann,
+      fragt was Yoga eigentlich ist, hört man doch immer wieder verschiedenes.
+
+
+      Völlig egal ob du Yoga schon einmal gemacht hast, dich fragst wozu das
+      eigentlich gut sein soll oder du dich bisher nicht getraut hast, es zu
+      probieren, in diesem Workshop geht es darum, Yoga ein bisschen genauer
+      unter die Lupe zu nehmen. Wir schauen uns an, was Yoga eigentlich ist,
+      welche Arten von Yoga es gibt und wieso es Sinn macht es zu praktizieren.
+      Am Ende des Workshops soll dann auch noch ein wenig in die Praxis
+      geschnuppert werden.
+    end: 2019-05-14T12:45:00.000Z
+    person: Sarah
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
+    start: 2019-05-14T09:30:00.000Z
+    title: 'Workshop: Yoga'
 ---
 
 # MHAW
