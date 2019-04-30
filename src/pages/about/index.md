@@ -1,10 +1,12 @@
 ---
 templateKey: about-page
 title: Eine Woche für die Seele
+path: /about
 ---
+
 ### Wir sind ein Zusammenschluss von Psychologie-Studierenden der Universität Wien, welcher in Zusammenarbeit mit der Fakultät für Psychologie sowie sämtlichen externen Beitragenden eine spannende Woche zum Thema psychische Gesundheit auf die Beine gestellt hat.
 
-### Die Idee unserer Mental Health Awareness Week lehnt an die gleichnamige Woche der Mental Health Foundation (Großbritannien) an. 
+### Die Idee unserer Mental Health Awareness Week lehnt an die gleichnamige Woche der Mental Health Foundation (Großbritannien) an.
 
 ### Zum ersten Mal stattgefunden hat diese vom 14. bis 20. Mai 2018, dieses Jahr geht sie in die zweite Runde vom 13. bis 17. Mai 2019 sowohl an der Uni Wien als auch online im Rahmen einer Social Media Kampagne.
 
