@@ -263,6 +263,21 @@ workshops:
     place: 'Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8, 1010 Wien'
     start: 2019-05-17T07:45:00.000Z
     title: 'Workshop: Man denkt zu viel und tanzt zu wenig'
+  - count: 20
+    description: >-
+      Suizid zählt in Österreich zu den häufigsten Todesursachen bei jungen
+      Menschen. Trotzdem bestehen zu dem „Tabuthema“ Suizid weiterhin weit
+      verbreitete Unwissenheit und falsche Annahmen. 
+
+
+      Im Rahmen dieses Workshops werden die wichtigsten Daten und Fakten über
+      Suizid vermittelt, weit verbreitete Mythen über Suizidalität aufgeklärt
+      und mögliche Ansätze zur Suizidprävention beleuchtet. 
+    end: 2019-05-17T14:30:00.000Z
+    person: 'Dr. Benedikt Till, Mag. Marlies Braun'
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
+    start: 2019-05-17T13:00:00.000Z
+    title: 'Workshop: Suizid und Suizidprävention'
 ---
 
 # MHAW
