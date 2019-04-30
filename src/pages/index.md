@@ -194,6 +194,13 @@ workshops:
     place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T16:30:00.000Z
     title: 'Workshop: Vertiefung Gewaltfreie Kommunikation'
+  - count: 20
+    description: TBA
+    end: 2019-05-16T09:15:00.000Z
+    person: Dr. Pal-Handl
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
+    start: 2019-05-16T07:45:00.000Z
+    title: 'Workshop: Erfolgreich studieren und psychisch gesund bleiben'
 ---
 
 # MHAW
