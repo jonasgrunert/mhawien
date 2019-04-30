@@ -180,6 +180,13 @@ workshops:
     place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T13:00:00.000Z
     title: 'Workshop: Shiatsu'
+  - count: 20
+    description: TBA
+    end: 2019-05-15T16:15:00.000Z
+    person: Kersten Kloser-Pitcher
+    place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
+    start: 2019-05-15T14:45:00.000Z
+    title: 'Workshop: Grundlagen gewaltfreie Kommunikation'
 ---
 
 # MHAW
