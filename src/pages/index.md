@@ -115,6 +115,33 @@ workshops:
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-14T09:30:00.000Z
     title: 'Workshop: Yoga'
+  - count: 23
+    description: >-
+      Im Rahmen dieses Workshops erhalten die Teilnehmer*innen einen
+      Kurzüberblick über das weite Feld der psychischen Krankheiten und
+      trainieren dann, wie man sensibel auf psychisch belastete Menschen zugehen
+      und mit diesen kommunizieren kann. Zusätzlich soll sich jede*r
+      Teilnehmer*in die Frage stellen, wie es um den eigenen
+      ‚Normalitätsbegriff‘ bestellt ist und wo man seine eigenen Grenzen im
+      Umgang mit anderen hat.
+
+
+      Inhalte:
+
+      - Persönliche Standortbestimmung (Was ist für mich normal?)
+
+      - Exkurs über psychische Belastungen und Krankheiten
+
+      - Sensibilisierung für eine empathische Grundhaltung
+
+      - Kommunikationsstrategien (Dos and Don’ts inklusive Rollenspiele)
+    end: 2019-05-14T16:15:00.000Z
+    person: Dr. Elisabeth Ponocny-Seliger
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
+    start: 2019-05-14T14:45:00.000Z
+    title: >-
+      Workshop: Umgang mit Menschen, die psychisch krank oder irgendwie “anders”
+      sind
 ---
 
 # MHAW
