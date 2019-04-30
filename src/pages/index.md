@@ -149,6 +149,37 @@ workshops:
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-15T09:30:00.000Z
     title: 'Workshop: Achtsamkeit'
+  - count: 25
+    description: >-
+      Dieser Workshop richtet sich an alle die gerne etwas über Shiatsu erfahren
+      wollen.
+
+
+      Shiatsu bedeutet in der Übersetzung „Fingerdruck“ und hat seine Ursprünge
+      in der Traditionellen Chinesischen Medizin. Wir massieren entlang von 12
+      Hauptleitbahnen am Körper welche Meridiane genannt werden. Jeder Meridian
+      ist einem Funktionskreis (Organsystem) zugeordnet. 
+
+      Shiatsu wird unter anderem bei Kopfschmerzen, Verdauungsproblemen,
+      Kreislaufstörungen und anderen Begleiterscheinungen eingesetzt, und kann
+      sowohl sehr entspannend als auch sehr bewegend sein.
+
+      Es ist eine holistische Technik, die sowohl Selbstwahrnehmung und
+      Körperübungen mit einbezieht als auch theoretisches, anatomisches Wissen
+      und Arbeiten mit einer anderen Person. 
+
+
+      Der Workshop wird alle Teile beinhalten, aber zum größten Teil praktisch
+      sein. Ihr müsst nicht zu zweit kommen, es findet sich für jeden eine/E
+      Partner*in. Zieht euch bequeme Klamotten an, wenn ihr eine Yogamatte habt
+      bringt sie mit.
+
+      Ich freu mich auf Euch, Vanessa
+    end: 2019-05-15T14:30:00.000Z
+    person: Vanessa
+    place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
+    start: 2019-05-15T13:00:00.000Z
+    title: 'Workshop: Shiatsu'
 ---
 
 # MHAW
