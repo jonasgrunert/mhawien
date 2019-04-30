@@ -82,6 +82,18 @@ workshops:
     place: 'Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8'
     start: 2019-05-13T16:30:00.000Z
     title: 'Workshop: Trialog - Gemeinsam für psychische Gesundheit'
+  - count: 20
+    description: >-
+      In diesem Workshop werden die wichtigsten Grundlagen im Zusammenhang mit
+      Sucht vermittelt: Welche Konsumformen und Konsummotive gibt es? Wie kann
+      eine Abhängigkeitserkrankung entstehen und welche Ursachen sind
+      ausschlaggebend? Welche Berufsgruppen beschäftigen sich in besonderer
+      Weise mit Menschen, die unter einer Abhängigkeitserkrankung leiden?
+    end: 2019-05-14T10:00:00.000Z
+    person: Mag. Nadja Springer (Verein Dialog)
+    place: 'Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8'
+    start: 2019-05-14T07:00:00.000Z
+    title: 'Workshop: Sucht Basics'
 ---
 
 # MHAW
