@@ -201,6 +201,13 @@ workshops:
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-16T07:45:00.000Z
     title: 'Workshop: Erfolgreich studieren und psychisch gesund bleiben'
+  - count: 20
+    description: TBA
+    end: 2019-05-16T11:00:00.000Z
+    person: Katja Isele
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
+    start: 2019-05-16T09:30:00.000Z
+    title: 'Workshop: Essstörungen'
 ---
 
 # MHAW
