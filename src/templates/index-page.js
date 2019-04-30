@@ -100,8 +100,8 @@ export class IndexPageTemplate extends React.Component {
                     <Calendar
                       events={events.map((e, i) => ({
                         ...e,
-                        start: moment(e.start),
-                        end: moment(e.end)
+                        start: new Date(e.start),
+                        end: new Date(e.end)
                       }))}
                       localizer={localizer}
                       defaultDate={new Date(2019, 4, 13)}
