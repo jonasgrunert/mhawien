@@ -11,6 +11,7 @@ workshops:
     place: Univesity Vienna
     start: "2019-05-12T22:00:00.000Z"
     title: MHAW Vienna
+    state: na
   - count: 12
     description: >-
       Im Rahmen des Seminars werden wir uns mit dem Thema Sexualität
@@ -23,6 +24,7 @@ workshops:
     place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
     start: 2019-05-13T07:45:00.000Z
     title: "Workshop: Sexualität"
+    state: av
   - count: 20
     description: >-
       Durchs Leben mit einem Dauergrinser gehen? In allem Schlechten etwas Gutes
@@ -35,6 +37,7 @@ workshops:
     place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
     start: 2019-05-13T13:00:00.000Z
     title: "Workshop: Positive Psychologie"
+    state: av
   - count: 25
     description: >-
       Wir, das sind Hannah und Vanessa, studieren in verschiedenen Schwerpunkten
@@ -55,6 +58,7 @@ workshops:
     place: "Hörsaal A, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7"
     start: 2019-05-13T14:45:00.000Z
     title: "Workshop: Psychologische Erste Hilfe"
+    state: av
   - count: 20
     description: >-
       Den TRIALOG gibt es seit 1994 in Wien als ein unabhängiges Gesprächsforum
@@ -83,6 +87,7 @@ workshops:
     place: "Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8"
     start: 2019-05-13T16:30:00.000Z
     title: "Workshop: Trialog - Gemeinsam für psychische Gesundheit"
+    state: av
   - count: 20
     description: >-
       In diesem Workshop werden die wichtigsten Grundlagen im Zusammenhang mit
@@ -95,6 +100,7 @@ workshops:
     place: "Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8"
     start: 2019-05-14T07:00:00.000Z
     title: "Workshop: Sucht Basics"
+    state: av
   - count: 18
     description: >-
       Yoga – was ist das, wozu macht man das und kann ich das auch?
@@ -116,6 +122,7 @@ workshops:
     place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
     start: 2019-05-14T09:30:00.000Z
     title: "Workshop: Yoga"
+    state: av
   - count: 23
     description: >-
       Im Rahmen dieses Workshops erhalten die Teilnehmer*innen einen
@@ -143,6 +150,7 @@ workshops:
     title: >-
       Workshop: Umgang mit Menschen, die psychisch krank oder irgendwie “anders”
       sind
+    state: av
   - count: 20
     description: TBA
     end: 2019-05-15T11:00:00.000Z
@@ -150,6 +158,7 @@ workshops:
     place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
     start: 2019-05-15T09:30:00.000Z
     title: "Workshop: Achtsamkeit"
+    state: av
   - count: 25
     description: >-
       Dieser Workshop richtet sich an alle die gerne etwas über Shiatsu erfahren
@@ -159,7 +168,7 @@ workshops:
       Shiatsu bedeutet in der Übersetzung „Fingerdruck“ und hat seine Ursprünge
       in der Traditionellen Chinesischen Medizin. Wir massieren entlang von 12
       Hauptleitbahnen am Körper welche Meridiane genannt werden. Jeder Meridian
-      ist einem Funktionskreis (Organsystem) zugeordnet. 
+      ist einem Funktionskreis (Organsystem) zugeordnet.
 
       Shiatsu wird unter anderem bei Kopfschmerzen, Verdauungsproblemen,
       Kreislaufstörungen und anderen Begleiterscheinungen eingesetzt, und kann
@@ -167,7 +176,7 @@ workshops:
 
       Es ist eine holistische Technik, die sowohl Selbstwahrnehmung und
       Körperübungen mit einbezieht als auch theoretisches, anatomisches Wissen
-      und Arbeiten mit einer anderen Person. 
+      und Arbeiten mit einer anderen Person.
 
 
       Der Workshop wird alle Teile beinhalten, aber zum größten Teil praktisch
@@ -181,6 +190,7 @@ workshops:
     place: "Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7"
     start: 2019-05-15T13:00:00.000Z
     title: "Workshop: Shiatsu"
+    state: av
   - count: 20
     description: TBA
     end: 2019-05-15T16:15:00.000Z
@@ -188,6 +198,7 @@ workshops:
     place: "Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7"
     start: 2019-05-15T14:45:00.000Z
     title: "Workshop: Grundlagen gewaltfreie Kommunikation"
+    state: av
   - count: 20
     description: TBA
     end: 2019-05-15T18:00:00.000Z
@@ -195,6 +206,7 @@ workshops:
     place: "Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7"
     start: 2019-05-15T16:30:00.000Z
     title: "Workshop: Vertiefung Gewaltfreie Kommunikation"
+    state: av
   - count: 20
     description: TBA
     end: 2019-05-16T09:15:00.000Z
@@ -202,6 +214,7 @@ workshops:
     place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
     start: 2019-05-16T07:45:00.000Z
     title: "Workshop: Erfolgreich studieren und psychisch gesund bleiben"
+    state: av
   - count: 20
     description: TBA
     end: 2019-05-16T11:00:00.000Z
@@ -209,6 +222,7 @@ workshops:
     place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
     start: 2019-05-16T09:30:00.000Z
     title: "Workshop: Essstörungen"
+    state: av
   - count: 20
     description: >-
       TRE® – Tension & Trauma Releasing Exercises ist eine einfach zu erlernende
@@ -246,6 +260,7 @@ workshops:
     place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
     start: 2019-05-16T14:45:00.000Z
     title: "Workshop: TRE® – Tension & Trauma Releasing Exercises"
+    state: av
   - count: 20
     description: >-
       Tanzen hilft! Egal ob allein, in der Gruppe, in den eigenen vier Wänden
@@ -264,6 +279,7 @@ workshops:
     place: "Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8, 1010 Wien"
     start: 2019-05-17T07:45:00.000Z
     title: "Workshop: Man denkt zu viel und tanzt zu wenig"
+    state: av
   - count: 20
     description: >-
       Suizid zählt in Österreich zu den häufigsten Todesursachen bei jungen
@@ -279,6 +295,5 @@ workshops:
     place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
     start: 2019-05-17T13:00:00.000Z
     title: "Workshop: Suizid und Suizidprävention"
+    state: av
 ---
-
-# MHAW

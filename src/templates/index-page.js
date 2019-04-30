@@ -83,6 +83,7 @@ export class IndexPageTemplate extends React.Component {
             person={e.person}
             end={e.end}
             start={e.start}
+            state={e.state}
             close={() =>
               this.setState({
                 shownEvents: this.state.shownEvents.map(() => false)
@@ -103,6 +104,8 @@ export class IndexPageTemplate extends React.Component {
                         start: new Date(e.start),
                         end: new Date(e.end)
                       }))}
+                      min={new Date(2019, 4, 13, 8, 0, 0)}
+                      max={new Date(2019, 4, 13, 21, 0, 0)}
                       localizer={localizer}
                       defaultDate={new Date(2019, 4, 13)}
                       defaultView="work_week"
@@ -177,6 +180,7 @@ export const pageQuery = graphql`
           end
           person
           place
+          state
         }
       }
     }

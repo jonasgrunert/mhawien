@@ -14,36 +14,10 @@ export const Info = ({ end, start, person, description, place }) => (
   </div>
 );
 
-// export const SignUp = ({}) => {
-//   switch(status){
-//     case "av"
-//   }
-// };
-
-const Workshop = ({
-  title,
-  person,
-  place,
-  description,
-  start,
-  end,
-  show,
-  close
-}) => (
-  <div className={`modal ${show ? "is-active" : ""}`}>
-    <div className="modal-background" />
-    <div className="modal-content">
-      <div className="box">
-        <h1 className="is-size-5-mobile is-size-4-tablet is-size-3-widescreen">
-          {title}
-        </h1>
-        <Info
-          end={end}
-          person={person}
-          start={start}
-          description={description}
-          place={place}
-        />
+export const SignUp = ({ title, state }) => {
+  switch (state) {
+    case "av":
+      return (
         <form
           name={title}
           method="post"
@@ -122,6 +96,48 @@ const Workshop = ({
             </div>
           </div>
         </form>
+      );
+    case "fu":
+      return (
+        <div className="notification is-danger">Sorry das Event ist voll</div>
+      );
+    case "na":
+      return (
+        <div className="notification is-primary">
+          Für dieses Event musst du dich nicht anmelden
+        </div>
+      );
+    default:
+      return <p>Keine weiteren Informationen vorhanden</p>;
+  }
+};
+
+const Workshop = ({
+  title,
+  person,
+  place,
+  description,
+  start,
+  end,
+  show,
+  close,
+  state
+}) => (
+  <div className={`modal ${show ? "is-active" : ""}`}>
+    <div className="modal-background" />
+    <div className="modal-content">
+      <div className="box">
+        <h1 className="is-size-5-mobile is-size-4-tablet is-size-3-widescreen">
+          {title}
+        </h1>
+        <Info
+          end={end}
+          person={person}
+          start={start}
+          description={description}
+          place={place}
+        />
+        <SignUp title={title} state={state} />
       </div>
     </div>
     <button

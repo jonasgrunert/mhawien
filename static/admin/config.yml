@@ -33,7 +33,7 @@ collections:
               - { label: Verantwortlicher, name: person, widget: string }
               - { label: Plätze, name: count, widget: number }
               - label: Status
-                name: status
+                name: state
                 widget: select
                 options:
                   - { label: Aktiv, value: av }

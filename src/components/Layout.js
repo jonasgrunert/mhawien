@@ -28,6 +28,10 @@ const TemplateWrapper = ({ children }) => (
             name="description"
             content={data.site.siteMetadata.description}
           />
+          <link
+            href="https://fonts.googleapis.com/css?family=Lato:300"
+            rel="stylesheet"
+          />
           <script
             defer
             src="https://use.fontawesome.com/releases/v5.8.1/js/all.js"
@@ -57,6 +61,11 @@ const TemplateWrapper = ({ children }) => (
           <meta property="og:title" content={data.site.siteMetadata.title} />
           <meta property="og:url" content="/" />
           <meta property="og:image" content="/img/og-image.jpg" />
+          <style>
+            {
+              "body {font-family: 'Lato', sans-serif !important;}.rbc-btn-group{display: none;}"
+            }
+          </style>
         </Helmet>
         <Navbar />
         <div>{children}</div>

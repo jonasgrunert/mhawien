@@ -25,18 +25,28 @@ class WorkshopsPage extends React.Component {
                   </h1>
                 </div>
                 <div className="column">
-                  <button
-                    className="button is-primary is-pulled-right"
-                    onClick={() =>
-                      this.setState({
-                        shownEvents: this.props.data.markdownRemark.frontmatter.workshops.map(
-                          ev => ev.title === e.title
-                        )
-                      })
-                    }
-                  >
-                    Sign Up
-                  </button>
+                  {e.state === "av" && (
+                    <button
+                      className="button is-primary is-pulled-right"
+                      onClick={() =>
+                        this.setState({
+                          shownEvents: this.props.data.markdownRemark.frontmatter.workshops.map(
+                            ev => ev.title === e.title
+                          )
+                        })
+                      }
+                    >
+                      Anmelden
+                    </button>
+                  )}
+                  {e.state === "fu" && (
+                    <div className="button is-danger is-pulled-right">Voll</div>
+                  )}
+                  {e.state === "na" && (
+                    <div className="button is-success is-pulled-right">
+                      Ohne Anmeldung
+                    </div>
+                  )}
                 </div>
               </div>
               <Info
@@ -54,6 +64,7 @@ class WorkshopsPage extends React.Component {
                 person={e.person}
                 end={e.end}
                 start={e.start}
+                state={e.state}
                 close={() =>
                   this.setState({
                     shownEvents: this.state.shownEvents.map(() => false)
@@ -81,6 +92,7 @@ export const pageQuery = graphql`
           end
           person
           place
+          state
         }
       }
     }
