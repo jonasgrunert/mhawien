@@ -8,6 +8,7 @@ import Layout from "../components/Layout";
 import "react-big-calendar/lib/css/react-big-calendar.css";
 import { HTMLContent } from "../components/Content";
 import TitleImage from "../img/Titelbild MHAW 2019.jpg";
+import Workshop from "../components/workshop";
 
 moment.locale("de");
 const localizer = Calendar.momentLocalizer(moment);
@@ -74,115 +75,20 @@ export class IndexPageTemplate extends React.Component {
           </div>
         </div>
         {events.map((e, i) => (
-          <div
-            className={`modal ${this.state.shownEvents[i] ? "is-active" : ""}`}
-          >
-            <div className="modal-background" />
-            <div className="modal-content">
-              <div className="box">
-                <h1 className="is-size-5-mobile is-size-4-tablet is-size-3-widescreen">
-                  {e.title}
-                </h1>
-                <div className="columns">
-                  <div className="column">
-                    {e.description}
-                    <br />
-                    Vernatwortlicher: {e.person}
-                  </div>
-                  <div className="column">
-                    Von <b>{new Date(e.start).toLocaleString()}</b> bis{" "}
-                    <b>{new Date(e.end).toLocaleString()}</b> in{" "}
-                    <b>{e.place}</b>
-                  </div>
-                </div>
-                <form
-                  name={e.title}
-                  method="post"
-                  data-netlify
-                  data-netlify-honeypot="gender"
-                  action="/success"
-                >
-                  <input type="hidden" name="form-name" value={e.title} />
-                  <input type="hidden" name="workshop " value={e.title} />
-                  <div className="field is-horizontal">
-                    <div className="field-label is-normal">
-                      <label class="label">Name</label>
-                    </div>
-                    <div className="field-body">
-                      <div className="field">
-                        <p className="control has-icons-left">
-                          <input
-                            type="text"
-                            className="input"
-                            placeholder="Vorname"
-                            name="firstname"
-                            required
-                          />
-                          <span className="icon is-small is-left">
-                            <i className="fas fa-user" />
-                          </span>
-                        </p>
-                      </div>
-                      <div className="field">
-                        <p className="control has-icons-left">
-                          <input
-                            type="text"
-                            className="input"
-                            placeholder="Nachname"
-                            name="lastname"
-                            required
-                          />
-                          <span className="icon is-small is-left">
-                            <i className="fas fa-user" />
-                          </span>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="field is-horizontal">
-                    <div className="field-label is-normal">
-                      <label class="label">E-Mail</label>
-                    </div>
-                    <div className="field-body">
-                      <div className="field">
-                        <p className="control has-icons-left">
-                          <input
-                            type="email"
-                            className="input"
-                            placeholder="E-Mail"
-                            name="email"
-                          />
-                          <span className="icon is-small is-left">
-                            <i className="fas fa-envelope" />
-                          </span>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <input style={{ display: "none" }} name="gender" />
-                  <div className="field is-horizontal">
-                    <div className="field-label is-normal" />
-                    <div className="field-body">
-                      <div className="field">
-                        <div className="control">
-                          <button class="button is-primary" type="submit">
-                            Anmelden
-                          </button>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-            <button
-              className="modal-close is-large"
-              aria-label="close"
-              onClick={() =>
-                this.setState({ shownEvents: events.map(() => false) })
-              }
-            />
-          </div>
+          <Workshop
+            title={e.title}
+            show={this.state.shownEvents[i]}
+            description={e.description}
+            place={e.place}
+            person={e.person}
+            end={e.end}
+            start={e.start}
+            close={() =>
+              this.setState({
+                shownEvents: this.state.shownEvents.map(() => false)
+              })
+            }
+          />
         ))}
         <section className="section section--gradient">
           <div className="container">
@@ -194,8 +100,8 @@ export class IndexPageTemplate extends React.Component {
                     <Calendar
                       events={events.map((e, i) => ({
                         ...e,
-                        start: new Date(e.start),
-                        end: new Date(e.end)
+                        start: moment(e.start),
+                        end: moment(e.end)
                       }))}
                       localizer={localizer}
                       defaultDate={new Date(2019, 4, 13)}
