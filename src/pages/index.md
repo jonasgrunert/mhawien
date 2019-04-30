@@ -208,6 +208,43 @@ workshops:
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-16T09:30:00.000Z
     title: 'Workshop: Essstörungen'
+  - count: 20
+    description: >-
+      TRE® – Tension & Trauma Releasing Exercises ist eine einfach zu erlernende
+      Abfolge von körperlichen Übungen, die es Körper und Psyche ermöglicht, zu
+      einem natürlichen Gleichgewicht zurückzukehren. Auf die Durchführung von
+      speziellen Übungen reagiert der Körper mit Zittern, welches als
+      Lösungsmechanismus für Stress und Trauma verstanden wird.
+
+
+      Die von Dr. David Berceli entwickelte TRE®-Übungsserie zielt auf die dem
+      Organismus innewohnenden Lösungsmöglichkeiten muskulärer Verspannungen ab,
+      die in Stress und jeglicher Form von Trauma eine zentrale Rolle spielen.
+      Die Übungen rufen ein autonomes neurogenes Zittern hervor, das eine tief
+      entspannende Wirkung auf den Körper haben kann. 
+
+
+      TRE® ist grundsätzlich für jeden geeignet, Schwangere sind von der
+      Teilnahme an diesem Workshop jedoch ausgeschlossen.
+
+
+      Der Workshop dauert inklusive einer kurzen theoretischen Einführung ca.
+      1,5 Stunden. Bitte in gemütlicher (Sport-)Kleidung kommen und eine
+      Yogamatte mitbringen!
+
+
+      Weitere Infos auf:
+
+      https://traumaprevention.com/
+
+      https://www.facebook.com/TreDeutschland
+
+      https://www.facebook.com/treaustria/
+    end: 2019-05-16T16:15:00.000Z
+    person: Anne
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
+    start: 2019-05-16T14:45:00.000Z
+    title: 'Workshop: TRE® – Tension & Trauma Releasing Exercises'
 ---
 
 # MHAW
