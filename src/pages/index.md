@@ -245,6 +245,24 @@ workshops:
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-16T14:45:00.000Z
     title: 'Workshop: TRE® – Tension & Trauma Releasing Exercises'
+  - count: 20
+    description: >-
+      Tanzen hilft! Egal ob allein, in der Gruppe, in den eigenen vier Wänden
+      oder im Club – Tanzen ist ein Ventil, ist unmittelbarer Gefühlsausdruck,
+      ist in-Kontakt-treten mit sich selbst und/oder mit anderen. 
+
+
+      Dieser Workshop richtet sich an alle, die gerne mal ihren Kopf
+      „ausschalten“ wollen, und ihre Aufmerksamkeit allen Sinnen und der
+      gemeinsamen Bewegung schenken möchten.
+
+      Getanzt wird in bequemer Kleidung, barfuß/in Socken, und teilweise mit
+      geschlossenen Augen.
+    end: 2019-05-17T09:15:00.000Z
+    person: TBA
+    place: 'Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8, 1010 Wien'
+    start: 2019-05-17T07:45:00.000Z
+    title: 'Workshop: Man denkt zu viel und tanzt zu wenig'
 ---
 
 # MHAW
