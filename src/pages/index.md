@@ -22,6 +22,18 @@ workshops:
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-13T07:45:00.000Z
     title: 'Workshop: Sexualität'
+  - count: 20
+    description: >-
+      Durchs Leben mit einem Dauergrinser gehen? In allem Schlechten etwas Gutes
+      finden? Nie wieder traurig sein? Ist das worum es bei positiver
+      Psychologie (PP) geht? Wer es genau wissen will, sollte sich diesen
+      Workshop nicht entgehen lassen. Außerdem bekommen die Teilnehmer die
+      Möglichkeit anhand praktischer Beispiele PP selbst auszuprobieren. 
+    end: 2019-05-13T14:30:00.000Z
+    person: Anna Carnogursky
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
+    start: 2019-05-13T13:00:00.000Z
+    title: 'Workshop: Positive Psychologie'
 ---
 
 # MHAW
