@@ -2,16 +2,15 @@
 templateKey: index-page
 title: Mental Health Awareness Week 2019
 subtitle: Eine Woche für die Seele
-path: /
 workshops:
   - count: 100
     description: Mental Helath Awareness Week Vienna
-    end: "2019-05-17T22:00:00.000Z"
+    end: '2019-05-17T22:00:00.000Z'
     person: Organisations Team
     place: Univesity Vienna
-    start: "2019-05-12T22:00:00.000Z"
-    title: MHAW Vienna
+    start: '2019-05-12T22:00:00.000Z'
     state: na
+    title: MHAW Vienna
   - count: 12
     description: >-
       Im Rahmen des Seminars werden wir uns mit dem Thema Sexualität
@@ -21,10 +20,10 @@ workshops:
       Reflexion über den eigenen Umgang mit Sexualität eine Rolle spielen.
     end: 2019-05-13T09:15:00.000Z
     person: Hanna Mües
-    place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-13T07:45:00.000Z
-    title: "Workshop: Sexualität"
     state: av
+    title: 'Workshop: Sexualität'
   - count: 20
     description: >-
       Durchs Leben mit einem Dauergrinser gehen? In allem Schlechten etwas Gutes
@@ -34,10 +33,10 @@ workshops:
       Möglichkeit anhand praktischer Beispiele PP selbst auszuprobieren.
     end: 2019-05-13T14:30:00.000Z
     person: Anna Carnogursky
-    place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-13T13:00:00.000Z
-    title: "Workshop: Positive Psychologie"
     state: av
+    title: 'Workshop: Positive Psychologie'
   - count: 25
     description: >-
       Wir, das sind Hannah und Vanessa, studieren in verschiedenen Schwerpunkten
@@ -55,10 +54,10 @@ workshops:
       freuen uns auf den Austausch und über jede/n die/der kommt.
     end: 2019-05-13T16:15:00.000Z
     person: Hannah und Vanessa
-    place: "Hörsaal A, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7"
+    place: 'Hörsaal A, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-13T14:45:00.000Z
-    title: "Workshop: Psychologische Erste Hilfe"
     state: av
+    title: 'Workshop: Psychologische Erste Hilfe'
   - count: 20
     description: >-
       Den TRIALOG gibt es seit 1994 in Wien als ein unabhängiges Gesprächsforum
@@ -83,11 +82,11 @@ workshops:
       Bei diesem Trialog soll über “Gemeinsam für psychische Gesundheit”
       gesprochen werden.
     end: 2019-05-13T18:00:00.000Z
-    person: "Ingrid Machold, Dr.in Michaela Amering"
-    place: "Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8"
+    person: 'Ingrid Machold, Dr.in Michaela Amering'
+    place: 'Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8'
     start: 2019-05-13T16:30:00.000Z
-    title: "Workshop: Trialog - Gemeinsam für psychische Gesundheit"
     state: av
+    title: 'Workshop: Trialog - Gemeinsam für psychische Gesundheit'
   - count: 20
     description: >-
       In diesem Workshop werden die wichtigsten Grundlagen im Zusammenhang mit
@@ -97,10 +96,10 @@ workshops:
       Weise mit Menschen, die unter einer Abhängigkeitserkrankung leiden?
     end: 2019-05-14T10:00:00.000Z
     person: Mag. Nadja Springer (Verein Dialog)
-    place: "Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8"
+    place: 'Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8'
     start: 2019-05-14T07:00:00.000Z
-    title: "Workshop: Sucht Basics"
     state: av
+    title: 'Workshop: Sucht Basics'
   - count: 18
     description: >-
       Yoga – was ist das, wozu macht man das und kann ich das auch?
@@ -119,10 +118,10 @@ workshops:
       geschnuppert werden.
     end: 2019-05-14T12:45:00.000Z
     person: Sarah
-    place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-14T09:30:00.000Z
-    title: "Workshop: Yoga"
     state: av
+    title: 'Workshop: Yoga'
   - count: 23
     description: >-
       Im Rahmen dieses Workshops erhalten die Teilnehmer*innen einen
@@ -145,20 +144,20 @@ workshops:
       - Kommunikationsstrategien (Dos and Don’ts inklusive Rollenspiele)
     end: 2019-05-14T16:15:00.000Z
     person: Dr. Elisabeth Ponocny-Seliger
-    place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-14T14:45:00.000Z
+    state: av
     title: >-
       Workshop: Umgang mit Menschen, die psychisch krank oder irgendwie “anders”
       sind
-    state: av
   - count: 20
     description: TBA
     end: 2019-05-15T11:00:00.000Z
     person: Frau Milojevic
-    place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-15T09:30:00.000Z
-    title: "Workshop: Achtsamkeit"
     state: av
+    title: 'Workshop: Achtsamkeit'
   - count: 25
     description: >-
       Dieser Workshop richtet sich an alle die gerne etwas über Shiatsu erfahren
@@ -187,42 +186,49 @@ workshops:
       Ich freu mich auf Euch, Vanessa
     end: 2019-05-15T14:30:00.000Z
     person: Vanessa
-    place: "Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7"
+    place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T13:00:00.000Z
-    title: "Workshop: Shiatsu"
     state: av
+    title: 'Workshop: Shiatsu'
   - count: 20
     description: TBA
     end: 2019-05-15T16:15:00.000Z
     person: Kersten Kloser-Pitcher
-    place: "Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7"
+    place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T14:45:00.000Z
-    title: "Workshop: Grundlagen gewaltfreie Kommunikation"
     state: av
+    title: 'Workshop: Grundlagen gewaltfreie Kommunikation'
   - count: 20
     description: TBA
     end: 2019-05-15T18:00:00.000Z
     person: Kersten Kloser-Pitcher
-    place: "Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7"
+    place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T16:30:00.000Z
-    title: "Workshop: Vertiefung Gewaltfreie Kommunikation"
     state: av
+    title: 'Workshop: Vertiefung Gewaltfreie Kommunikation'
   - count: 20
     description: TBA
     end: 2019-05-16T09:15:00.000Z
     person: Dr. Pal-Handl
-    place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-16T07:45:00.000Z
-    title: "Workshop: Erfolgreich studieren und psychisch gesund bleiben"
     state: av
+    title: 'Workshop: Erfolgreich studieren und psychisch gesund bleiben'
   - count: 20
-    description: TBA
+    description: |-
+      Im Workshop sollen zwei Themenbereiche angesprochen werden.
+      Beginnend mit der Thematisierung des derzeitigen Schönheitsideals:
+      Was bedeutet für den Einzelnen Schönheit und inwiefern spielen
+      Instagram, Twitter und Co dabei eine Rolle.
+
+      Des Weiteren soll der Workshop einen Einblick in den Therapiealltag bei
+      Essstörungen geben.
     end: 2019-05-16T11:00:00.000Z
     person: Katja Isele
-    place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-16T09:30:00.000Z
-    title: "Workshop: Essstörungen"
     state: av
+    title: 'Workshop: Essstörungen'
   - count: 20
     description: >-
       TRE® – Tension & Trauma Releasing Exercises ist eine einfach zu erlernende
@@ -257,10 +263,10 @@ workshops:
       https://www.facebook.com/treaustria/
     end: 2019-05-16T16:15:00.000Z
     person: Anne
-    place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-16T14:45:00.000Z
-    title: "Workshop: TRE® – Tension & Trauma Releasing Exercises"
     state: av
+    title: 'Workshop: TRE® – Tension & Trauma Releasing Exercises'
   - count: 20
     description: >-
       Tanzen hilft! Egal ob allein, in der Gruppe, in den eigenen vier Wänden
@@ -276,10 +282,10 @@ workshops:
       geschlossenen Augen.
     end: 2019-05-17T09:15:00.000Z
     person: TBA
-    place: "Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8, 1010 Wien"
+    place: 'Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8, 1010 Wien'
     start: 2019-05-17T07:45:00.000Z
-    title: "Workshop: Man denkt zu viel und tanzt zu wenig"
     state: av
+    title: 'Workshop: Man denkt zu viel und tanzt zu wenig'
   - count: 20
     description: >-
       Suizid zählt in Österreich zu den häufigsten Todesursachen bei jungen
@@ -291,9 +297,10 @@ workshops:
       Suizid vermittelt, weit verbreitete Mythen über Suizidalität aufgeklärt
       und mögliche Ansätze zur Suizidprävention beleuchtet.
     end: 2019-05-17T14:30:00.000Z
-    person: "Dr. Benedikt Till, Mag. Marlies Braun"
-    place: "Hörsaal H, Fakultät für Psychologie, Liebiggasse 5"
+    person: 'Dr. Benedikt Till, Mag. Marlies Braun'
+    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-17T13:00:00.000Z
-    title: "Workshop: Suizid und Suizidprävention"
     state: av
+    title: 'Workshop: Suizid und Suizidprävention'
 ---
+MHAW
