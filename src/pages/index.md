@@ -156,7 +156,7 @@ workshops:
     person: Frau Milojevic
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-15T09:30:00.000Z
-    state: av
+    state: fu
     title: 'Workshop: Achtsamkeit'
   - count: 25
     description: >-
@@ -188,7 +188,7 @@ workshops:
     person: Vanessa
     place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T13:00:00.000Z
-    state: av
+    state: na
     title: 'Workshop: Shiatsu'
   - count: 20
     description: TBA
