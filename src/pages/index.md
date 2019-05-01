@@ -100,7 +100,7 @@ workshops:
     start: 2019-05-14T07:00:00.000Z
     state: av
     title: 'Workshop: Sucht Basics'
-  - count: 18
+  - count: 14
     description: >-
       Yoga – was ist das, wozu macht man das und kann ich das auch?
 
