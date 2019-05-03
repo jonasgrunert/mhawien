@@ -302,5 +302,40 @@ workshops:
     start: 2019-05-17T13:00:00.000Z
     state: av
     title: 'Workshop: Suizid und Suizidprävention'
+  - count: 100
+    description: >-
+      Angst, na und?
+
+
+      Wir alle haben sie. Wir alle brauchen sie. Angst.
+
+
+      Was genau bedeutet das? Und was tut Sie mit uns?
+
+
+      Was passiert, wenn die Angst unser Leben übernimmt/bestimmt?
+
+
+      Im Rahmen der Mental Health Awareness Week wird der Uni Management Club
+      gemeinsam mit Dr.Psota diesen Fragen auf den Grund gehen.
+
+
+      Dr. Psota, Chefarzt der Psychiatrie und Neurologie, Autor, Geschäftsführer
+      der Psychosozialen Dienste Wien und Obmann von pro mente Wien, wird sein
+      ausgiebiges Wissen zum Thema Angst mit uns teilen.
+
+
+      Im Anschluss wird zu einer regen Diskussionsrunde eingeladen.
+
+
+      Bitte über das Formular auf der Seite des Uni Management Clubs anmelden:
+
+      http://wien.unimc.at/events/mental-health-awareness-week/
+    end: 2019-05-13T20:00:00.000Z
+    person: Uni Management Club
+    place: 'Kärtner Straße 8, 1010 Wien'
+    start: 2019-05-13T16:30:00.000Z
+    state: av
+    title: Uni Management Club goes MHAW
 ---
 MHAW
