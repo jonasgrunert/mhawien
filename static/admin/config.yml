@@ -19,12 +19,7 @@ collections:
               widget: "hidden",
               default: "index-page",
             }
-          - {
-              label: "Path",
-              name: "path",
-              widget: "hidden",
-              default: "/"  
-            }
+          - { label: "Path", name: "path", widget: "hidden", default: "/" }
           - { label: Title, name: title, widget: string }
           - { label: Subtitle, name: subtitle, widget: string }
           - label: Workshops
@@ -45,6 +40,7 @@ collections:
                   - { label: Aktiv, value: av }
                   - { label: Voll, value: fu }
                   - { label: Keine Anmeldung nötig, value: na }
+                  - { label: Anderes, value: aa }
           - { label: "Body", name: "body", widget: "markdown" }
       - file: "src/pages/info/index.md"
         label: "Weitere Informationen"
@@ -56,12 +52,7 @@ collections:
               widget: "hidden",
               default: "about-page",
             }
-          - {
-              label: "Path",
-              name: "path",
-              widget: "hidden",
-              default: "info"  
-            }
+          - { label: "Path", name: "path", widget: "hidden", default: "info" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - file: "src/pages/about/index.md"
@@ -74,12 +65,7 @@ collections:
               widget: "hidden",
               default: "about-page",
             }
-          - {
-              label: "Path",
-              name: "path",
-              widget: "hidden",
-              default: "about"  
-            }
+          - { label: "Path", name: "path", widget: "hidden", default: "about" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - file: "src/pages/impressum/index.md"
@@ -96,7 +82,7 @@ collections:
               label: "Path",
               name: "path",
               widget: "hidden",
-              default: "impressum"  
+              default: "impressum",
             }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
