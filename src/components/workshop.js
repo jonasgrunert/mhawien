@@ -124,7 +124,7 @@ const Workshop = ({
   state
 }) => (
   <div className={`modal ${show ? "is-active" : ""}`}>
-    <div className="modal-background" />
+    <div className="modal-background" onClick={close} />
     <div className="modal-content">
       <div className="box">
         <h1 className="is-size-5-mobile is-size-4-tablet is-size-3-widescreen">
