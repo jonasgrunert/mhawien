@@ -67,7 +67,7 @@ const Navbar = class extends React.Component {
                 className="navbar-item"
                 href="https://www.facebook.com/mhaw.vienna/"
               >
-                Blog
+                Facebook Blog
               </a>
               <Link className="navbar-item" to="/impressum">
                 Impressum

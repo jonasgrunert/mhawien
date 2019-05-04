@@ -25,7 +25,7 @@ export class IndexPageTemplate extends React.Component {
         <div
           className="full-width-image margin-top-0"
           style={{
-            backgroundColor: "#46f1a2",
+            backgroundColor: "#64A39B",
             flexDirection: "column",
             backgroundImage: `url("${TitleImage}")`,
             backgroundPosition: "top"
