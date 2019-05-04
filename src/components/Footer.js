@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 
-import logo from "../img/MHAW_2019_LOGO.jpg";
+import logo from "../img/MHAW_2019_LOGO.png";
 import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
 import twitter from "../img/social/twitter.svg";
@@ -14,7 +14,7 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <img
             src={logo}
-            alt="Kaldi"
+            alt="MHAW"
             style={{ width: "14em", height: "14em" }}
           />
         </div>
@@ -27,6 +27,11 @@ const Footer = class extends React.Component {
                     <li>
                       <Link to="/" className="navbar-item has-text-black">
                         Home
+                      </Link>
+                    </li>
+                    <li>
+                      <Link className="navbar-item has-text-black" to="/about">
+                        Über uns
                       </Link>
                     </li>
                     <li>

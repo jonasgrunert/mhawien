@@ -1,5 +1,5 @@
 ---
 templateKey: about-page
-path: /impressum
+path: "impressum"
 title: Impressum
 ---

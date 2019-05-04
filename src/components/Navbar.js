@@ -1,7 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import github from "../img/github-icon.svg";
-import logo from "../img/MHAW_2019_LOGO.jpg";
+import logo from "../img/MHAW_2019_LOGO.png";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -69,8 +69,8 @@ const Navbar = class extends React.Component {
               >
                 Facebook Blog
               </a>
-              <Link className="navbar-item" to="/impressum">
-                Impressum
+              <Link className="navbar-item" to="/about">
+                Über uns
               </Link>
               <Link className="navbar-item" to="/info">
                 Weitere Informationen
