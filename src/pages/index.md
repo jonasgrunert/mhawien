@@ -152,12 +152,19 @@ workshops:
       Workshop: Umgang mit Menschen, die psychisch krank oder irgendwie “anders”
       sind
   - count: 20
-    description: TBA
+    description: >-
+      Die Kultivierung von Achtsamkeit und Selbstmitgefühl wirkt wie ein
+      mentales Training zur Stärkung der psychischen Widerstandsfähigkeit. Wir
+      bauen dabei emotionale Ressourcen auf, die uns helfen, die
+      Herausforderungen des stressigen Alltags gelassener bewältigen zu können.
+      Nach kurzen Theorieinputs wird in diesem Workshop vor allem die
+      stabilisierende und beruhigende Wirkung von Achtsamkeit und
+      Selbstmitgefühl durch konkrete Übungen direkt erfahrbar gemacht.
     end: 2019-05-15T11:00:00.000Z
     person: Frau Milojevic
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-15T09:30:00.000Z
-    state: fu
+    state: av
     title: 'Workshop: Achtsamkeit'
   - count: 25
     description: >-
