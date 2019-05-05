@@ -546,5 +546,32 @@ workshops:
     start: 2019-05-17T09:30:00.000Z
     state: na
     title: 'Vortrag: Diagnosen und Klassifikation psychischer Störungen'
+  - count: 120
+    description: >-
+      Triggerwarnung:
+
+      Im Film werden Themen wie Vergewaltigung, FGM und andere Formen von
+      körperlicher Gewalt aufgegriffen und könnten Erinnerungen an eigene
+      Erfahrungen hervorrufen.  
+
+
+      In ihrem Dokumentarfilm #FEMALEPLEASURE widmet sich Regisseurin Barbara
+      Miller fünf jungen Frauen, die jeweils einer der fünf Weltreligionen
+      angehören und eine Sache gemeinsam haben: Deborah Feldman, Leyla Hussein,
+      Rokudenashiko, Doris Wagner und Vithika Yadav kämpfen gegen die
+      Dämonisierung der weiblichen Sexualität und setzen sich für Aufklärung und
+      sexuelle Selbstbestimmung aller Frauen ein. Aufgrund ihres Engagements
+      sehen sich die fünf Frauen in ihrer Gesellschaft oder ihrer religiösen
+      Gemeinschaft Diffamierung, Verfolgung und sogar Todesdrohungen ausgesetzt.
+
+
+      Anschließend findet eine Diskussion zu den Themen weibliche Sexualität und
+      psychische Gesundheit mit Fokus auf feministisches Empowerment statt.
+    end: 2019-05-17T19:30:00.000Z
+    person: Organisations Team
+    place: 'Hörsaal 2, Neues Institutsgebäude (Erdgeschoss), Universitätsstraße 7'
+    start: 2019-05-17T16:30:00.000Z
+    state: na
+    title: 'Film: #Female Pleasure'
 ---
  
