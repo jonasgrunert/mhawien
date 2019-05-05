@@ -95,12 +95,9 @@ workshops:
 
       Wir alle haben sie. Wir alle brauchen sie. Angst.
 
-
       Was genau bedeutet das? Und was tut Sie mit uns?
 
-
       Was passiert, wenn die Angst unser Leben übernimmt/bestimmt?
-
 
       Im Rahmen der Mental Health Awareness Week wird der Uni Management Club
       gemeinsam mit Dr.Psota diesen Fragen auf den Grund gehen.
@@ -109,7 +106,6 @@ workshops:
       Dr. Psota, Chefarzt der Psychiatrie und Neurologie, Autor, Geschäftsführer
       der Psychosozialen Dienste Wien und Obmann von pro mente Wien, wird sein
       ausgiebiges Wissen zum Thema Angst mit uns teilen.
-
 
       Im Anschluss wird zu einer regen Diskussionsrunde eingeladen.
 
