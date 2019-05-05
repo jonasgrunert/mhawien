@@ -29,13 +29,14 @@ export class IndexPageTemplate extends React.Component {
             flexDirection: "column",
             backgroundImage: `url("${TitleImage}")`,
             backgroundPosition: "top",
-            height: "600px"
+            height: "600px",
+            paddingTop: "100px",
+            justifyContent: "flex-start"
           }}
         >
           <div
             style={{
               display: "flex",
-              height: "750px",
               lineHeight: "1",
               justifyContent: "space-around",
               alignItems: "left",
@@ -56,7 +57,6 @@ export class IndexPageTemplate extends React.Component {
           <div
             style={{
               display: "flex",
-              height: "150px",
               lineHeight: "1",
               justifyContent: "space-around",
               alignItems: "left",
