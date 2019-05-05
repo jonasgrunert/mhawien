@@ -196,32 +196,57 @@ workshops:
     person: Vanessa
     place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T13:00:00.000Z
-    state: na
+    state: av
     title: 'Workshop: Shiatsu'
-  - count: 20
-    description: TBA
+  - count: 25
+    description: >-
+      Resilienz durch Bedürfnisbewusstein
+
+      Gewaltfreie Kommunikation im Fokus
+
+
+      Die Verbindung und Bewusstwerdung unserer Bedürfnisse ist ein direkter
+      Draht zu mehr Resilienz im Alltag, was sich unmittelbar auf die Beziehung
+      mit uns selbst, unserem Umfeld und somit auf unsere Lebensqualität
+      auswirkt. Wie wir diesen Weg freilegen und bewusst gehen können, dahin
+      leitet uns das Modell der Gewaltfreien Kommunikation mit sehr
+      nachvollziehbaren Komponenten. Dieser Workshop mit drei erfahrenen
+      GFK-TrainerInnen plant eine Balance aus Input, Selbsterfahrung und Q&A.
     end: 2019-05-15T16:15:00.000Z
-    person: Kersten Kloser-Pitcher
+    person: 'Kersten Kloser-Pitcher, Cori Liebhart, Paula Rossi'
     place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T14:45:00.000Z
     state: av
     title: 'Workshop: Grundlagen gewaltfreie Kommunikation'
-  - count: 20
-    description: TBA
+  - count: 25
+    description: >-
+      Ressourcenaufbau durch Selbstempathie
+
+      Gewaltfreie Kommunikation im Fokus
+
+
+
+      Sich selbst mit Freundlichkeit und Empathie zu begegnen scheint vielen von
+      uns egoistisch, letztrangig und vor allem optional. Dieser Workshop
+      schlägt vor, Selbstempathie in unserem Alltag zu kultivieren und zeigt die
+      enorme Macht der Empathie, was sich direkt auf Ressourcenaufbau und
+      Resilienzfähigkeit auswirkt. Dadurch können wir nicht nur für uns, sondern
+      vor allem auch für unsere Umwelt in einer ganz anderen Qualität da sein
+      und einen tiefgründigeren Beitrag leisten. 
     end: 2019-05-15T18:00:00.000Z
-    person: Kersten Kloser-Pitcher
+    person: 'Kersten Kloser-Pitcher, Cori Liebhart, Paula Rossi'
     place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T16:30:00.000Z
     state: av
     title: 'Workshop: Vertiefung Gewaltfreie Kommunikation'
   - count: 20
-    description: TBA
+    description: Dieser Workshop ist leider ABGESAGT!
     end: 2019-05-16T09:15:00.000Z
-    person: Dr. Pal-Handl
-    place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
+    person: '-'
+    place: '-'
     start: 2019-05-16T07:45:00.000Z
-    state: av
-    title: 'Workshop: Erfolgreich studieren und psychisch gesund bleiben'
+    state: na
+    title: 'ABGESAGT - Workshop: Erfolgreich studieren und psychisch gesund bleiben'
   - count: 20
     description: |-
       Im Workshop sollen zwei Themenbereiche angesprochen werden.
