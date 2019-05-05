@@ -466,5 +466,26 @@ workshops:
     start: 2019-05-15T11:15:00.000Z
     state: na
     title: 'Vortrag: Trans- und Intersexualität'
+  - count: 80
+    description: >-
+      Die seelische  Gesundheit von Menschen mit intellektuellen
+      Entwicklungsstörungen ist sowohl in Forschung, Lehre als auch Praxis ein
+      häufig selten berührtes Feld. 
+
+
+      Im Beitrag werden Herausforderungen aus den drei Handlungsebenen
+      analysiert. Neben der Präsentation von ausgewählten neueren Beiträgen aus
+      der Forschung, werden Strategien zur Optimierung der seelischen
+      Gesundheitsversorgung für diese vulnerable Gruppe aufgezeigt.
+    end: 2019-05-16T12:45:00.000Z
+    person: Dr. Germain Weber
+    place: >-
+      Hörsaal 32, Hauptgebäude Uni Wien, Stiege 9, 1. Stock; Universitätsring 1,
+      1010 Wien
+    start: 2019-05-16T11:15:00.000Z
+    state: na
+    title: >-
+      Vortrag: Psychische Gesundheit bei Menschen mit intellektueller
+      Beeinträchtigung
 ---
  
