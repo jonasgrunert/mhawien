@@ -512,5 +512,39 @@ workshops:
     start: 2019-05-17T07:45:00.000Z
     state: na
     title: 'Vortrag: Psychische Erkrankungen'
+  - count: 85
+    description: >-
+      Diagnosen und Klassifikation psychischer Störungen - Was ist das und wofür
+      brauchen wir sie?
+
+
+      Für die psychische Gesundheit spielen Diagnosen eine untergeordnete Rolle,
+      denn psychische Gesundheit definiert sich spätestens seit der Gründung der
+      WHO als eigenständiges Phänomen. Diagnosen sind aber für die Beschreibung
+      und die Einteilung von Krankheiten, in unserem Fall von psychischen,
+      zentral. Doch was sind Diagnosen und wofür brauchen wir sie? Brauchen wir
+      sie überhaupt oder kann/soll man darauf verzichten und was machen Sie mit
+      denen, denen Sie gegeben werden? 
+
+
+      Der Vortrag geht auf diese Themen ein und erklärt zunächst, was man unter
+      einer "Diagnose" versteht und welchen Sinn und Nutzen sie haben kann,
+      ebenso wie darauf, wie Diagnosen in so genannten
+      Diagnose-/Klassifikationssystemen gesammelt und geordnet werden und welche
+      es gibt. 
+
+      Im zweiten Teil wird darauf eingegangen, was eine Diagnose mit den
+      Menschen machen kann, die eine solche bekommen - es gibt positive und
+      negative Effekte. Diese werden beispielhaft herausgearbeitet. Auch wird
+      darüber reflektiert, ob Diagnosen für die Klinische Psychologie und
+      Psychotherapie wichtig sind, oder ob man nicht darauf verzichten soll. In
+      diesem Zusammenhang wird auch auf verschiedene Theorien und Ansätze
+      eingegangen, die deren Bedeutung hinterfragen. 
+    end: 2019-05-17T11:00:00.000Z
+    person: Dr. Anton - Rupert Laireiter
+    place: 'Hörsaal A, Neues Institutsgebäude (6.Stock), Universitätsstraße 7'
+    start: 2019-05-17T09:30:00.000Z
+    state: na
+    title: 'Vortrag: Diagnosen und Klassifikation psychischer Störungen'
 ---
  
