@@ -438,9 +438,33 @@ workshops:
       werden…
     end: 2019-05-15T09:15:00.000Z
     person: Mag.a  Rahel Jahoda
-    place: 'Hörsaal A, Hörsaalzentrum Psychologie, Universitätsstraße 7, 1010 Wien'
+    place: 'Hörsaal A, Neues Institutsgebäude (6.Stock), Universitätsstraße 7'
     start: 2019-05-15T07:45:00.000Z
     state: na
     title: 'Vortrag: Essstörungen'
+  - count: 85
+    description: >-
+      In diesem Vortrag geht es um die Fragen:
+
+      - Was sind Geschlechtsidentitäten?
+
+      - Was sind Unterschiede zwischen Travestie, Transvestitismus und
+      Transgender?
+
+      - Welche Behandlungsmöglichkeiten gibt es für Transgender-Personen?
+
+      - Wie „wechseln“ Transgender-Personen ihr Geschlecht, auch rechtlich?
+
+      - Wie viele Geschlechter gibt es?
+
+      - Was ist Intergeschlechtlichkeit?
+
+      - Vorurteile und spezifische Formen von Diskriminierung
+    end: 2019-05-15T12:45:00.000Z
+    person: Mag. Wolfgang Wilhelm
+    place: 'Hörsaal A, Neues Institutsgebäude (6.Stock), Universitätsstraße 7'
+    start: 2019-05-15T11:15:00.000Z
+    state: na
+    title: 'Vortrag: Trans- und Intersexualität'
 ---
  
