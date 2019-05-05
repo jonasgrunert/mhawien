@@ -28,7 +28,8 @@ export class IndexPageTemplate extends React.Component {
             backgroundColor: "#64A39B",
             flexDirection: "column",
             backgroundImage: `url("${TitleImage}")`,
-            backgroundPosition: "top"
+            backgroundPosition: "top",
+            height: "600px"
           }}
         >
           <div
