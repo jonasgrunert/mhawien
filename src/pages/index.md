@@ -366,5 +366,24 @@ workshops:
     start: 2019-05-17T13:00:00.000Z
     state: av
     title: 'Workshop: Suizid und Suizidprävention'
+  - count: 80
+    description: >-
+      In einem kurzen Vortrag soll der Versuch gestartet werden, komplexe
+      Phänomene wie Migration und Flucht und deren Auswirkungen auf die
+      psychische  Gesundheit von Betroffenen darzustellen. 
+
+      Warum zeigen viele Geflüchtete in einem sicheren Aufnahmeland hohe
+      Belastungen und wie könnte das mit mangelnden „Integrationsleistungen“
+      zusammenhängen?
+
+
+      Es soll ein Raum für Fragen und mögliche Erklärungsanstöße in diesem
+      Vortrag eröffnet werden.
+    end: 2019-05-14T18:00:00.000Z
+    person: Mag. Dr. Dina Weindl
+    place: 'Hörsaal D, Universitätscampus, Hof 10, Spitalgasse 2-4, 1090 Wien'
+    start: 2019-05-14T16:30:00.000Z
+    state: na
+    title: 'Vortrag: Psychische Gesundheit bei Geflüchteten'
 ---
  
