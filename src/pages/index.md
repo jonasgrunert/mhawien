@@ -366,6 +366,38 @@ workshops:
     start: 2019-05-17T13:00:00.000Z
     state: av
     title: 'Workshop: Suizid und Suizidprävention'
+  - count: 100
+    description: >-
+      Stress ist ein Wort hinter dem sich viel Unterschiedliches verbergen kann.
+      Es scheint in unserer Gesellschaft sehr wichtig zu sein gestresst zu sein,
+      weil man damit seiner Umwelt zeigen kann, wie sehr man gefragt ist. Es
+      gibt einen Stress, den wir Menschen als positiv, motivationsfördern und
+      produktiv erleben und es gibt eine dunkle Seite von Stress, die zu einer
+      chronischen Überforderung bis hin zum Burnout führen kann. Unweigerlich
+      mit dem Begriff Stress ist der Begriff Druck und Zeitmanagement verbunden.
+      Vor allem als Student/in kennt man sich bei diesem Thema sehr gut aus,
+      weiß aber oft nicht wirklich was man konkret tun kann, um eine bessere
+      work-life Balance hinzukriegen. Es gibt kein universelles Rezept. Stress
+      ist so individuell wie wir Menschen, aber es gibt sicherlich einige
+      Aspekte, die förderlich sind im Umgang mit Stress. Dies soll in diesem
+      Vortrag beleuchtet werden.
+
+      Ziele:
+
+      Auseinandersetzung mit dem Begriff „Stress“
+
+      Beleuchtung der besonderen Stressfaktoren im Spannungsfeld Studium
+
+      Kennenlernen von konkreten Bewältigungsstrategien (individuelle Stress-
+      und Ressourcenanalyse)
+
+      Erfahrungsaustausch
+    end: 2019-05-14T16:15:00.000Z
+    person: Mag. Simone Sassenrath
+    place: 'Hörsaal G, Fakultät für Psychologie, Liebiggasse 5'
+    start: 2019-05-14T14:45:00.000Z
+    state: na
+    title: 'Vortrag: Konstruktives Stressmanagement'
   - count: 80
     description: >-
       In einem kurzen Vortrag soll der Versuch gestartet werden, komplexe
