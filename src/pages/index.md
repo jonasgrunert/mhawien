@@ -5,7 +5,7 @@ title: Mental Health Awareness Week 2019
 subtitle: Eine Woche für die Seele
 workshops:
   - count: 100
-    description: Mental Helath Awareness Week Vienna
+    description: Mental Health Awareness Week Vienna
     end: '2019-05-17T22:00:00.000Z'
     person: Organisations Team
     place: Univesity Vienna
@@ -154,7 +154,7 @@ workshops:
     start: 2019-05-14T09:30:00.000Z
     state: av
     title: 'Workshop: Yoga'
-  - count: 23
+  - count: 20
     description: >-
       Im Rahmen dieses Workshops erhalten die Teilnehmer*innen einen
       Kurzüberblick über das weite Feld der psychischen Krankheiten und
@@ -293,7 +293,7 @@ workshops:
     start: 2019-05-16T09:30:00.000Z
     state: av
     title: 'Workshop: Essstörungen'
-  - count: 20
+  - count: 12
     description: >-
       TRE® – Tension & Trauma Releasing Exercises ist eine einfach zu erlernende
       Abfolge von körperlichen Übungen, die es Körper und Psyche ermöglicht, zu
