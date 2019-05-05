@@ -5,8 +5,6 @@ title: Über uns
 ---
 ## Eine Woche für die Seele
 
-
-
 ### Wir sind ein Zusammenschluss von Psychologie-Studierenden der Universität Wien, welcher in Zusammenarbeit mit der Fakultät für Psychologie sowie sämtlichen externen Beitragenden eine spannende Woche zum Thema psychische Gesundheit auf die Beine gestellt hat.
 
 ### Die Idee unserer Mental Health Awareness Week lehnt an die gleichnamige Woche der Mental Health Foundation (Großbritannien) an.
