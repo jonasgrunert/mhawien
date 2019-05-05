@@ -487,5 +487,30 @@ workshops:
     title: >-
       Vortrag: Psychische Gesundheit bei Menschen mit intellektueller
       Beeinträchtigung
+  - count: 85
+    description: >-
+      Psychische Erkrankungen: Ein psychologischer, sozialer und individueller
+      Fokus
+
+
+      Frau Mag.a Stockinger ist mit vielen verschiedenen psychischen
+      Erkrankungen in ihrem beruflichen Setting konfrontiert und wird sowohl
+      über die psychologischen als auch über die sozialen und individuellen
+      Auswirkungen verschiedener Diagnosen einen Überblick geben.
+
+
+      Zudem besteht die Möglichkeit, Fragen zu stellen.
+    end: 2019-05-17T09:15:00.000Z
+    person: >-
+      Psychische Erkrankungen: Ein psychologischer, sozialer und individueller
+      Fokus  Frau Mag.a Stockinger ist mit vielen verschiedenen psychischen
+      Erkrankungen in ihrem beruflichen Setting konfrontiert und wird sowohl
+      über die psychologischen als auch über die sozialen und individuellen
+      Auswirkungen verschiedener Diagnosen einen Überblick geben.  Zudem besteht
+      die Möglichkeit, Fragen zu stellen.
+    place: 'Hörsaal A, Neues Institutsgebäude (6.Stock), Universitätsstraße 7'
+    start: 2019-05-17T07:45:00.000Z
+    state: na
+    title: 'Vortrag: Psychische Erkrankungen'
 ---
  
