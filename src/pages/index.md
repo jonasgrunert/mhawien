@@ -417,5 +417,30 @@ workshops:
     start: 2019-05-14T16:30:00.000Z
     state: na
     title: 'Vortrag: Psychische Gesundheit bei Geflüchteten'
+  - count: 85
+    description: >-
+      In der Vorlesung soll ein kurzer Einblick über das Thema Essstörungen, die
+      Diagnose und die Möglichkeiten der Behandlung skizziert werden.
+
+      Alle Formen von Essstörungen haben für die Betroffenen je nach Schwere der
+      Erkrankung  dramatische Auswirkungen.
+
+      Neben medizinischen und psychischen Problemen kommen häufig noch soziale
+      Schwierigkeiten: Probleme in Ausbildung und Beruf, soziale Ächtung,
+      Kontaktverlust bis hin zur totaler Isolation.
+
+      Essstörungen sind ernstzunehmende Erkrankungen, die sich unbehandelt
+      verschlimmern und zu chronischen Folgeerkrankungen führen bzw. sogar
+      tödlich enden.
+
+      Essstörungen können als bestmögliche Lebensbewältigungsstrategie, die den
+      Betroffenen zu dem gegebenen Zeitpunkt das Überleben sichert, gesehen
+      werden…
+    end: 2019-05-15T09:15:00.000Z
+    person: Mag.a  Rahel Jahoda
+    place: 'Hörsaal A, Hörsaalzentrum Psychologie, Universitätsstraße 7, 1010 Wien'
+    start: 2019-05-15T07:45:00.000Z
+    state: na
+    title: 'Vortrag: Essstörungen'
 ---
  
