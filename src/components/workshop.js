@@ -5,7 +5,7 @@ export const Info = ({ end, start, person, description, place }) => (
     <div className="column">
       {description}
       <br />
-      Vernatwortlicher: {person}
+      Presented by: {person}
     </div>
     <div className="column">
       Von <b>{new Date(start).toLocaleString()}</b> bis{" "}
