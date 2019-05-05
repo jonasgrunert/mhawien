@@ -113,12 +113,12 @@ workshops:
       Bitte über das Formular auf der Seite des Uni Management Clubs anmelden:
 
       http://wien.unimc.at/events/mental-health-awareness-week/
-    end: 2019-05-13T20:00:00.000Z
+    end: 2019-05-13T19:00:00.000Z
     person: Uni Management Club
     place: 'Kärtner Straße 8, 1010 Wien'
-    start: 2019-05-13T16:30:00.000Z
+    start: 2019-05-13T16:15:00.000Z
     state: aa
-    title: Uni Management Club goes MHAW
+    title: 'Vortrag: Angst und Angststörungen | Uni Management Club goes MHAW'
   - count: 20
     description: >-
       In diesem Workshop werden die wichtigsten Grundlagen im Zusammenhang mit
