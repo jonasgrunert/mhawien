@@ -36,7 +36,7 @@ workshops:
     person: Anna Carnogursky
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-13T13:00:00.000Z
-    state: av
+    state: fu
     title: 'Workshop: Positive Psychologie'
   - count: 25
     description: >-
