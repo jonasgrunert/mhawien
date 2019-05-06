@@ -345,7 +345,7 @@ workshops:
       Getanzt wird in bequemer Kleidung, barfuß/in Socken, und teilweise mit
       geschlossenen Augen.
     end: 2019-05-17T09:15:00.000Z
-    person: TBA
+    person: Lena Pirklhuber
     place: 'Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8, 1010 Wien'
     start: 2019-05-17T07:45:00.000Z
     state: av
