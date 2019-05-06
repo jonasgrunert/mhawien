@@ -329,7 +329,7 @@ workshops:
     person: Anne
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-16T14:45:00.000Z
-    state: av
+    state: fu
     title: 'Workshop: TRE® – Tension & Trauma Releasing Exercises'
   - count: 20
     description: >-
