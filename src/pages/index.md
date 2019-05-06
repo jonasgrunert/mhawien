@@ -247,7 +247,7 @@ workshops:
     person: 'Kersten Kloser-Pitcher, Cori Liebhart, Paula Rossi'
     place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T14:45:00.000Z
-    state: av
+    state: fu
     title: 'Workshop: Grundlagen gewaltfreie Kommunikation'
   - count: 25
     description: >-
