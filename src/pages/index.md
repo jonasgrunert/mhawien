@@ -178,7 +178,7 @@ workshops:
     person: Dr. Elisabeth Ponocny-Seliger
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-14T14:45:00.000Z
-    state: av
+    state: fu
     title: >-
       Workshop: Umgang mit Menschen, die psychisch krank oder irgendwie “anders”
       sind
