@@ -23,7 +23,7 @@ workshops:
     person: Hanna Mües
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-13T07:45:00.000Z
-    state: av
+    state: fu
     title: 'Workshop: Sexualität'
   - count: 20
     description: >-
