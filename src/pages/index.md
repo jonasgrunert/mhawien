@@ -227,7 +227,7 @@ workshops:
     person: Vanessa
     place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T13:00:00.000Z
-    state: av
+    state: fu
     title: 'Workshop: Shiatsu'
   - count: 25
     description: >-
