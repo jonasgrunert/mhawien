@@ -268,7 +268,7 @@ workshops:
     person: 'Kersten Kloser-Pitcher, Cori Liebhart, Paula Rossi'
     place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T16:30:00.000Z
-    state: av
+    state: fu
     title: 'Workshop: Vertiefung Gewaltfreie Kommunikation'
   - count: 20
     description: Dieser Workshop ist leider ABGESAGT!
