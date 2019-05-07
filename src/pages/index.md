@@ -152,7 +152,7 @@ workshops:
     person: Sarah
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-14T09:30:00.000Z
-    state: fu
+    state: av
     title: 'Workshop: Yoga'
   - count: 20
     description: >-
@@ -291,7 +291,7 @@ workshops:
     person: Katja Isele
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-16T09:30:00.000Z
-    state: av
+    state: fu
     title: 'Workshop: Essstörungen'
   - count: 12
     description: >-
