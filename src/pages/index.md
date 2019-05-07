@@ -331,7 +331,7 @@ workshops:
     start: 2019-05-16T14:45:00.000Z
     state: fu
     title: 'Workshop: TRE® – Tension & Trauma Releasing Exercises'
-  - count: 20
+  - count: 15
     description: >-
       Tanzen hilft! Egal ob allein, in der Gruppe, in den eigenen vier Wänden
       oder im Club – Tanzen ist ein Ventil, ist unmittelbarer Gefühlsausdruck,
@@ -348,7 +348,7 @@ workshops:
     person: Lena Pirklhuber
     place: 'Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8, 1010 Wien'
     start: 2019-05-17T07:45:00.000Z
-    state: av
+    state: fu
     title: 'Workshop: Man denkt zu viel und tanzt zu wenig'
   - count: 20
     description: >-
