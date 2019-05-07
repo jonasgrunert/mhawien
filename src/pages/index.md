@@ -130,7 +130,7 @@ workshops:
     person: Mag. Nadja Springer (Verein Dialog)
     place: 'Salon, Katholische Hochschulgemeinde, Ebendorferstraße 8'
     start: 2019-05-14T07:00:00.000Z
-    state: av
+    state: fu
     title: 'Workshop: Sucht Basics'
   - count: 14
     description: >-
