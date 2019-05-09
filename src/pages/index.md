@@ -57,7 +57,7 @@ workshops:
     person: Hannah und Vanessa
     place: 'Hörsaal A, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-13T14:45:00.000Z
-    state: av
+    state: fu
     title: 'Workshop: Psychologische Erste Hilfe'
   - count: 20
     description: >-
