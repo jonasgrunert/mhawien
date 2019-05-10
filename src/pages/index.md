@@ -152,7 +152,7 @@ workshops:
     person: Sarah
     place: 'Hörsaal H, Fakultät für Psychologie, Liebiggasse 5'
     start: 2019-05-14T09:30:00.000Z
-    state: fu
+    state: av
     title: 'Workshop: Yoga'
   - count: 20
     description: >-
