@@ -227,7 +227,7 @@ workshops:
     person: Vanessa
     place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T13:00:00.000Z
-    state: fu
+    state: av
     title: 'Workshop: Shiatsu'
   - count: 25
     description: >-
@@ -247,7 +247,7 @@ workshops:
     person: 'Kersten Kloser-Pitcher, Cori Liebhart, Paula Rossi'
     place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T14:45:00.000Z
-    state: fu
+    state: av
     title: 'Workshop: Grundlagen gewaltfreie Kommunikation'
   - count: 25
     description: >-
@@ -268,7 +268,7 @@ workshops:
     person: 'Kersten Kloser-Pitcher, Cori Liebhart, Paula Rossi'
     place: 'Seminarraum, Hörsaalzentrum Psychologie NIG, Universitätsstraße 7'
     start: 2019-05-15T16:30:00.000Z
-    state: fu
+    state: av
     title: 'Workshop: Vertiefung Gewaltfreie Kommunikation'
   - count: 20
     description: Dieser Workshop ist leider ABGESAGT!
