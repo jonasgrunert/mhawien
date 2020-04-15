@@ -2,6 +2,7 @@
 templateKey: about-page
 path: about
 title: Über uns
+image: /img/gegen-die-afd.jpg
 ---
 ## Eine Woche für die Seele
 
