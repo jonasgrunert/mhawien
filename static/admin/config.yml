@@ -24,30 +24,24 @@ collections:
         label: "Landing Page"
         name: "index"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "index-page",
-            }
+          - label: "Template Key"
+            name: "templateKey"
+            widget: "hidden"
+            default: "index-page"
           - { label: "Path", name: "path", widget: "hidden", default: "/" }
           - { label: "Datum", name: "date", widget: "datetime" }
-          - {
-              label: "Hashtags",
-              name: "tags",
-              widget: "list",
-              hint: "Trenne mit einem Komma einzelne Einträge",
-            }
+          - label: "Hashtags"
+            name: "tags"
+            widget: list
+            hint: "Trenne mit einem Komma einzelne Einträge"
       - file: "src/pages/info.md"
         label: "Weitere Informationen"
         name: "info"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "info-page",
-            }
+          - label: "Template Key"
+            name: "templateKey"
+            widget: "hidden"
+            default: "info-page"
           - { label: "Path", name: "path", widget: "hidden", default: "info" }
           - { label: "Vorwort", name: "body", widget: "markdown" }
           - { label: "Title", name: "title", widget: "string" }
@@ -58,22 +52,18 @@ collections:
               - { label: Logo, name: logo, widget: image }
               - { label: Titel, name: title, widgt: string }
               - { label: Beschreibung, name: description, widget: text }
-              - {
-                  label: "Links",
-                  name: "links",
-                  widget: "list",
-                  hint: "Trenne mit einem Komma einzelne Einträge",
-                }
+              - label: "Links"
+                name: "links"
+                widget: "list"
+                hint: "Trenne mit einem Komma einzelne Einträge"
       - file: "src/pages/about.md"
         label: "Über uns"
         name: "about"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "about-page",
-            }
+          - label: "Template Key"
+            name: "templateKey"
+            widget: "hidden"
+            default: "about-page"
           - { label: "Path", name: "path", widget: "hidden", default: "about" }
           - { label: "Titel", name: "title", widget: "string" }
           - { label: "Bild", name: image, widget: "image" }
@@ -82,17 +72,13 @@ collections:
         label: "Impressum"
         name: "impressum"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "impressum-page",
-            }
-          - {
-              label: "Path",
-              name: "path",
-              widget: "hidden",
-              default: "impressum",
-            }
+          - label: "Template Key"
+            name: "templateKey"
+            widget: "hidden"
+            default: "impressum-page"
+          - label: "Path"
+            name: "path"
+            widget: "hidden"
+            default: "impressum"
           - { label: "Titel", name: "title", widget: "string" }
           - { label: "Text", name: "body", widget: "markdown" }
