@@ -16,7 +16,7 @@ collections:
           widget: "hidden",
           default: "index-page",
         }
-      - { label: Titel, name: title, widget: string }
+      - { label: Titel, name: name, widget: string }
       - { label: Untertitel, name: subtitle, widget: string }
       - widget: list
         fields:
