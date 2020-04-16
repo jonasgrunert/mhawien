@@ -35,7 +35,9 @@ collections:
             widget: "hidden"
             default: "index-page"
           - { label: "Path", name: "path", widget: "hidden", default: "/" }
-          - { label: "Datum", name: "date", widget: "datetime" }
+          - { label: "Von", name: "date", widget: "datetime" }
+          - { label: "Bis", name: "till", widget: "datetime" }
+          - { label: "Ort", name: "place", widget: "string" }
           - label: "Hashtags"
             name: "tags"
             widget: list

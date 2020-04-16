@@ -34,17 +34,27 @@ const TemplateWrapper = ({ children, isIndex }) => (
           <link
             rel="icon"
             type="image/png"
-            href="/img/favicon-32x32.png"
             sizes="32x32"
+            href="/img/favicon-32x32.png"
           />
           <link
             rel="icon"
             type="image/png"
-            href="/img/favicon-16x16.png"
             sizes="16x16"
+            href="/img/favicon-16x16.png"
           />
-          <meta name="theme-color" content="#fff" />
-
+          <link rel="manifest" href="/img/site.webmanifest" />
+          <link
+            rel="mask-icon"
+            href="/img/safari-pinned-tab.svg"
+            color="#1fafae"
+          />
+          <link rel="shortcut icon" href="/img/favicon.ico" />
+          <meta name="apple-mobile-web-app-title" content="MHAW Vienna" />
+          <meta name="application-name" content="MHAW Vienna" />
+          <meta name="msapplication-TileColor" content="#1fafae" />
+          <meta name="msapplication-config" content="/img/browserconfig.xml" />
+          <meta name="theme-color" content="#1fafae" />
           <meta property="og:type" content="business.business" />
           <meta property="og:title" content={data.site.siteMetadata.title} />
           <meta property="og:url" content="/" />

@@ -5,14 +5,20 @@ import Img from "gatsby-image";
 import Layout from "../components/Layout";
 import Navbar from "../components/Navbar";
 import Countdown from "../components/countdown";
+import facebook from "../img/social/facebook.svg";
 
-const IndexPageTemplate = ({ tags, date, logo }) => (
+const IndexPageTemplate = ({ tags, date, logo, till, place }) => (
   <section className="hero is-fullheight">
     <div className="hero-head">
       <Navbar />
     </div>
     <div className="hero-body">
       <div className="container has-text-centered ">
+        <h1 className="title">3. Mental Health Awareness Week Wien</h1>
+        <h1 class="subtitle">
+          {date.toLocaleDateString("de-AT")} bis{" "}
+          {till.toLocaleDateString("de-AT")} | {place}
+        </h1>
         <figure
           class="image"
           style={{
@@ -33,6 +39,21 @@ const IndexPageTemplate = ({ tags, date, logo }) => (
               ))}
           </div>
         </div>
+        <a
+          className="button is-text"
+          href="https://www.facebook.com/mhaw.vienna/"
+        >
+          <img
+            src={facebook}
+            alt="Facebook"
+            style={{
+              width: "1em",
+              height: "1em",
+              marginRight: "0.5em",
+            }}
+          />
+          Nähere Informationen
+        </a>
       </div>
     </div>
     <div className="hero-foot">
@@ -55,6 +76,8 @@ const IndexPage = ({ data }) => {
         tags={frontmatter.tags}
         date={new Date(frontmatter.date)}
         logo={data.imageSharp.fluid}
+        till={new Date(frontmatter.till)}
+        place={frontmatter.place}
       />
     </Layout>
   );
@@ -69,6 +92,8 @@ export const pageQuery = graphql`
       frontmatter {
         tags
         date
+        till
+        place
       }
     }
     imageSharp(original: { src: { regex: "/LOGO/" } }) {
