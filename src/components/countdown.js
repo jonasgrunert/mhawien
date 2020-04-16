@@ -16,6 +16,9 @@ function calclDiff(date) {
 
 export default ({ date }) => {
   const [diff, setDiff] = useState(calclDiff(date));
-  useEffect(() => setInterval(() => setDiff(calclDiff(date)), 1000), []);
+  useEffect(() => {
+    const id = setInterval(() => setDiff(calclDiff(date)), 1000);
+    return () => clearInterval(id);
+  }, []);
   return <h5 className="title is-1">{diff.join(":")}</h5>;
 };
