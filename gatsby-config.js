@@ -71,6 +71,28 @@ module.exports = {
         purgeOnly: ["/all.sass"], // applies purging only on the bulma css file
       },
     }, // must be after other CSS plugins
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: "MHAW Vienna",
+        short_name: "MHAW Vienna",
+        icons: [
+          {
+            src: "/img/android-chrome-192x192.png",
+            sizes: "192x192",
+            type: "image/png",
+          },
+          {
+            src: "/img/android-chrome-512x512.png",
+            sizes: "512x512",
+            type: "image/png",
+          },
+        ],
+        theme_color: "#1fafae",
+        background_color: "#1fafae",
+        display: "standalone",
+      },
+    },
     "gatsby-plugin-netlify", // make sure to keep it last in the array
   ],
 };
