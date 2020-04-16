@@ -23,7 +23,6 @@ export const InfoPageTemplate = ({ title, content, sponsors }) => {
 
 const InfoPage = ({ data }) => {
   const { markdownRemark } = data;
-  console.log(data);
   return (
     <Layout>
       <InfoPageTemplate

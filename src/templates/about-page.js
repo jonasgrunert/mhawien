@@ -30,7 +30,6 @@ export const AboutPageTemplate = ({ title, content, image }) => {
 
 const AboutPage = ({ data }) => {
   const { markdownRemark } = data;
-  console.log(data);
   return (
     <Layout>
       <AboutPageTemplate
