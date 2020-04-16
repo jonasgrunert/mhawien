@@ -2,8 +2,8 @@ import React from "react";
 import { Link, graphql } from "gatsby";
 import Img from "gatsby-image";
 
-import Layout from "../components/layout";
-import Navbar from "../components/navbar";
+import Layout from "../components/Layout";
+import Navbar from "../components/Navbar";
 import Countdown from "../components/countdown";
 
 const IndexPageTemplate = ({ tags, date, logo }) => (

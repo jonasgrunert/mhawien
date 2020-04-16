@@ -1,6 +1,6 @@
 import React from "react";
 import { graphql } from "gatsby";
-import Layout from "../components/layout";
+import Layout from "../components/Layout";
 import Sponsor from "../components/sponsor";
 
 export const InfoPageTemplate = ({ title, content, sponsors }) => {
