@@ -16,22 +16,13 @@
     "gatsby-remark-copy-linked-files": "^2.0.7",
     "gatsby-remark-images": "^3.0.1",
     "gatsby-remark-relative-images": "^0.2.1",
-    "gatsby-source-facebook": "^1.0.3",
     "gatsby-source-filesystem": "^2.0.12",
     "gatsby-transformer-remark": "^2.1.15",
     "gatsby-transformer-sharp": "^2.1.9",
-    "lodash": "^4.17.5",
-    "lodash-webpack-plugin": "^0.11.4",
-    "moment": "^2.24.0",
     "netlify-cms": "^2.6.0",
-    "node-sass": "^4.11.0",
-    "parcel-bundler": "^1.9.4",
-    "prop-types": "^15.6.0",
     "react": "^16.2.0",
-    "react-big-calendar": "^0.20.4",
     "react-dom": "^16.4.1",
-    "react-helmet": "^5.2.0",
-    "uuid": "^3.2.1"
+    "react-helmet": "^5.2.0"
   },
   "keywords": [
     "gatsby"
@@ -39,16 +30,15 @@
   "license": "MIT",
   "main": "n/a",
   "scripts": {
-    "start": "npm run develop",
-    "clean": "rimraf .cache public",
-    "build": "npm run clean && gatsby build",
-    "develop": "npm run clean && gatsby develop",
-    "serve": "gatsby serve",
+    "clean": "gatsby clean",
+    "start": "yarn develop",
+    "build": "yarn clean && gatsby build",
+    "develop": "yarn clean && gatsby develop",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "prettier": "^1.15.3",
-    "rimraf": "^2.6.2"
+    "node-sass": "^4.13.1",
+    "prettier": "^1.15.3"
   }
 }

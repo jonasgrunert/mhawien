@@ -1,13 +1,11 @@
 import React from "react";
 import Helmet from "react-helmet";
-import { StaticQuery, graphql } from "gatsby";
-
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
+import { StaticQuery, graphql, Link } from "gatsby";
+import Navbar from "../components/navbar";
 
 import "./all.sass";
 
-const TemplateWrapper = ({ children }) => (
+const TemplateWrapper = ({ children, isIndex }) => (
   <StaticQuery
     query={graphql`
       query HeadingQuery {
@@ -19,24 +17,14 @@ const TemplateWrapper = ({ children }) => (
         }
       }
     `}
-    render={data => (
-      <div>
+    render={(data) => (
+      <>
         <Helmet>
           <html lang="en" />
           <title>{data.site.siteMetadata.title}</title>
           <meta
             name="description"
             content={data.site.siteMetadata.description}
-          />
-          <link
-            href="https://fonts.googleapis.com/css?family=Lato:300"
-            rel="stylesheet"
-          />
-          <script
-            defer
-            src="https://use.fontawesome.com/releases/v5.8.1/js/all.js"
-            integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ"
-            crossorigin="anonymous"
           />
           <link
             rel="apple-touch-icon"
@@ -61,20 +49,20 @@ const TemplateWrapper = ({ children }) => (
           <meta property="og:title" content={data.site.siteMetadata.title} />
           <meta property="og:url" content="/" />
           <meta property="og:image" content="/img/og-image.jpg" />
-          <style>
-            {
-              "body {font-family: 'Lato', sans-serif !important;}.rbc-btn-group{display: none;}"
-            }
-          </style>
         </Helmet>
-        <Navbar />
-        <div>{children}</div>
-        <Footer />
-      </div>
+        {!isIndex && <Navbar />}
+        {children}
+        {!isIndex && (
+          <div
+            className="container has-text-centered has-text-primary"
+            style={{ marginBottom: "0.5rem" }}
+          >
+            <Link to="/impressum">Impressum</Link>
+          </div>
+        )}
+      </>
     )}
   />
 );
 
 export default TemplateWrapper;
-
-// page id: 540090573014064

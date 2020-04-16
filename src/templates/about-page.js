@@ -1,52 +1,45 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { graphql } from "gatsby";
-import Layout from "../components/Layout";
-import Content, { HTMLContent } from "../components/Content";
+import Layout from "../components/layout";
 
-export const AboutPageTemplate = ({ title, content, contentComponent }) => {
-  const PageContent = contentComponent || Content;
-
+export const AboutPageTemplate = ({ title, content, image }) => {
   return (
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <div className="section">
-              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                {title}
-              </h2>
-              <PageContent className="content" content={content} />
-            </div>
+    <>
+      <section
+        className="hero is-large"
+        style={{
+          backgroundImage: `url(${image})`,
+          backgroundPosition: "center top",
+          backgroundRepeat: "no-repeat",
+          backgroundSize: "cover",
+        }}
+      >
+        <div className="hero-body">
+          <div className="container">
+            <h3 className="title has-text-white">{title}</h3>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+      <div
+        className="content container"
+        dangerouslySetInnerHTML={{ __html: content }}
+      />
+    </>
   );
-};
-
-AboutPageTemplate.propTypes = {
-  title: PropTypes.string.isRequired,
-  content: PropTypes.string,
-  contentComponent: PropTypes.func
 };
 
 const AboutPage = ({ data }) => {
-  const { markdownRemark: post } = data;
-
+  const { markdownRemark } = data;
+  console.log(data);
   return (
     <Layout>
       <AboutPageTemplate
-        contentComponent={HTMLContent}
-        title={post.frontmatter.title}
-        content={post.html}
+        title={markdownRemark.frontmatter.title}
+        content={markdownRemark.html}
+        image={markdownRemark.frontmatter.image.publicURL}
       />
     </Layout>
   );
-};
-
-AboutPage.propTypes = {
-  data: PropTypes.object.isRequired
 };
 
 export default AboutPage;
@@ -57,6 +50,9 @@ export const aboutPageQuery = graphql`
       html
       frontmatter {
         title
+        image {
+          publicURL
+        }
       }
     }
   }

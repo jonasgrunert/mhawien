@@ -1,188 +1,79 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { Link, graphql } from "gatsby";
-import Calendar from "react-big-calendar";
-import moment from "moment";
+import Img from "gatsby-image";
 
-import Layout from "../components/Layout";
-import "react-big-calendar/lib/css/react-big-calendar.css";
-import { HTMLContent } from "../components/Content";
-import TitleImage from "../img/Titelbild MHAW 2019.jpg";
-import Workshop from "../components/workshop";
+import Layout from "../components/layout";
+import Navbar from "../components/navbar";
+import Countdown from "../components/countdown";
 
-moment.locale("de");
-const localizer = Calendar.momentLocalizer(moment);
-
-export class IndexPageTemplate extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = { shownEvents: props.events.map(() => false) };
-  }
-  render() {
-    const { title, events, subtitle, content } = this.props;
-    return (
-      <div>
-        <div
-          className="full-width-image margin-top-0"
+const IndexPageTemplate = ({ tags, date, logo }) => (
+  <section className="hero is-fullheight">
+    <div className="hero-head">
+      <Navbar />
+    </div>
+    <div className="hero-body">
+      <div className="container has-text-centered ">
+        <figure
+          class="image"
           style={{
-            backgroundColor: "#64A39B",
-            flexDirection: "column",
-            backgroundImage: `url("${TitleImage}")`,
-            backgroundPosition: "top",
-            height: "600px",
-            paddingTop: "100px",
-            justifyContent: "flex-start"
+            width: "30%",
+            margin: "auto",
+            height: "auto",
+            marginBottom: "3rem",
           }}
         >
-          <div
-            style={{
-              display: "flex",
-              lineHeight: "1",
-              justifyContent: "space-around",
-              alignItems: "left",
-              flexDirection: "column"
-            }}
-          >
-            <h1
-              className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-              style={{
-                color: "white",
-                lineHeight: "1",
-                padding: "0.25em"
-              }}
-            >
-              {title}
-            </h1>
-          </div>
-          <div
-            style={{
-              display: "flex",
-              lineHeight: "1",
-              justifyContent: "space-around",
-              alignItems: "left",
-              flexDirection: "column"
-            }}
-          >
-            <h5
-              className="has-text-weight-bold is-size-5-mobile is-size-4-tablet is-size-3-widescreen"
-              style={{
-                color: "white",
-                lineHeight: "1",
-                padding: "0.25em"
-              }}
-            >
-              {subtitle}
-            </h5>
+          <Img fluid={logo} alt="Mental Health Awareness Week" />
+        </figure>
+        <Countdown date={date} />
+        <div className="columns is-centered">
+          <div className="tags are-large column">
+            {tags &&
+              tags.map((t) => (
+                <span className="tag is-white has-text-primary">{t}</span>
+              ))}
           </div>
         </div>
-        {events.map((e, i) => (
-          <Workshop
-            title={e.title}
-            show={this.state.shownEvents[i]}
-            description={e.description}
-            place={e.place}
-            person={e.person}
-            end={e.end}
-            start={e.start}
-            state={e.state}
-            close={() =>
-              this.setState({
-                shownEvents: this.state.shownEvents.map(() => false)
-              })
-            }
-          />
-        ))}
-        <section className="section section--gradient">
-          <div className="container">
-            <div className="section">
-              <HTMLContent className="content" content={content} />
-              <div className="columns">
-                <div className="column is-10 is-offset-1">
-                  <div className="content">
-                    <Calendar
-                      events={events.map((e, i) => ({
-                        ...e,
-                        start: new Date(e.start),
-                        end: new Date(e.end)
-                      }))}
-                      min={new Date(2019, 4, 13, 8, 0, 0)}
-                      max={new Date(2019, 4, 13, 21, 0, 0)}
-                      localizer={localizer}
-                      defaultDate={new Date(2019, 4, 13)}
-                      defaultView="work_week"
-                      views={["work_week"]}
-                      onSelectEvent={ev =>
-                        this.setState({
-                          shownEvents: events.map(e => e.title === ev.title)
-                        })
-                      }
-                      culture="de"
-                      tooltipAccessor={e => `${e.description}`}
-                    />
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
       </div>
-    );
-  }
-}
-IndexPageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string,
-  heading: PropTypes.string,
-  subheading: PropTypes.string,
-  mainpitch: PropTypes.object,
-  description: PropTypes.string,
-  intro: PropTypes.shape({
-    blurbs: PropTypes.array
-  }),
-  events: PropTypes.array
-};
+    </div>
+    <div className="hero-foot">
+      <div
+        className="container has-text-centered has-text-primary"
+        style={{ marginBottom: "0.5rem" }}
+      >
+        <Link to="/impressum">Impressum</Link>
+      </div>
+    </div>
+  </section>
+);
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
 
   return (
-    <Layout>
+    <Layout isIndex>
       <IndexPageTemplate
-        title={frontmatter.title}
-        content={data.markdownRemark.html}
-        events={frontmatter.workshops ? frontmatter.workshops : []}
-        subtitle={frontmatter.subtitle}
+        tags={frontmatter.tags}
+        date={new Date(frontmatter.date)}
+        logo={data.imageSharp.fluid}
       />
     </Layout>
   );
 };
 
-IndexPage.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object
-    })
-  })
-};
-
 export default IndexPage;
 
 export const pageQuery = graphql`
-  query IndexPageTemplate {
-    markdownRemark(frontmatter: { templateKey: { eq: "index-page" } }) {
+  query IndexPageTemplate($id: String!) {
+    markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
-        title
-        subtitle
-        workshops {
-          title
-          description
-          start
-          end
-          person
-          place
-          state
-        }
+        tags
+        date
+      }
+    }
+    imageSharp(original: { src: { regex: "/LOGO/" } }) {
+      fluid(maxWidth: 1080) {
+        ...GatsbyImageSharpFluid_withWebp_tracedSVG
       }
     }
   }
