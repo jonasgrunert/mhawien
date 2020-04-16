@@ -34,7 +34,6 @@ const TemplateWrapper = ({ children, isIndex }) => (
           <link rel="apple-touch-icon" sizes="180x180" href={AppleTouchIcon} />
           <link rel="icon" type="image/png" sizes="32x32" href={Favicon32} />
           <link rel="icon" type="image/png" sizes="16x16" href={Favicon16} />
-          <link rel="manifest" href="/img/site.webmanifest" />
           <link rel="mask-icon" href={Safari} color="#1fafae" />
           <link rel="shortcut icon" href={Favicon} />
           <meta name="apple-mobile-web-app-title" content="MHAW Vienna" />
