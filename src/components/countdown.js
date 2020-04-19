@@ -20,5 +20,5 @@ export default ({ date }) => {
     const id = setInterval(() => setDiff(calclDiff(date)), 1000);
     return () => clearInterval(id);
   }, []);
-  return <h5 className="title is-1">{diff.join(":")}</h5>;
+  return <h5 className="title is-1 is-size-2-mobile">{diff.join(":")}</h5>;
 };

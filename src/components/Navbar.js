@@ -31,6 +31,11 @@ const Navbar = () => {
                 className={`navbar-burger burger ${open ? "is-active" : ""}`}
                 data-target="navMenu"
                 onClick={() => setOpen(!open)}
+                style={{
+                  border: "none",
+                  boxShadow: "none",
+                  backgroundColor: "transparent"
+                }}
               >
                 <span />
                 <span />
