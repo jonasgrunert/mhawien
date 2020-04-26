@@ -13,5 +13,4 @@ sponsors:
     links:
       - https://www.studierendenberatung.at/standorte/wien/ueberblick/
 ---
-
-Dies ist ein beispielhaftes Vorwort, welches so nicht wichtig ist
+## **Wir sammeln hier Institutionen, die in der aktuellen Situation zu COVID-19 und auch sonst unterstützend wirken.**
