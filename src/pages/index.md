@@ -6,5 +6,6 @@ till: 2020-05-23T21:59:59.000Z
 place: Digital
 tags:
   - "#beaware"
-  - "#dontjudge #takecare"
+  - "#dontjudge"
+  - "#takecare"
 ---
