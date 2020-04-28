@@ -2,7 +2,7 @@
 templateKey: about-page
 path: about
 title: Über uns
-image: /img/collage2.jpg
+image: /img/collage2_schnitt.jpg
 ---
 ## Eine Woche für die Seele
 
