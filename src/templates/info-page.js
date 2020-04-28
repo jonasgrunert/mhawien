@@ -11,7 +11,7 @@ export const InfoPageTemplate = ({ title, content, sponsors }) => {
       {sponsors &&
         sponsors.map((s) => (
           <Sponsor
-            image={s.logo.childImageSharp.fixed}
+            // image={s.logo.childImageSharp.fixed}
             title={s.title}
             links={s.links}
             description={s.description}
@@ -43,13 +43,7 @@ export const InfoPageQuery = graphql`
       frontmatter {
         title
         sponsors {
-          logo {
-            childImageSharp {
-              fixed(width: 64) {
-                ...GatsbyImageSharpFixed_withWebp_tracedSVG
-              }
-            }
-          }
+          
           title
           description
           links
@@ -58,3 +52,12 @@ export const InfoPageQuery = graphql`
     }
   }
 `;
+/* Logo removed for forseeable future
+logo {
+  childImageSharp {
+    fixed(width: 64) {
+      ...GatsbyImageSharpFixed_withWebp_tracedSVG
+    }
+  }
+}
+*/

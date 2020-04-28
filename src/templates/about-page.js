@@ -9,14 +9,14 @@ export const AboutPageTemplate = ({ title, content, image }) => {
         className="hero is-large"
         style={{
           backgroundImage: `url(${image})`,
-          backgroundPosition: "center top",
+          backgroundPosition: "center center",
           backgroundRepeat: "no-repeat",
           backgroundSize: "cover",
         }}
       >
         <div className="hero-body">
           <div className="container">
-            <h3 className="title has-text-white">{title}</h3>
+            <h3 className="title has-text-primary is-1">{title}</h3>
           </div>
         </div>
       </section>
