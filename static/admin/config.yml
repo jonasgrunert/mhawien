@@ -15,6 +15,7 @@ collections:
   - name: "workshops"
     label: "Workshops"
     folder: "src/pages/workshops"
+    create: true
     fields:
       - { label: Titel, name: title, widget: string }
       - { label: Start, name: start, widget: datetime }
