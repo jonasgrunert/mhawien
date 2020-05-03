@@ -24,6 +24,7 @@ collections:
       - { label: Ort, name: place, widget: string }
       - { label: Verantwortlicher, name: person, widget: string }
       - { label: Plätze, name: count, widget: number }
+      - { label: Anmelde-Link, name: link, widget: string }
   - name: "pages"
     label: "Unterseiten"
     files:

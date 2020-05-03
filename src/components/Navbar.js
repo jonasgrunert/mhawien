@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { StaticQuery, graphql, Link } from "gatsby";
 import Img from "gatsby-image";
 import facebook from "../img/social/facebook.svg";
+import instagram from "../img/social/instagram.svg";
 
 const Navbar = () => {
   const [open, setOpen] = useState(false);
@@ -34,7 +35,7 @@ const Navbar = () => {
                 style={{
                   border: "none",
                   boxShadow: "none",
-                  backgroundColor: "transparent"
+                  backgroundColor: "transparent",
                 }}
               >
                 <span />
@@ -44,6 +45,9 @@ const Navbar = () => {
             </div>
             <div className={`navbar-menu ${open ? "is-active" : ""}`}>
               <div className="navbar-start has-text-centered">
+                <Link className="navbar-item" to="/workshops">
+                  Workshops
+                </Link>
                 <Link className="navbar-item" to="/about">
                   Über uns
                 </Link>
@@ -59,6 +63,16 @@ const Navbar = () => {
                   <img
                     src={facebook}
                     alt="Facebook"
+                    style={{ width: "1em", height: "1em" }}
+                  />
+                </a>
+                <a
+                  className="navbar-item"
+                  href="https://www.instagram.com/mhaw_vienna/"
+                >
+                  <img
+                    src={instagram}
+                    alt="Instagram"
                     style={{ width: "1em", height: "1em" }}
                   />
                 </a>
