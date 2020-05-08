@@ -14,6 +14,6 @@ Die Idee unserer Mental Health Awareness Week lehnt an die gleichnamige Woche de
 
 Zum ersten Mal stattgefunden hat diese vom 14. bis 20. Mai 2018, letztes Jahr geht sie in die zweite Runde vom 13. bis 17. Mai 2019 sowohl an der Uni Wien als auch online im Rahmen einer Social Media Kampagne.
 
-Im Jahr 2020 wird die Mental Health Awareness Week nun zum dritten Mal in der Woche vom 18. bis 22 Mai 2020 stattfinden, angepasst zur aktuellen Situation diesmal in rein digitaler Form. Dadurch können und wollen wir auch die Möglichkeit nutzen, andere und nicht nur studierende Menschen im deutschsprachigen Raum online zu erreichen.
+Im Jahr 2020 wird die Mental Health Awareness Week nun zum dritten Mal in der Woche vom 18. bis 22 Mai 2020 stattfinden, angepasst zur aktuellen Situation diesmal in rein digitaler Form. Dadurch können und wollen wir auch die Möglichkeit nutzen, alle und nicht nur studierende Menschen im deutschsprachigen Raum online zu erreichen.
 
 Insbesondere durch Workshops, Vorträge, Filmabende und Diskussionen soll den Teilnehmenden das Thema seelische Gesundheit näher gebracht werden.
