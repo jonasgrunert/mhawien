@@ -1,11 +1,15 @@
 ---
-title: '"Liebevoll durchhalten"'
+title: 'Gewaltfreie Kommunikation: "Liebevoll durchhalten"'
 start: 2020-05-19T08:00:00.000Z
 end: 2020-05-19T09:30:33.490Z
-place: Zoom (Link nach Anmeldung via Eventbrite)
-person: Cori Liebhart
-count: 18
-link: https://fantasiereise.eventbrite.at
+place: Zoom
+person: MMAG. Cori Liebhart, Alltagsinspirationen
+count: 15
+link: Anmeldung ab 11.05.2020.
 ---
+Thema: "Liebevoll durchhalten!" - Resilienzaufbau durch radikale Akzeptanz.
 
-Hier könnte ein Satz stehen. Oder auch eine Beschreibung.
+
+
+Anmeldung ab 11.05.2020.\
+Anmeldung über Eventbrite (Link folgt)
