@@ -14,3 +14,8 @@ Vielleicht kennst du das auch: Manche Gedanken, Erkenntnisse oder Erinnerungen k
 Im Anschluss an die Fantasiereise sind alle die möchten eingeladen, Gedanken oder Stimmungen zu teilen, die sie von der Reise mitgebracht haben, natürlich freiwillig.
 
 Bitte such dir für die Fantasiereise einen Ort aus, indem du gemütlich und ungestört in Stille für 30 Minuten liegen oder sitzen kannst. Schau, dass auch auf deinem Computer oder Handy alle Empfangsgeräusche von Mails oder SMS deaktiviert sind.
+
+
+
+**Anmeldung ab 11.05.2020 10 Uhr\
+Anmeldung über Eventbrite (Link folgt demnächst)**
