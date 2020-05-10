@@ -8,5 +8,9 @@ person: Mag.a Dr.in Dina Weindl
 count: 97
 link: "**Anmeldung ab 11.05.2020 10 Uhr**"
 ---
+Anmerkung: Der Vortrag wird aufgezeichnet und ist dnach zum Anschauen verfügbar.
+
+
+
 **Anmeldung ab 11.05.2020 10 Uhr\
 Anmeldung über Eventbrite (Link folgt demnächst)**
