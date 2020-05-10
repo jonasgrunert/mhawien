@@ -1,7 +1,7 @@
 ---
 title: Shiatsu
-start: 2020-05-22T13:00:00.000Z
-end: 2020-05-22T14:30:00.000Z
+start: 2020-05-22T16:30:00.000Z
+end: 2020-05-22T18:00:00.000Z
 place: Zoom
 person: Vanessa Jürgensen
 count: 15
