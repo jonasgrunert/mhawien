@@ -7,7 +7,7 @@ person: Dr.in Brigitte Holzinger, Psychologin & Schlafcoachin
 count: 8
 link: https://www.eventbrite.at/e/104865517586
 ---
-Beschreibung:Guter Schlaf erhält unser Immunsystem, unsere Konzentrations- und unsere Leistungsfähigkeit und hält uns auch bei Laune! Daher ist es jetzt besonders wichtig auf gutes Schlafen und gutes Träumen zu achten!
+Guter Schlaf erhält unser Immunsystem, unsere Konzentrations- und unsere Leistungsfähigkeit und hält uns auch bei Laune! Daher ist es jetzt besonders wichtig auf gutes Schlafen und gutes Träumen zu achten!
 
 Um die aktuelle Krisensituation um das Coronavirus zu meistern, ist es günstig, auf sich und seine Gesundheit zu schauen und damit auch auf alle anderen. Aber gerade eine Umstellung wie die jetzige kann einem schon den Schlaf rauben und schlaflose Nächte bescheren.
 
