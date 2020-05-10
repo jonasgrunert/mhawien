@@ -3,7 +3,7 @@ title: 'Gewaltfreie Kommunikation: "Liebevoll durchhalten"'
 start: 2020-05-19T08:00:00.000Z
 end: 2020-05-19T09:30:33.490Z
 place: Zoom
-person: MmAG. Cori Liebhart, Alltagsinspirationen
+person: Mmag.a Cori Liebhart, Alltagsinspirationen
 count: 15
 link: https://www.eventbrite.at/e/104866131422
 ---
