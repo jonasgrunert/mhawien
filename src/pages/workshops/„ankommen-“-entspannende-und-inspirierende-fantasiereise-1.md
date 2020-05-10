@@ -1,7 +1,7 @@
 ---
 title: „Ankommen.“ Entspannende und inspirierende Fantasiereise
 start: 2020-05-20T13:00:00.000Z
-end: 2020-05-10T14:30:00.000Z
+end: 2020-05-20T14:30:00.000Z
 place: Zoom
 person: Victoria Matejka (Verein actinGreen)
 count: 18
