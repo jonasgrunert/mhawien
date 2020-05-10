@@ -6,9 +6,9 @@ place: Zoom
 person: Mag.a Kersten Kloser-Pitcher & Mmag.a Cori Liebhart; Gesprächskultur,
   Alltagsinspirationen
 count: 15
-link: "**Anmeldung ab 11.05.2020 10 Uhr**"
+link: https://www.eventbrite.at/e/104866669030
 ---
 Gewaltfreie Kommunikation. Thema: "Train your Empathy Muscles!" - Eine Gabe, die gelernt und geübt werden kann.
 
 **Anmeldung ab 11.05.2020 10 Uhr**\
-**Anmeldung über Eventbrite (Link folgt demnächst)**
+**Anmeldung über [Eventbrite ](https://www.eventbrite.at/e/104866669030)**
