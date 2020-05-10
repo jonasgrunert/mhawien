@@ -5,7 +5,7 @@ end: 2020-05-21T14:30:00.000Z
 place: Zoom
 person: Dr.in Brigitte Holzinger, Psychologin & Schlafcoachin
 count: 8
-link: "**Anmeldung ab 11.05.2020 10 Uhr**"
+link: https://www.eventbrite.at/e/104865517586
 ---
 Beschreibung:Guter Schlaf erhält unser Immunsystem, unsere Konzentrations- und unsere Leistungsfähigkeit und hält uns auch bei Laune! Daher ist es jetzt besonders wichtig auf gutes Schlafen und gutes Träumen zu achten!
 
@@ -20,4 +20,4 @@ Wer also das Gefühl hat, die jetzige Ausnahmesituation mache sich im Schlafen u
 Zur Vortragenden: Dr.in Brigitte Holzinger; Somnologin und Psychologin in eigener Praxis; Leiterin des postgraduellen Zertifikatskurses "Schlafcoaching" der MedUni Wien
 
 **Anmeldung ab 11.05.2020 10 Uhr**\
-**Anmeldung über Eventbrite (Link folgt demnächst)**
+**Anmeldung über [Eventbrite ](https://www.eventbrite.at/e/104865517586)**
