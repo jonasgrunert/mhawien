@@ -1,5 +1,5 @@
 ---
-title: Yoga Ashtange
+title: Yoga Ashtanga
 start: 2020-05-20T15:30:00.000Z
 end: 2020-05-20T17:30:00.000Z
 place: Zoom
