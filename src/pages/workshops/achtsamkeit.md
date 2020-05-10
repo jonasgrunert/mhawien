@@ -1,11 +1,11 @@
 ---
-title: Achtsamkeit
+title: Achtsamkeit - Let your mind flow
 start: 2020-05-22T08:00:00.000Z
 end: 2020-05-22T09:30:00.000Z
 place: Zoom
 person: Carolin Drewes, Désirée Meyer und Almut Bauder; Achtsamkeitsatelier
 count: 15
-link: "**Anmeldung ab 11.05.2020 10 Uhr**"
+link: https://www.eventbrite.at/e/104865730222
 ---
 Let your mind flow.
 
@@ -30,4 +30,4 @@ Wir freuen uns auf euch,
 Caro, Desi & Almut
 
 **Anmeldung ab 11.05.2020 10 Uhr**\
-**Anmeldung über Eventbrite (Link folgt demnächst)**
+**Anmeldung über [Eventbrite ](https://www.eventbrite.at/e/104865730222)**
