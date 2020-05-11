@@ -4,7 +4,7 @@ start: 2020-05-19T08:00:00.000Z
 end: 2020-05-19T09:30:33.490Z
 place: Zoom
 person: Mmag.a Cori Liebhart, Alltagsinspirationen
-count: 18
+count: 30
 link: https://www.eventbrite.at/e/104866131422
 ---
 Thema: "Liebevoll durchhalten!" - Resilienzaufbau durch radikale Akzeptanz.
