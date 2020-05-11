@@ -7,5 +7,9 @@ person: Vanessa Jürgensen
 count: 15
 link: https://www.eventbrite.at/e/104868646946
 ---
+Der Workshop richtet sich an alle Menschen, die Shiatsu kennenlernen und ausprobieren wollen. Shiatsu bedeutet in der Übersetzung „Fingerdruck“ und hat seine Ursprünge in der Traditionellen Chinesischen Medizin. Wir massieren entlang von 12 Hauptleitbahnen am Körper welche Meridiane genannt werden. Jeder Meridian ist einem Funktionskreis (Organsystem) zugeordnet und es fließt Energie (Qi). Es wird unter Anderem bei Kopfschmerzen, Verdauungsproblemen und Kreislaufstörungen eingesetzt. Shiatsu kann sehr entspannend sein, aber auch sehr anregend. Es ist eine holistische Technik, die sowohl Selbstwahrnehmung und Körperübungen mit einbezieht als auch anatomisches Wissen. Nach einer kurzen einleitenden Körperübung werden wir sowohl mit Handflächen, Daumen und vielleicht auch noch Ellbogen oder Knie am Körper entlang massieren.
+
+Ihr braucht eine zweite Person, eine Yogamatte, eine dünne Decke und ein Kissen und einen ruhigen Raum. Ich freu mich auf euch.
+
 **Anmeldung ab 11.05.2020 10 Uhr**\
 **Anmeldung über [Eventbrite ](https://www.eventbrite.at/e/104868646946)**
