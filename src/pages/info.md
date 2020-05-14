@@ -57,5 +57,41 @@ sponsors:
     links:
       - http://die-moewe.beranet.info
     logo: /img/MHAW_LOGO.png
+  - title: Rat auf Draht
+    links:
+      - https://www.rataufdraht.at/online-beratung
+    description: |-
+      Zeiten: täglich, 24h
+      Erreichbarkeit:
+      Notrufnummer: 147
+      Chat-Beratung (Mo-Fr, 18-20 Uhr):
+      https://www.rataufdraht.at/chat-beratung/chatberatung-rat-auf-draht
+      Chat der Schulpsychologie (täglich, 9-18 Uhr):
+      https://www.rataufdraht.at/chat-beratung/chat-beratung-schulpsychologie
+    logo: /img/MHAW_LOGO.png
+  - title: Psychosoziale Dienste (PSD) Wien
+    description: |-
+      Zeiten: täglich, 24h
+      Erreichbarkeit:
+      Notrufnummer der PSD: 01 31330 
+    links:
+      - https://www.psd-wien.at/
+    logo: /img/MHAW_LOGO.png
+  - title: Corona-Sorgenhotline (der PSD Wien)
+    description: |-
+      Zeiten: täglich, 8-20 Uhr
+      Erreichbarkeit:
+      Telefon: 01 4000 53000
+    links:
+      - https://www.psd-wien.at/
+    logo: /img/MHAW_LOGO.png
+  - title: Kriseninterventionszentrum Wien
+    description: |-
+      Zeiten: Mo-Fr, 10-17 Uhr
+      Erreichbarkeit:
+      Telefon: 01 406 95 95
+    links:
+      - http://www.kriseninterventionszentrum.at/
+    logo: /img/MHAW_LOGO.png
 ---
 ## **Wir sammeln hier Institutionen, die in der aktuellen Situation zu COVID-19 und auch sonst unterstützend wirken.**
