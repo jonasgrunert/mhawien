@@ -1,7 +1,7 @@
 ---
 templateKey: info-page
 path: info
-title: Eine Woche für die Seele
+title: Unterstützung für die Seele.
 sponsors:
   - title: Psychologische Studierendenberatung
     description: |-
@@ -93,5 +93,51 @@ sponsors:
     links:
       - http://www.kriseninterventionszentrum.at/
     logo: /img/MHAW_LOGO.png
+  - logo: /img/MHAW_LOGO.png
+    title: pro mente Austria
+    description: |-
+      Erreichbarkeit:
+      http://www.promenteaustria.at/
+    links:
+      - http://www.promenteaustria.at/
+  - logo: /img/MHAW_LOGO.png
+    title: Hilfe für Angehörige psychisch Erkrankter (HPE)
+    description: |-
+      auch E-Mail Beratung.
+      Erreichbarkeit:
+      http://www.hpe.at/
+    links:
+      - http://www.hpe.at/
+  - logo: /img/MHAW_LOGO.png
+    title: Fonds Soziales Wien (FSW) - KlientInnentelefon
+    description: |-
+      Zeiten: täglich, 8-20 Uhr
+      Erreichbarkeit:
+      Telefon: 01/24 5 24
+    links:
+      - http://www.fsw.at/
+  - logo: /img/MHAW_LOGO.png
+    title: Unterstützung in Niederösterreich
+    description: |-
+      Krisentelefon (täglich, 0-24 Uhr)
+      Telefon: 0800 20 20 16
+      Weitere Adressen:
+      http://www.psz.co.at/schnelle-hilfe.html
+      https://www.buendnis-depression.at/Hilfsangebote-in-Oesterreich
+    links:
+      - http://www.psz.co.at/schnelle-hilfe.html
+      - ""
+  - logo: /img/MHAW_LOGO.png
+    title: Psychosozialer Dienst Burgenland
+    links:
+      - http://www.psychosozialerdienst.at/
+    description: |-
+      Eisenstadt: Tel.: 057979 / 20100
+      Neusiedl: Tel.: 02167 / 40322
+      Mattersburg: Tel.: 02626 / 62111
+      Oberpullendorf: Tel.: 02612 / 42144
+      Oberwart: Tel.: 03352 / 33511
+      Güssing: Tel.: 03322 / 44311
+      Jennersdorf: Tel.: 03329 / 46311
 ---
 ## **Wir sammeln hier Institutionen, die in der aktuellen Situation zu COVID-19 und auch sonst unterstützend wirken.**
