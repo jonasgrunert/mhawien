@@ -44,19 +44,24 @@ collections:
             name: "tags"
             widget: list
             hint: "Trenne mit einem Komma einzelne Einträge"
-      - file: "src/pages/info.md"
-        label: "Weitere Informationen"
-        name: "info"
+      - file: "src/pages/unterstuetzung.md"
+        label: "Unterstützung finden"
+        name: "support"
         fields:
           - label: "Template Key"
             name: "templateKey"
             widget: "hidden"
-            default: "info-page"
-          - { label: "Path", name: "path", widget: "hidden", default: "info" }
+            default: "support-page"
+          - {
+              label: "Path",
+              name: "path",
+              widget: "hidden",
+              default: "unterstuetzung",
+            }
           - { label: "Vorwort", name: "body", widget: "markdown" }
           - { label: "Title", name: "title", widget: "string" }
-          - label: "Sponsoren"
-            name: "sponsors"
+          - label: "Unterstützung"
+            name: "supporters"
             widget: "list"
             fields:
               - { label: Logo, name: logo, widget: image }
@@ -74,10 +79,39 @@ collections:
             name: "templateKey"
             widget: "hidden"
             default: "about-page"
-          - { label: "Path", name: "path", widget: "hidden", default: "about" }
+          - {
+              label: "Path",
+              name: "path",
+              widget: "hidden",
+              default: "ueber-uns",
+            }
           - { label: "Titel", name: "title", widget: "string" }
           - { label: "Bild", name: image, widget: "image" }
           - { label: "Text", name: "body", widget: "markdown" }
+      - file: "src/pages/partner.md"
+        label: "Partner"
+        name: "partners"
+        fields:
+          - label: "Template Key"
+            name: "templateKey"
+            widget: "hidden"
+            default: "partner-page"
+          - {
+              label: "Path",
+              name: "path",
+              widget: "hidden",
+              default: "partner",
+            }
+          - { label: "Vorwort", name: "body", widget: "markdown" }
+          - { label: "Title", name: "title", widget: "string" }
+          - label: "Partner"
+            name: "partners"
+            widget: "list"
+            fields:
+              - { label: Logo, name: logo, widget: image }
+              - { label: Titel, name: title, widgt: string }
+              - { label: Beschreibung, name: description, widget: text }
+              - { label: Link, name: link, widget: string }
       - file: "src/pages/impressum.md"
         label: "Impressum"
         name: "impressum"

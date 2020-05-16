@@ -48,12 +48,13 @@ const Navbar = () => {
                 <Link className="navbar-item" to="/workshops">
                   Workshops
                 </Link>
-                <Link className="navbar-item" to="/about">
+                <Link className="navbar-item" to="/ueber-uns">
                   Über uns
                 </Link>
-                <Link className="navbar-item" to="/info">
-                  Weitere Informationen
+                <Link className="navbar-item" to="/unterstuetzung">
+                  Unterstüzung finden
                 </Link>
+                <Link className="navbar-item" to="/helfende"></Link>
               </div>
               <div className="navbar-end has-text-centered">
                 <a

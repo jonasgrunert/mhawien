@@ -1,14 +1,14 @@
 ---
-templateKey: info-page
-path: info
+templateKey: support-page
+path: unterstuetzung
 title: Unterstützung für die Seele.
-sponsors:
+supporters:
   - title: Psychologische Studierendenberatung
     description: |-
       Zeiten: Mo, Mi, Do, Fr 9-12  &  Mo, Di, Mi, Do 13-15 Uhr
       Erreichbarkeit: 
       Telefon (Wien): 0664/88342164      
-      E-Mail: psychologische.studentenberatung@univie.ac.at 
+      E-Mail: psychologische.studentenberatung@univie.ac.at
     logo: /img/MHAW_LOGO.png
     links:
       - https://www.studierendenberatung.at/standorte/wien/ueberblick/
@@ -73,7 +73,7 @@ sponsors:
     description: |-
       Zeiten: täglich, 24h
       Erreichbarkeit:
-      Notrufnummer der PSD: 01 31330 
+      Notrufnummer der PSD: 01 31330
     links:
       - https://www.psd-wien.at/
     logo: /img/MHAW_LOGO.png
@@ -140,4 +140,5 @@ sponsors:
       Güssing: Tel.: 03322 / 44311
       Jennersdorf: Tel.: 03329 / 46311
 ---
+
 ## **Wir sammeln hier Institutionen, die in der aktuellen Situation zu COVID-19 und auch sonst unterstützend wirken.**

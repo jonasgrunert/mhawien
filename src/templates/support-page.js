@@ -28,7 +28,7 @@ const InfoPage = ({ data }) => {
       <InfoPageTemplate
         title={markdownRemark.frontmatter.title}
         content={markdownRemark.html}
-        sponsors={markdownRemark.frontmatter.sponsors}
+        sponsors={markdownRemark.frontmatter.supporters}
       />
     </Layout>
   );
@@ -42,8 +42,7 @@ export const InfoPageQuery = graphql`
       html
       frontmatter {
         title
-        sponsors {
-          
+        supporters {
           title
           description
           links

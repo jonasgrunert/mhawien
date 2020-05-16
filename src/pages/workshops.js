@@ -22,6 +22,7 @@ export const Info = ({
           style={{ margin: "0.75em" }}
           href={link}
           target="_blank"
+          rel="noopener noreferrer"
         >
           Anmelden
         </a>
