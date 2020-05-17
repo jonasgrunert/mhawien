@@ -30,12 +30,12 @@ const IndexPageTemplate = ({ tags, date, logo, till, place, nextup }) => (
         >
           <Img fluid={logo} alt="Mental Health Awareness Week" />
         </figure>
-        {date > new Date() ? (
+        {date < new Date() ? (
           <Countdown date={date} />
         ) : till > new Date() ? (
           <div>
             <h5 className="subtitle">
-              Nächster Worshop um{" "}
+              Nächster Workshop:{" "}
               {new Date(nextup.start).toLocaleString("de-AT")}
             </h5>
             <Link to={`/workshops#${encodeURI(nextup.title)}`}>
@@ -84,7 +84,8 @@ const IndexPageTemplate = ({ tags, date, logo, till, place, nextup }) => (
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
   const nextup = data.allMarkdownRemark.edges.sort(
-    (a, b) => new Date(a) - new Date(b)
+    (a, b) =>
+      new Date(a.node.frontmatter.start) - new Date(b.node.frontmatter.start)
   )[0].node.frontmatter;
 
   return (
