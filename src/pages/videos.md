@@ -17,7 +17,7 @@ videos:
   - title: "Interview: Frag eine Psychotherapeutin"
     description: >-2
        In Zusammenarbeit mit Teresa Kremser, BSc. und Psychotherapeutin in Ausbildung unter Supervision ermöglichen wir es Euch, Fragen zu klären, die ihr zum Thema Psychotherapie habt.
-      In diesem Video beantwortet sie erste Fragen, Ihr habt außerdem die Möglichkeit sie bei weiteren Fragen oder bei psychotherapeutischer Beratung TELEFONISCH zu erreichen.
+      In diesem Video beantwortet sie erste Fragen, Ihr habt außerdem die Möglichkeit sie bei weiteren Fragen oder für psychotherapeutische Beratung TELEFONISCH zu erreichen.
 
       Rufnummer: +43 (0) 660 7907400
 
@@ -28,15 +28,15 @@ videos:
       Mag. Sharif-Nassab vom Kriseninterventionszentrum Wien hat Geschichte,
       Slawistik und Psychologie mit Magisterabschluss studiert und sich lange
       Zeit wissenschaftlich mit dem Thema Biographieforschung befasst. Als
-      Klinischer Psychologe war er unter anderem an der Klinik für
-      Psychoanalyse und Psychotherapie des AKH Wien und als psychologischer
-      Berater bei der Erstellung fachärztlich forensischer Gutachten tätig. Er
-      ist außerordentliches Mitglied der Wiener psychoanalytischen Vereinigung
-      und Psychoanalytiker in Ausbildung unter Supervision. Als Analytiker ist
-      er seit mehreren Jahren freier Mitarbeiter des Wiener Psychoanalytischen
+      Klinischer Psychologe war er unter anderem an der Klinik für Psychoanalyse
+      und Psychotherapie des AKH Wien und als psychologischer Berater bei der
+      Erstellung fachärztlich forensischer Gutachten tätig. Er ist
+      außerordentliches Mitglied der Wiener psychoanalytischen Vereinigung und
+      Psychoanalytiker in Ausbildung unter Supervision. Als Analytiker ist er
+      seit mehreren Jahren freier Mitarbeiter des Wiener Psychoanalytischen
       Ambulatoriums, derzeit karenziert. Als Lehrender unterrichtet er
       Medizinstudierende der MedUni Wien im Block 20, Fachbereich Psychiatrie
-      ärztliche Gesprächsführung. Er ist Mitarbeiter des
+      ärztliche Gesprächsführung. Er ist Mitarbeiter des
       Kriseninterventionszentrums Wien und arbeitet als Analytiker in freier
       Praxis.
 
@@ -52,7 +52,7 @@ videos:
       Was sind Anzeichen einer Krise und wie kann ich mit einer Krise umgehen?
 
 
-      Achtung: Wenn es dir nicht gut geht, du dich in einer Krise oder belastenden Situation befindest, dann gibt es immer Anlaufstellen, an die du dich wenden kannst. Eine davon ist das Kriseninterventionszentrum in Wien. Ähnliche Institutionen gibt es auch in anderen Städten! Auf unserer Website („Unterstützung finden”) findest du außerdem weitere hilfreiche Anlaufstellen, die dich unterstützen.” Passt auf euch auf und alles Liebe!
+      Achtung: Wenn es dir nicht gut geht, du dich in einer Krise oder belastenden Situation befindest, dann gibt es immer Anlaufstellen, an die du dich wenden kannst. Eine davon ist das Kriseninterventionszentrum in Wien. Ähnliche Institutionen gibt es auch in anderen Städten! Auf unserer Website („Unterstützung finden”) findest du außerdem weitere hilfreiche Anlaufstellen, die dich unterstützen.” Passt auf euch auf und alles Liebe!
     link: https://drive.google.com/file/d/1J6QfVAqf4o-lncYP_Dy6B1ZPhDMKWDD8/view?usp=sharing
   - title: "Yoga: Vinyasa-Flow (+ Einführung ins Lachyoga)"
     description: >-
