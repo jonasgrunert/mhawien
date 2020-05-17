@@ -30,7 +30,7 @@ const IndexPageTemplate = ({ tags, date, logo, till, place, nextup }) => (
         >
           <Img fluid={logo} alt="Mental Health Awareness Week" />
         </figure>
-        {date < new Date() ? (
+        {date > new Date() ? (
           <Countdown date={date} />
         ) : till > new Date() ? (
           <div>
@@ -83,10 +83,10 @@ const IndexPageTemplate = ({ tags, date, logo, till, place, nextup }) => (
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
-  const nextup = data.allMarkdownRemark.edges.sort(
-    (a, b) =>
-      new Date(a.node.frontmatter.start) - new Date(b.node.frontmatter.start)
-  )[0].node.frontmatter;
+  const nextup = data.allMarkdownRemark.edges
+    .map((a) => a.node.frontmatter)
+    .filter((a) => new Date(a.start) > new Date())
+    .sort((a, b) => new Date(a.start) - new Date(b.start))[0];
 
   return (
     <Layout isIndex>
