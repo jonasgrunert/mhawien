@@ -10,7 +10,7 @@ const Workshop = ({
   link,
   linkText,
 }) => (
-  <div className="box">
+  <div className="box" id={encodeURI(title)}>
     <div className="columns">
       <div className="column" style={{ display: "flex", alignItems: "center" }}>
         <h1 className="subtitle">{title}</h1>

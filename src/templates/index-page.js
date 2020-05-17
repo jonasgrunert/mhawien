@@ -7,7 +7,7 @@ import Navbar from "../components/Navbar";
 import Countdown from "../components/countdown";
 import facebook from "../img/social/facebook.svg";
 
-const IndexPageTemplate = ({ tags, date, logo, till, place }) => (
+const IndexPageTemplate = ({ tags, date, logo, till, place, nextup }) => (
   <section className="hero is-fullheight">
     <div className="hero-head">
       <Navbar />
@@ -30,7 +30,21 @@ const IndexPageTemplate = ({ tags, date, logo, till, place }) => (
         >
           <Img fluid={logo} alt="Mental Health Awareness Week" />
         </figure>
-        <Countdown date={date} />
+        {date > new Date() ? (
+          <Countdown date={date} />
+        ) : till > new Date() ? (
+          <div>
+            <h5 className="subtitle">
+              Nächster Worshop um{" "}
+              {new Date(nextup.start).toLocaleString("de-AT")}
+            </h5>
+            <Link to={`/workshops#${encodeURI(nextup.title)}`}>
+              <h5 className="title">{nextup.title}</h5>
+            </Link>
+          </div>
+        ) : (
+          <h5 className="title">Die Woche ist leider schon vorbei</h5>
+        )}
         <div className="columns is-centered">
           <div className="tags are-large column">
             {tags &&
@@ -69,6 +83,9 @@ const IndexPageTemplate = ({ tags, date, logo, till, place }) => (
 
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark;
+  const nextup = data.allMarkdownRemark.edges.sort(
+    (a, b) => new Date(a) - new Date(b)
+  )[0].node.frontmatter;
 
   return (
     <Layout isIndex>
@@ -78,6 +95,7 @@ const IndexPage = ({ data }) => {
         logo={data.imageSharp.fluid}
         till={new Date(frontmatter.till)}
         place={frontmatter.place}
+        nextup={nextup}
       />
     </Layout>
   );
@@ -99,6 +117,16 @@ export const pageQuery = graphql`
     imageSharp(original: { src: { regex: "/LOGO/" } }) {
       fluid(maxWidth: 1080) {
         ...GatsbyImageSharpFluid_withWebp_tracedSVG
+      }
+    }
+    allMarkdownRemark(filter: { fileAbsolutePath: { regex: "/workshops/" } }) {
+      edges {
+        node {
+          frontmatter {
+            title
+            start
+          }
+        }
       }
     }
   }
