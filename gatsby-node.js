@@ -70,7 +70,6 @@ exports.createSchemaCustomization = ({ actions }) => {
       videos: [Video]
     }
     type Partner {
-      logo: File
       title: String
       description: String
       link: String
