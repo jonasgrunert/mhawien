@@ -58,3 +58,28 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     });
   }
 };
+
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions;
+  const typeDefs = `
+    type MarkdownRemark implements Node {
+      frontmatter: Frontmatter
+    }
+    type Frontmatter {
+      partners: [Partner]
+      videos: [Video]
+    }
+    type Partner {
+      logo: File
+      title: String
+      description: String
+      link: String
+    }
+    type Video {
+      title: String
+      description: String
+      link: String
+    }
+  `;
+  createTypes(typeDefs);
+};

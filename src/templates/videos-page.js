@@ -12,9 +12,7 @@ const VideosPage = ({ videos, title, content }) => {
           className="content"
           dangerouslySetInnerHTML={{ __html: content }}
         />
-        {videos.map((i) => (
-          <Workshop {...i} linkText="Link" />
-        ))}
+        {videos && videos.map((i) => <Workshop {...i} linkText="Link" />)}
       </div>
     </Layout>
   );
@@ -24,11 +22,7 @@ export default ({ data }) => (
   <VideosPage
     title={data.markdownRemark.frontmatter.title}
     content={data.markdownRemark.html}
-    videos={data.markdownRemark.frontmatter.videos.map((node) => ({
-      title: node.title,
-      description: node.description,
-      link: node.link,
-    }))}
+    videos={data.markdownRemark.frontmatter.videos}
   />
 );
 
