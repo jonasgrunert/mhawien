@@ -54,7 +54,9 @@ const Navbar = () => {
                 <Link className="navbar-item" to="/unterstuetzung">
                   Unterstüzung finden
                 </Link>
-                <Link className="navbar-item" to="/helfende"></Link>
+                <Link className="navbar-item" to="/partner">
+                  Partner
+                </Link>
               </div>
               <div className="navbar-end has-text-centered">
                 <a
