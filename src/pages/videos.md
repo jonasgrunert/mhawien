@@ -3,6 +3,17 @@ templateKey: videos-page
 path: videos
 title: Videos
 videos:
+  - title: 'Mind the Mind: Einführung in das Thema "Mental Health"'
+    description: >-
+      In dem Video “Mind the Mind” bietet Carolin Drewes euch eine Einführung in
+      das Thema mentale Gesundheit. Ihr ist es ein Anliegen, psychologisches
+      Wissen gemeinsam mit anderen Studierenden in die Gesellschaft zu bringen.
+      Sie koordiniert die Kampagne Mind the Mind der Social Impact Initiative in
+      Österreich und setzt sich damit für das Bewusstsein für psychische
+      Gesundheit ein.
+
+      Mit der Kampagne Mind the Mind werden schwerpunktmäßig Schüler*innen durch interaktive Übungen, Rollenspiele und Gruppendiskussionen angesprochen. Nach Abschluss der fünften Welle der Kampagne sind 27 europäische Länder und mehr als 30.000 Schüler*innen erreicht worden. Das Projekt wird von der Europäischen Jugendstiftung und dem Europarat unterstützt.
+    link: https://drive.google.com/open?id=11PLZIoO8qJRpQWm_KUW4owqOMF1min3l
   - title: "Interview: Frag eine Psychotherapeutin"
     description: >-2
        In Zusammenarbeit mit Teresa Kremser, BSc. und Psychotherapeutin in Ausbildung unter Supervision ermöglichen wir es Euch, Fragen zu klären, die ihr zum Thema Psychotherapie habt.
@@ -67,16 +78,5 @@ videos:
 
       Aufgrund ihrer Erfahrungen mit verschiedenen Traditionen entwickelte sie eine eigene Körperarbeit, die sie „FLOW-NUAD – The Art of Flow“ nennt.
     link: https://drive.google.com/open?id=1I_HLbyu4m2QqtZGFQVtLj3Aw_HSTxr1w
-  - title: 'Mind the Mind: Einführung in das Thema "Mental Health"'
-    description: >-
-      In dem Video “Mind the Mind” bietet Carolin Drewes euch eine Einführung in
-      das Thema mentale Gesundheit. Ihr ist es ein Anliegen, psychologisches
-      Wissen gemeinsam mit anderen Studierenden in die Gesellschaft zu bringen.
-      Sie koordiniert die Kampagne Mind the Mind der Social Impact Initiative in
-      Österreich und setzt sich damit für das Bewusstsein für psychische
-      Gesundheit ein.
-
-      Mit der Kampagne Mind the Mind werden schwerpunktmäßig Schüler*innen durch interaktive Übungen, Rollenspiele und Gruppendiskussionen angesprochen. Nach Abschluss der fünften Welle der Kampagne sind 27 europäische Länder und mehr als 30.000 Schüler*innen erreicht worden. Das Projekt wird von der Europäischen Jugendstiftung und dem Europarat unterstützt.
-    link: https://drive.google.com/open?id=11PLZIoO8qJRpQWm_KUW4owqOMF1min3l
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen, die die gesamte Woche über (18.05 bis 24.05.) verfügbar sind.
