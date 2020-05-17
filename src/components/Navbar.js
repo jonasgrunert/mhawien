@@ -57,6 +57,9 @@ const Navbar = () => {
                 <Link className="navbar-item" to="/partner">
                   Partner
                 </Link>
+                <Link className="navbar-item" to="/videos">
+                  Videos
+                </Link>
               </div>
               <div className="navbar-end has-text-centered">
                 <a

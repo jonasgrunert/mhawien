@@ -1,52 +1,7 @@
 import React from "react";
 import Layout from "../components/Layout";
 import { graphql } from "gatsby";
-
-export const Info = ({
-  title,
-  description,
-  person,
-  start,
-  end,
-  place,
-  link,
-}) => (
-  <div className="box">
-    <div className="columns">
-      <div className="column" style={{ display: "flex", alignItems: "center" }}>
-        <h1 className="subtitle">{title}</h1>
-      </div>
-      <div classname="column">
-        <a
-          class="button is-primary is-pulled-right"
-          style={{ margin: "0.75em" }}
-          href={link}
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Anmelden
-        </a>
-      </div>
-    </div>
-    <div
-      className="content"
-      dangerouslySetInnerHTML={{ __html: description }}
-    />
-    <div className="columns is-centered">
-      <div
-        className="column is-one-third"
-        style={{ display: "flex", alignItems: "center" }}
-      >
-        Präsentiert von:
-        <b>{person}</b>
-      </div>
-      <div className="column is-one-third">
-        Von <b>{start.toLocaleString()}</b> bis <b>{end.toLocaleString()}</b> in{" "}
-        <b>{place}</b>
-      </div>
-    </div>
-  </div>
-);
+import Workshop from "../components/Workshop";
 
 const WorkshopsPage = ({ workshops }) => {
   return (
@@ -56,13 +11,13 @@ const WorkshopsPage = ({ workshops }) => {
         {workshops
           .filter(({ start }) => new Date() < start)
           .map((i) => (
-            <Info {...i} />
+            <Workshop {...i} />
           ))}
         <h1 className="title">Vergangene Kurse</h1>
         {workshops
           .filter(({ start }) => new Date() > start)
           .map((i) => (
-            <Info {...i} />
+            <Workshop {...i} />
           ))}
       </div>
     </Layout>

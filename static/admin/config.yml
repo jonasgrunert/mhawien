@@ -58,8 +58,8 @@ collections:
               widget: "hidden",
               default: "unterstuetzung",
             }
-          - { label: "Vorwort", name: "body", widget: "markdown" }
           - { label: "Title", name: "title", widget: "string" }
+          - { label: "Vorwort", name: "body", widget: "markdown" }
           - label: "Unterstützung"
             name: "supporters"
             widget: "list"
@@ -102,13 +102,31 @@ collections:
               widget: "hidden",
               default: "partner",
             }
-          - { label: "Vorwort", name: "body", widget: "markdown" }
           - { label: "Title", name: "title", widget: "string" }
+          - { label: "Vorwort", name: "body", widget: "markdown" }
           - label: "Partner"
             name: "partners"
             widget: "list"
             fields:
               - { label: Logo, name: logo, widget: image }
+              - { label: Titel, name: title, widgt: string }
+              - { label: Beschreibung, name: description, widget: text }
+              - { label: Link, name: link, widget: string }
+      - file: "src/pages/videos.md"
+        label: "Videos"
+        name: "videos"
+        fields:
+          - label: "Template Key"
+            name: "templateKey"
+            widget: "hidden"
+            default: "videos-page"
+          - { label: "Path", name: "path", widget: "hidden", default: "video" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Vorwort", name: "body", widget: "markdown" }
+          - label: "Videos"
+            name: "videos"
+            widget: "list"
+            fields:
               - { label: Titel, name: title, widgt: string }
               - { label: Beschreibung, name: description, widget: text }
               - { label: Link, name: link, widget: string }
