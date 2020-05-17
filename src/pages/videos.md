@@ -57,5 +57,15 @@ videos:
 
       Aufgrund ihrer Erfahrungen mit verschiedenen Traditionen entwickelte sie eine eigene Körperarbeit, die sie „FLOW-NUAD – The Art of Flow“ nennt.
     link: https://drive.google.com/open?id=1EVQWBrq9POePGdUmGoyg-XTHVl8AnjXG
+  - title: "Yoga: Yoga der Achtsamkeit und Yoga Nidra"
+    description: >-
+      Das Video wird bereitgestellt von Veni Labi aus dem Ganesha Yogazentrum
+      (https://www.ashtanga.at/)
+
+      Veni war schon immer fasziniert von der Kommunikation, Verbindung und dem Austausch mit anderen Menschen über die Sprache und über den Körper. So beschäftigte sie sich, besonders seit der Geburt ihres Sohnes Luca 1990, verstärkt mit Körperarbeit, existentieller Selbsterfahrung und der Verbindung von Körper und Geist. Sie wurde Yoga-Lehrerin, NUAD-Praktikerin und NUAD-Lehrerin, Heilmasseurin und Lebens- und Sozialberaterin. Sie besuchte Weiterbildungen in Tantra, Trance-Tanz, Schamanismus, Atem- und Körperarbeit, LACH-Yoga, AcroYoga & Yoga Nidra.
+
+
+      Aufgrund ihrer Erfahrungen mit verschiedenen Traditionen entwickelte sie eine eigene Körperarbeit, die sie „FLOW-NUAD – The Art of Flow“ nennt.
+    link: https://drive.google.com/open?id=1I_HLbyu4m2QqtZGFQVtLj3Aw_HSTxr1w
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen, die die gesamte Woche über (18.05 bis 24.05.) verfügbar sind.
