@@ -78,5 +78,26 @@ videos:
 
       Aufgrund ihrer Erfahrungen mit verschiedenen Traditionen entwickelte sie eine eigene Körperarbeit, die sie „FLOW-NUAD – The Art of Flow“ nennt.
     link: https://drive.google.com/open?id=1I_HLbyu4m2QqtZGFQVtLj3Aw_HSTxr1w
+  - title: '"Oh ein Vogel!" - Meditationsanleitung für Beginner'
+    description: >
+      Für alle, die sich schon einmal gefragt haben, wie Meditieren eigentlich
+      funktioniert und wie ich es lernen kann, gibt es hier eine kleine
+      Einführung in die Mindfulness Meditation.
+
+
+      Mit einer Mischung aus praktischen Anleitungen und Hintergrundwissen bekommt ihr die Grundhaltung und die Herangehensweise der Mindfulness Meditation näher gebracht.
+
+
+      Vorneweg ist zu sagen, dass grundsätzlich jeder meditieren kann. Das einzige was wir also zum Mitmachen brauchen ist eine angenehme Sitzunterlage sowie etwas Ruhe und Zeit.
+
+
+      Auch kann ich schon einmal verraten, dass es sich bei der vorgestellten Meditation nicht um ein bloßes "An-nichts-denken" handelt - wir werden uns stattdessen angenehmen Eindrücken von innen und außen zuwenden.
+
+
+      Ich wünsche viel Spaß beim Ausprobieren!
+
+
+      Bereitgestellt durch: Lennart Schüller, B.A. Sportwissenschaften, B.Sc. Psychologie
+    link: https://soundcloud.com/user-561262389/oh-ein-vogel-meditationsanleitung-fur-beginner/s-MH4llxCBDLr
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen, die die gesamte Woche über (18.05 bis 24.05.) verfügbar sind.
