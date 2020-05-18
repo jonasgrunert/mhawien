@@ -52,7 +52,7 @@ const Navbar = () => {
                   Über uns
                 </Link>
                 <Link className="navbar-item" to="/unterstuetzung">
-                  Unterstüzung finden
+                  Unterstützung finden
                 </Link>
                 <Link className="navbar-item" to="/partner">
                   Partner
