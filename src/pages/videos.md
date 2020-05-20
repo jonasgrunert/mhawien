@@ -54,7 +54,7 @@ videos:
 
       Achtung: Wenn es dir nicht gut geht, du dich in einer Krise oder belastenden Situation befindest, dann gibt es immer Anlaufstellen, an die du dich wenden kannst. Eine davon ist das Kriseninterventionszentrum in Wien. Ähnliche Institutionen gibt es auch in anderen Städten! Auf unserer Website („Unterstützung finden”) findest du außerdem weitere hilfreiche Anlaufstellen, die dich unterstützen.” Passt auf euch auf und alles Liebe!
     link: https://drive.google.com/file/d/1J6QfVAqf4o-lncYP_Dy6B1ZPhDMKWDD8/view?usp=sharing
-  - title: "Yoga: Vinyasa-Flow (+ Einführung ins Lachyoga)"
+  - title: "Yoga: Vinyasa-Flow"
     description: >-
       Veni war schon immer fasziniert von der Kommunikation, Verbindung und dem
       Austausch mit anderen Menschen über die Sprache und über den Körper. So
@@ -67,6 +67,8 @@ videos:
 
 
       Aufgrund ihrer Erfahrungen mit verschiedenen Traditionen entwickelte sie eine eigene Körperarbeit, die sie „FLOW-NUAD – The Art of Flow“ nennt.
+
+      Für Veni Labi bedeutet Mental Health unter anderem im Leben Sinn zu finden und zu Lernen, sein menschliches Potential zum Wohle Anderer einzusetzen und zu entfalten. Es liegt ihr besonders am Herzen ihre jahrelangen (Praxis-) Erfahrungen weiterzugeben und mit Anderen teilen können.
     link: https://drive.google.com/open?id=1EVQWBrq9POePGdUmGoyg-XTHVl8AnjXG
   - title: "Yoga: Yoga der Achtsamkeit und Yoga Nidra"
     description: >-
@@ -77,6 +79,8 @@ videos:
 
 
       Aufgrund ihrer Erfahrungen mit verschiedenen Traditionen entwickelte sie eine eigene Körperarbeit, die sie „FLOW-NUAD – The Art of Flow“ nennt.
+
+      Für Veni Labi bedeutet Mental Health unter anderem im Leben Sinn zu finden und zu Lernen, sein menschliches Potential zum Wohle Anderer einzusetzen und zu entfalten. Es liegt ihr besonders am Herzen ihre jahrelangen (Praxis-) Erfahrungen weiterzugeben und mit Anderen teilen können.
     link: https://drive.google.com/open?id=1I_HLbyu4m2QqtZGFQVtLj3Aw_HSTxr1w
   - title: '"Oh ein Vogel!" - Meditationsanleitung für Beginner'
     description: >
@@ -99,5 +103,17 @@ videos:
 
       Bereitgestellt durch: Lennart Schüller, B.A. Sportwissenschaften, B.Sc. Psychologie
     link: https://soundcloud.com/user-561262389/oh-ein-vogel-meditationsanleitung-fur-beginner/s-MH4llxCBDLr
+  - title: "Yoga: Einführung ins Lachyoga"
+    link: https://drive.google.com/open?id=1GiPQbMNjK_ZYRikDoEmLrfOyoVD3KOFp
+    description: >-
+      Das Video wird bereitgestellt von Veni Labi aus dem Ganesha Yogazentrum
+      (https://www.ashtanga.at/)
+
+      Veni war schon immer fasziniert von der Kommunikation, Verbindung und dem Austausch mit anderen Menschen über die Sprache und über den Körper. So beschäftigte sie sich, besonders seit der Geburt ihres Sohnes Luca 1990, verstärkt mit Körperarbeit, existentieller Selbsterfahrung und der Verbindung von Körper und Geist. Sie wurde Yoga-Lehrerin, NUAD-Praktikerin und NUAD-Lehrerin, Heilmasseurin und Lebens- und Sozialberaterin. Sie besuchte Weiterbildungen in Tantra, Trance-Tanz, Schamanismus, Atem- und Körperarbeit, LACH-Yoga, AcroYoga & Yoga Nidra.
+
+
+      Aufgrund ihrer Erfahrungen mit verschiedenen Traditionen entwickelte sie eine eigene Körperarbeit, die sie „FLOW-NUAD – The Art of Flow“ nennt.
+
+      Für Veni Labi bedeutet Mental Health unter anderem im Leben Sinn zu finden und zu Lernen, sein menschliches Potential zum Wohle Anderer einzusetzen und zu entfalten. Es liegt ihr besonders am Herzen ihre jahrelangen (Praxis-) Erfahrungen weiterzugeben und mit Anderen teilen können.
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen, die die gesamte Woche über (18.05 bis 24.05.) verfügbar sind.
