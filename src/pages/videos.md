@@ -115,5 +115,14 @@ videos:
 
       Bereitgestellt durch: Lennart Schüller, B.A. Sportwissenschaften, B.Sc. Psychologie
     link: https://soundcloud.com/user-561262389/oh-ein-vogel-meditationsanleitung-fur-beginner/s-MH4llxCBDLr
+  - title: "Aufzeichnung: Flucht, Migration und psychische Gesundheit"
+    description: >-
+      Am Dienstag fand der Vortrag von Mag.a Dr.in Dina Weindl zum Thema
+      "Flucht, Migration und psychische Gesundheit. Und warum man auch bei
+      COVID-19 Maßnahmen an Geflüchtete denken sollte." statt und wurde
+      aufgenommen.
+
+      Durch die Anmeldung hierüber habt ihr die Gelegenheit, bis zum Ende der Woche diese Aufnahme erneut abzuspielen.
+    link: https://www.eventbrite.at/e/aufzeichnung-flucht-migration-und-psychische-gesundheit-tickets-106127486168
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen, die die gesamte Woche über (18.05 bis 24.05.) verfügbar sind.
