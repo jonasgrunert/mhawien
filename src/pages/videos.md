@@ -23,46 +23,6 @@ videos:
 
       Weitere Infos zu Teresa Kremser findet Ihr unter: www.psychotherapie-kremser.at
     link: https://drive.google.com/file/d/1YsI64JZMPhUcEg_DnQy_6-c9v8F_GGgJ/view?usp=sharing
-  - title: "Yoga: Vinyasa-Flow"
-    description: >-
-      Veni war schon immer fasziniert von der Kommunikation, Verbindung und dem
-      Austausch mit anderen Menschen über die Sprache und über den Körper. So
-      beschäftigte sie sich, besonders seit der Geburt ihres Sohnes Luca 1990,
-      verstärkt mit Körperarbeit, existentieller Selbsterfahrung und der
-      Verbindung von Körper und Geist. Sie wurde Yoga-Lehrerin, NUAD-Praktikerin
-      und NUAD-Lehrerin, Heilmasseurin und Lebens- und Sozialberaterin. Sie
-      besuchte Weiterbildungen in Tantra, Trance-Tanz, Schamanismus, Atem- und
-      Körperarbeit, LACH-Yoga, AcroYoga & Yoga Nidra.
-
-
-      Aufgrund ihrer Erfahrungen mit verschiedenen Traditionen entwickelte sie eine eigene Körperarbeit, die sie „FLOW-NUAD – The Art of Flow“ nennt.
-
-      Für Veni Labi bedeutet Mental Health unter anderem im Leben Sinn zu finden und zu Lernen, sein menschliches Potential zum Wohle Anderer einzusetzen und zu entfalten. Es liegt ihr besonders am Herzen ihre jahrelangen (Praxis-) Erfahrungen weiterzugeben und mit Anderen teilen können.
-    link: https://drive.google.com/open?id=1EVQWBrq9POePGdUmGoyg-XTHVl8AnjXG
-  - title: "Yoga: Yoga der Achtsamkeit und Yoga Nidra"
-    description: >-
-      Das Video wird bereitgestellt von Veni Labi aus dem Ganesha Yogazentrum
-      (https://www.ashtanga.at/)
-
-      Veni war schon immer fasziniert von der Kommunikation, Verbindung und dem Austausch mit anderen Menschen über die Sprache und über den Körper. So beschäftigte sie sich, besonders seit der Geburt ihres Sohnes Luca 1990, verstärkt mit Körperarbeit, existentieller Selbsterfahrung und der Verbindung von Körper und Geist. Sie wurde Yoga-Lehrerin, NUAD-Praktikerin und NUAD-Lehrerin, Heilmasseurin und Lebens- und Sozialberaterin. Sie besuchte Weiterbildungen in Tantra, Trance-Tanz, Schamanismus, Atem- und Körperarbeit, LACH-Yoga, AcroYoga & Yoga Nidra.
-
-
-      Aufgrund ihrer Erfahrungen mit verschiedenen Traditionen entwickelte sie eine eigene Körperarbeit, die sie „FLOW-NUAD – The Art of Flow“ nennt.
-
-      Für Veni Labi bedeutet Mental Health unter anderem im Leben Sinn zu finden und zu Lernen, sein menschliches Potential zum Wohle Anderer einzusetzen und zu entfalten. Es liegt ihr besonders am Herzen ihre jahrelangen (Praxis-) Erfahrungen weiterzugeben und mit Anderen teilen können.
-    link: https://drive.google.com/open?id=1I_HLbyu4m2QqtZGFQVtLj3Aw_HSTxr1w
-  - title: "Yoga: Einführung ins Lachyoga"
-    link: https://drive.google.com/open?id=1GiPQbMNjK_ZYRikDoEmLrfOyoVD3KOFp
-    description: >-
-      Das Video wird bereitgestellt von Veni Labi aus dem Ganesha Yogazentrum
-      (https://www.ashtanga.at/)
-
-      Veni war schon immer fasziniert von der Kommunikation, Verbindung und dem Austausch mit anderen Menschen über die Sprache und über den Körper. So beschäftigte sie sich, besonders seit der Geburt ihres Sohnes Luca 1990, verstärkt mit Körperarbeit, existentieller Selbsterfahrung und der Verbindung von Körper und Geist. Sie wurde Yoga-Lehrerin, NUAD-Praktikerin und NUAD-Lehrerin, Heilmasseurin und Lebens- und Sozialberaterin. Sie besuchte Weiterbildungen in Tantra, Trance-Tanz, Schamanismus, Atem- und Körperarbeit, LACH-Yoga, AcroYoga & Yoga Nidra.
-
-
-      Aufgrund ihrer Erfahrungen mit verschiedenen Traditionen entwickelte sie eine eigene Körperarbeit, die sie „FLOW-NUAD – The Art of Flow“ nennt.
-
-      Für Veni Labi bedeutet Mental Health unter anderem im Leben Sinn zu finden und zu Lernen, sein menschliches Potential zum Wohle Anderer einzusetzen und zu entfalten. Es liegt ihr besonders am Herzen ihre jahrelangen (Praxis-) Erfahrungen weiterzugeben und mit Anderen teilen können.
   - title: '"Oh ein Vogel!" - Meditationsanleitung für Beginner'
     description: >
       Für alle, die sich schon einmal gefragt haben, wie Meditieren eigentlich
