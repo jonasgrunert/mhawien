@@ -14,11 +14,19 @@ const WorkshopsPage = ({ workshops }) => {
             <Workshop {...i} />
           ))}
         <h1 className="title">Vergangene Kurse</h1>
-        {workshops
-          .filter(({ start }) => new Date() > start)
-          .map((i) => (
-            <Workshop {...i} />
-          ))}
+        {Object.entries(
+          workshops
+            .filter(({ start }) => new Date() > start)
+            .reduce((prev, curr) => {
+              const year = curr.start.getFullYear();
+              if(prev[year]){
+                return {...prev, [year]: [...prev[year], curr]}
+              }
+              return {...prev, [year]: [curr]}
+            }, {})
+          )
+          .map(([k, i]) => <><h3 className="subtitle">{k}</h3>{i.map(w => <Workshop {...w} />)}</>)
+          }
       </div>
     </Layout>
   );

@@ -19,7 +19,7 @@ const Navbar = () => {
       `}
       render={(data) => (
         <nav
-          className="navbar is-transparent"
+          className="navbar is-transparent is-fixed-top"
           role="navigation"
           aria-label="main-navigation"
         >

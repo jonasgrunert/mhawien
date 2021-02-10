@@ -7,14 +7,11 @@ import Navbar from "../components/Navbar";
 import Countdown from "../components/countdown";
 import facebook from "../img/social/facebook.svg";
 
-const IndexPageTemplate = ({ tags, date, logo, till, place, nextup }) => (
-  <section className="hero is-fullheight">
-    <div className="hero-head">
-      <Navbar />
-    </div>
+const IndexPageTemplate = ({ tags, date, logo, till, place, nextup, title }) => (
+  <section className="hero is-fullheight-with-navbar">
     <div className="hero-body">
       <div className="container has-text-centered ">
-        <h1 className="title">3. Mental Health Awareness Week Wien</h1>
+        <h1 className="title">{title}</h1>
         <h1 class="subtitle">
           {date.toLocaleDateString("de-AT")} bis{" "}
           {till.toLocaleDateString("de-AT")} | {place}
@@ -97,6 +94,7 @@ const IndexPage = ({ data }) => {
         till={new Date(frontmatter.till)}
         place={frontmatter.place}
         nextup={nextup}
+        title={frontmatter.title}
       />
     </Layout>
   );
@@ -113,6 +111,7 @@ export const pageQuery = graphql`
         date
         till
         place
+        title
       }
     }
     imageSharp(original: { src: { regex: "/LOGO/" } }) {

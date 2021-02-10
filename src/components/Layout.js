@@ -25,7 +25,7 @@ const TemplateWrapper = ({ children, isIndex }) => (
     render={(data) => (
       <>
         <Helmet>
-          <html lang="en" />
+          <html lang="de" className="has-navbar-fixed-top" />
           <title>{data.site.siteMetadata.title}</title>
           <meta
             name="description"
@@ -45,7 +45,7 @@ const TemplateWrapper = ({ children, isIndex }) => (
           <meta property="og:url" content="/" />
           <meta property="og:image" content="/img/og-image.jpg" />
         </Helmet>
-        {!isIndex && <Navbar />}
+        <Navbar />
         {children}
         {!isIndex && (
           <div

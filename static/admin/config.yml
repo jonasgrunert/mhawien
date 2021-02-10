@@ -37,6 +37,7 @@ collections:
             widget: "hidden"
             default: "index-page"
           - { label: "Path", name: "path", widget: "hidden", default: "/" }
+          - { label: "Titel", name: "titel", widget: "string" }
           - { label: "Von", name: "date", widget: "datetime" }
           - { label: "Bis", name: "till", widget: "datetime" }
           - { label: "Ort", name: "place", widget: "string" }
