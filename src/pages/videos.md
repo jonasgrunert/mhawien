@@ -17,9 +17,7 @@ videos:
   - title: "Interview: Frag eine Psychotherapeutin"
     description: >-2
        In Zusammenarbeit mit Teresa Kremser, BSc. und Psychotherapeutin in Ausbildung unter Supervision ermöglichen wir es Euch, Fragen zu klären, die ihr zum Thema Psychotherapie habt.
-      In diesem Video beantwortet sie erste Fragen, Ihr habt außerdem die Möglichkeit sie bei weiteren Fragen oder für psychotherapeutische Beratung TELEFONISCH zu erreichen.
-
-      Rufnummer: +43 (0) 660 7907400
+      In diesem Video beantwortet sie erste Fragen.
 
       Weitere Infos zu Teresa Kremser findet Ihr unter: www.psychotherapie-kremser.at
     link: https://drive.google.com/file/d/1YsI64JZMPhUcEg_DnQy_6-c9v8F_GGgJ/view?usp=sharing
