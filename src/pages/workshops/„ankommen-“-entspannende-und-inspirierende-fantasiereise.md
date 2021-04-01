@@ -4,7 +4,7 @@ start: 2020-05-22T13:00:39.972Z
 end: 2020-05-22T14:00:00.000Z
 place: Zoom
 person: Victoria Matejka (Verein actinGreen)
-count: 20
+count: 18
 link: "-"
 ---
 <!--StartFragment-->
