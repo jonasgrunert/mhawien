@@ -43,4 +43,4 @@ videos:
       Bereitgestellt durch: Lennart Schüller, B.A. Sportwissenschaften, B.Sc. Psychologie
     link: https://soundcloud.com/user-561262389/oh-ein-vogel-meditationsanleitung-fur-beginner/s-MH4llxCBDLr
 ---
-Hier findet ihr Links zu Videos und Audioaufnahmen, die die gesamte Woche über (18.05 bis 24.05.) verfügbar sind.
+Hier findet ihr Links zu Videos und Audioaufnahmen rund um mentale Gesundheit.
