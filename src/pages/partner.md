@@ -13,5 +13,10 @@ partners:
     description: Die Mental Health Awareness Week ist ein gefördertes Sonderprojekt
       der HochschülerInnenschaft an der Universität Wien.
     link: https://oeh.univie.ac.at/
+  - logo: /img/mind-the-mind_neu-300x233.png
+    title: Mind The Mind Austria
+    description: MtM unterstützt die MHAW bei der Bewerbung und Betreuung unserer
+      Veranstaltungen.
+    link: www.plast.at/efpsa/mind-the-mind-oesterreich
 ---
 Wir bedanken uns bei allen, die uns unterstützen!
