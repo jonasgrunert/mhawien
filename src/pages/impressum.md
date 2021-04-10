@@ -7,4 +7,4 @@ title: Impressum
 
 Kontakt: [m.h.awarenessweek@gmail.com](m.h.awarenessweek@gmail.com)
 
-Die Mental Health Awareness Week ist ein gefördertes Sonderprojekt der [HochschülerInnenschaft an der Universität Wien](https://oeh.univie.ac.at/).
+Die Mental Health Awareness Week ist ein gefördertes Sonderprojekt der [](https://oeh.univie.ac.at/)[Plattform StudentInnen des Bundesverbands Österreichscher PsychologInnen](https://www.plast.at).
