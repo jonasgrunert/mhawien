@@ -1,5 +1,5 @@
 ---
-title: Humortraining
+title: "Workshop: Humortraining"
 start: 2021-05-10T07:30:39.972Z
 end: 2021-05-10T09:00:00.000Z
 place: Zoom
