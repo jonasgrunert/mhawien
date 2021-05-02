@@ -1,7 +1,7 @@
 ---
 title: "Workshop: 'Zuhause in Mir'"
-start: 2021-05-02T16:13:33.632Z
-end: 2021-05-02T16:13:33.643Z
+start: 2021-05-11T09:30:00.000Z
+end: 2021-05-11T11:00:00.000Z
 place: Zoom
 person: Mag. Dorothee Resch-Rathjen
 count: 20
