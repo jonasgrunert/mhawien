@@ -1,7 +1,7 @@
 ---
 title: "Workshop: Scheiter Heiter!"
-start: 2021-05-02T18:32:41.720Z
-end: 2021-05-02T18:32:41.727Z
+start: 2021-05-14T16:00:00.000Z
+end: 2021-05-14T18:00:00.000Z
 place: Zoom
 person: Stefanie Mimra
 count: 15
