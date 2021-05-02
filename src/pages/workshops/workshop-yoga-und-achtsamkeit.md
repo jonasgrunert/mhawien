@@ -7,9 +7,7 @@ person: M.Sc. Hannah Tschenett und B.Sc. Katrin Schäfer
 count: 35
 link: https://www.eventbrite.at/e/mhaw-2021-yoga-achtsamkeit-mehr-als-ein-hype-tickets-153183163967?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
 ---
-Mehr als nur ein Hype? Was bringen Mind-Body-Techniken wirklich?
-
-
+#### Mehr als nur ein Hype? Was bringen Mind-Body-Techniken wirklich?
 
 Jede*r von uns hat mittlerweile schon einmal Yoga oder eine Achtsamkeitsübung gemacht – oder kennt zumindest jemanden, der eines von beidem praktiziert. Doch was bringen uns solche Mind-Body-Techniken wirklich? 
 
