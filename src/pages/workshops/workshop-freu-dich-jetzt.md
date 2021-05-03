@@ -1,7 +1,7 @@
 ---
 title: "Workshop: Freu dich! Jetzt!?"
-start: 2021-05-11T20:00:00.000Z
-end: 2021-05-11T21:00:00.000Z
+start: 2021-05-11T08:00:00.000Z
+end: 2021-05-11T09:00:00.000Z
 place: Zoom
 person: Mag. Claudia Mödlagl
 count: 30
