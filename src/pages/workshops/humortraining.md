@@ -1,6 +1,6 @@
 ---
 title: "Workshop: Humortraining"
-start: 2021-05-10T07:30:39.972Z
+start: 2021-05-10T07:30:00.000Z
 end: 2021-05-10T09:00:00.000Z
 place: Zoom
 person: Mag.a Dr.in Doris Bach
