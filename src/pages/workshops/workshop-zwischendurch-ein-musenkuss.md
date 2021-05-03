@@ -1,6 +1,6 @@
 ---
 title: "Workshop: Zwischendurch ein Musenkuss"
-start: 2021-05-13T22:00:00.000Z
+start: 2021-05-14T10:00:00.000Z
 end: 2021-05-14T11:30:00.000Z
 place: Zoom
 person: Mag.a Melanie Mezera
