@@ -2,7 +2,7 @@
 title: "Vortrag: Notfallpsychologie"
 start: 2021-05-12T07:30:00.000Z
 end: 2021-05-12T08:30:00.000Z
-place: Zoom
+place: Webex
 person: Mag. Regina Kamper, Notfallpsychologin
 count: 90
 link: https://www.eventbrite.at/e/mhaw-2021-notfallpsychologie-tickets-152505370669?utm-medium=discovery&utm-campaign=social&utm-content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
