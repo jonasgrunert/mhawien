@@ -3,6 +3,14 @@ templateKey: videos-page
 path: videos
 title: Videos
 videos:
+  - title: "Mind The Mind: Wer sind wir?"
+    description: >-
+      Im Rahmen der Woche stellen die KollegInnen von Mind The Mind täglich eine
+      kurze Übung für die mentale Gesundheit vor - die Videos findet ihr auch
+      danach noch hier.
+
+      Was Mind The Mind so besonders macht, erfahrt Ihr in diesem Einführungsvideo!
+    link: https://drive.google.com/file/d/13brRTPNY4DYSVGfpzaDWJJKYHYLk9ZnM/view?usp=sharing
   - title: 'Mind the Mind: Einführung in das Thema "Mental Health"'
     description: >-
       In dem Video “Mind the Mind” bietet Carolin Drewes euch eine Einführung in
@@ -42,13 +50,5 @@ videos:
 
       Bereitgestellt durch: Lennart Schüller, B.A. Sportwissenschaften, B.Sc. Psychologie
     link: https://soundcloud.com/user-561262389/oh-ein-vogel-meditationsanleitung-fur-beginner/s-MH4llxCBDLr
-  - title: "Mind The Mind: Wer sind wir?"
-    description: >-
-      Im Rahmen der Woche stellen die KollegInnen von Mind The Mind täglich eine
-      kurze Übung für die mentale Gesundheit vor - die Videos findet ihr auch
-      danach noch hier.
-
-      Was Mind The Mind so besonders macht, erfahrt Ihr in diesem Einführungsvideo!
-    link: https://drive.google.com/file/d/13brRTPNY4DYSVGfpzaDWJJKYHYLk9ZnM/view?usp=sharing
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen rund um mentale Gesundheit.
