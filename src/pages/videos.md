@@ -50,5 +50,9 @@ videos:
 
       Bereitgestellt durch: Lennart Schüller, B.A. Sportwissenschaften, B.Sc. Psychologie
     link: https://soundcloud.com/user-561262389/oh-ein-vogel-meditationsanleitung-fur-beginner/s-MH4llxCBDLr
+  - title: "Mind The Mind: Meditationsanleitung"
+    link: https://drive.google.com/file/d/1378lu-IR0IICnyX89i_DwNES5rod84-8/view?usp=sharing
+    description: Miriam von Mind The Mind zeigt uns hier eine kurze Meditation zur
+      Entspannung für Zwischendurch.
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen rund um mentale Gesundheit.
