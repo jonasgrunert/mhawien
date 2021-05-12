@@ -1,5 +1,5 @@
 ---
-title: Mental Health Poetry Slam
+title: Mental Health Poetry Slam Show
 start: 2021-05-15T18:00:00.000Z
 end: 2021-05-15T20:00:00.000Z
 place: Zoom
