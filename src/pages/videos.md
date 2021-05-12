@@ -55,5 +55,6 @@ videos:
     description: Miriam von Mind The Mind zeigt uns hier eine kurze Meditation zur
       Entspannung für zwischendurch. Meditation kann die körperliche und
       seelische Gesundheit fördern, und uns eine Prise Gelassenheit geben.
+      Schließe die Augen oder lasse dich von den Naturbildern begleiten!
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen rund um mentale Gesundheit.
