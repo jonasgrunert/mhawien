@@ -3,6 +3,12 @@ templateKey: videos-page
 path: videos
 title: Videos
 videos:
+  - title: "Mind The Mind: Meditationsanleitung"
+    link: https://drive.google.com/file/d/1378lu-IR0IICnyX89i_DwNES5rod84-8/view?usp=sharing
+    description: Miriam von Mind The Mind zeigt uns hier eine kurze Meditation zur
+      Entspannung für zwischendurch. Meditation kann die körperliche und
+      seelische Gesundheit fördern, und uns eine Prise Gelassenheit geben.
+      Schließe die Augen oder lasse dich von den Naturbildern begleiten!
   - title: "Mind The Mind: Wer sind wir?"
     description: >-
       Im Rahmen der Woche stellen die KollegInnen von Mind The Mind täglich eine
@@ -50,11 +56,14 @@ videos:
 
       Bereitgestellt durch: Lennart Schüller, B.A. Sportwissenschaften, B.Sc. Psychologie
     link: https://soundcloud.com/user-561262389/oh-ein-vogel-meditationsanleitung-fur-beginner/s-MH4llxCBDLr
-  - title: "Mind The Mind: Meditationsanleitung"
-    link: https://drive.google.com/file/d/1378lu-IR0IICnyX89i_DwNES5rod84-8/view?usp=sharing
-    description: Miriam von Mind The Mind zeigt uns hier eine kurze Meditation zur
-      Entspannung für zwischendurch. Meditation kann die körperliche und
-      seelische Gesundheit fördern, und uns eine Prise Gelassenheit geben.
-      Schließe die Augen oder lasse dich von den Naturbildern begleiten!
+  - title: "Mind The Mind: 5-4-3-2-1-Technik"
+    description: >-
+      Virginia vom Team Mind the Mind Wien zeigt eine Entspannungsübung die du
+      überall durchführen kannst. Wenn du also mal wieder etwas gestresster
+      bist, suche dir einen Ort und Los geht’s!
+
+
+      Für diejenigen unter euch, die an Angst- und Panikattacken leiden kann diese Übung helfen diese zu unterbrechen und euch das Gefühl von Kontrolle zurückzugeben.
+    link: https://drive.google.com/file/d/11zoihPe6LBqWoLJOacC7Q5qdq-kEXBh8/view?usp=sharing
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen rund um mentale Gesundheit.
