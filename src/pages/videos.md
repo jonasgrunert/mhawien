@@ -78,5 +78,16 @@ videos:
 
       Bereitgestellt durch: Lennart Schüller, B.A. Sportwissenschaften, B.Sc. Psychologie
     link: https://soundcloud.com/user-561262389/oh-ein-vogel-meditationsanleitung-fur-beginner/s-MH4llxCBDLr
+  - link: https://drive.google.com/file/d/1D8omJpTi-V73Y5g_a5yta77TgTnh9rFw/view?usp=sharing
+    title: "Mind The Mind: 4-7-8-Atemübung"
+    description: >-
+      Anja gibt eine kleine Einführung in das bewusste Atmen und stellt eine
+      simple Methode zum Stressabbau im Alltag vor. Dafür brauchst du nur deinen
+      Atem und etwas Konzentration.
+
+      Den bewussten, tiefen Atem haben wir als Anker immer dabei - er gibt uns die Möglichkeit im Moment anzukommen und den Körper zu entspannen, indem die Herzfrequenz & der Blutdruck gesenkt werden.
+
+
+      Empfohlen werden zumindest 4 Durchgänge der 4-7-8 Atmung. Probiere die Übung aus & vergiss nicht: Übung macht den Meister*die Meisterin!
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen rund um mentale Gesundheit.
