@@ -3,6 +3,19 @@ templateKey: videos-page
 path: videos
 title: Videos
 videos:
+  - link: https://drive.google.com/file/d/1BFzrP-n-LtHRNW6D0xge-4Buh7TYjufr/view?usp=sharing
+    title: "Mind The Mind: Bodyscan"
+    description: >-
+      Mira vom Team Mind the Mind Wien lädt dich auf eine kleine Reise durch
+      deinen Körper ein. Dabei geht es vor allem darum, wieder bei dir und in
+      deinem Körper anzukommen - alles was du dafür brauchst, sind ein paar
+      Minuten Zeit und einen Ort, an dem du dich wohlfühlst. Diese
+      Entspannungsübung kann dir helfen, wenn du dich gestresst fühlst, das
+      Gefühl hast, zu lange vorm Bildschirm verbracht zu haben oder einfach nur
+      etwas zu Ruhe kommen möchtest.
+
+
+      Die Übung ist grundsätzlich für alle geeignet. Wenn du aber gerade unter akuten Schmerzen oder Unwohlsein in bestimmten Körperregionen leidest, ist es ganz wichtig, dass du gut auf deinen Körper und seine Grenzen achtest und dich nicht zwingst, dort hinein zu spüren, wo es sich für dich imMoment nicht stimmig anfühlt - es geht bei der Übung um dich und darum, dass du dich wohlfühlst!
   - title: "Mind The Mind: 5-4-3-2-1-Technik"
     description: >-
       Virginia vom Team Mind the Mind Wien zeigt eine Entspannungsübung die du
@@ -65,18 +78,5 @@ videos:
 
       Bereitgestellt durch: Lennart Schüller, B.A. Sportwissenschaften, B.Sc. Psychologie
     link: https://soundcloud.com/user-561262389/oh-ein-vogel-meditationsanleitung-fur-beginner/s-MH4llxCBDLr
-  - link: https://drive.google.com/file/d/1BFzrP-n-LtHRNW6D0xge-4Buh7TYjufr/view?usp=sharing
-    title: "Mind The Mind: Bodyscan"
-    description: >-
-      Mira vom Team Mind the Mind Wien lädt dich auf eine kleine Reise durch
-      deinen Körper ein. Dabei geht es vor allem darum, wieder bei dir und in
-      deinem Körper anzukommen - alles was du dafür brauchst, sind ein paar
-      Minuten Zeit und einen Ort, an dem du dich wohlfühlst. Diese
-      Entspannungsübung kann dir helfen, wenn du dich gestresst fühlst, das
-      Gefühl hast, zu lange vorm Bildschirm verbracht zu haben oder einfach nur
-      etwas zu Ruhe kommen möchtest.
-
-
-      Die Übung ist grundsätzlich für alle geeignet. Wenn du aber gerade unter akuten Schmerzen oder Unwohlsein in bestimmten Körperregionen leidest, ist es ganz wichtig, dass du gut auf deinen Körper und seine Grenzen achtest und dich nicht zwingst, dort hinein zu spüren, wo es sich für dich imMoment nicht stimmig anfühlt - es geht bei der Übung um dich und darum, dass du dich wohlfühlst!
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen rund um mentale Gesundheit.
