@@ -89,5 +89,21 @@ videos:
 
       Bereitgestellt durch: Lennart Schüller, B.A. Sportwissenschaften, B.Sc. Psychologie
     link: https://soundcloud.com/user-561262389/oh-ein-vogel-meditationsanleitung-fur-beginner/s-MH4llxCBDLr
+  - link: https://drive.google.com/file/d/1kpml92rLFi10MwypFTYkxfjScRZumkCM/view?usp=sharing
+    title: "Mind The Mind: Progressive Muskelentspannung"
+    description: >-
+      Kathi stellt hier eine Entspannungsübung vor, die durch aktive Anspannung
+      der Muskeln zu einer körperlichen Entspannung (Reduktion des
+      neuromuskulären Tonus) führen und ein gedankliches Abschalten bewirken
+      kann!
+
+
+      „Ich persönlich habe für mich herausgefunden, dass mir progressive Muskelentspannung (PME/PMR) sowohl gegen meine Spannungskopfschmerzen als auch für bessere Konzentration hilft und nicht nur in stressigen Zeiten Gelassenheit in meinen Alltag bringt!“
+
+
+      In Studien häufig erwähnt, wird die progressive Muskelentspannung oft als Alleskönner dargestellt - aber Achtung: wie bei vielen Entspannungsübungen gilt hier: ÜBUNG ist alles! Also gib nicht auf, wenn du dich einmal nicht so gut auf dich selbst konzentrieren kannst und probier es einfach Morgen noch einmal!
+
+
+      Aufgrund der leichten Erlernbarkeit und für einen nachhaltigen positiven Effekt solltest/kannst du die Übungen der progressiven Muskelentspannung JEDEN Tag einbauen und so zu einem Fixpunkt deines Tages machen, an dem du dir ohne Stress Zeit für dich selbst nimmst. Beim Stichpunkt „Zeit für dich selbst“ ist wichtig zu sagen: Schau, dass du dich während deiner Übungen für 5-30 Minuten an einem ruhigen und ungestörten Ort befindest. Ob du liegen oder lieber sitzen willst, ist dir selbst überlassen!
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen rund um mentale Gesundheit.
