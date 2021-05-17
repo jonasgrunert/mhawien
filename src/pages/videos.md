@@ -3,6 +3,11 @@ templateKey: videos-page
 path: videos
 title: Videos
 videos:
+  - link: https://vimeo.com/548754103/42d1739c22
+    title: "Aufzeichnung: Anna Granta - The risk of undiagnosed ADHD"
+    description: |-
+      Anna Granta talks about the mental health impacts on
+      undiagnosed ADHD and how it shows up.
   - link: https://drive.google.com/file/d/1kpml92rLFi10MwypFTYkxfjScRZumkCM/view?usp=sharing
     title: "Mind The Mind: Progressive Muskelentspannung"
     description: >-
@@ -105,10 +110,5 @@ videos:
 
       Bereitgestellt durch: Lennart Schüller, B.A. Sportwissenschaften, B.Sc. Psychologie
     link: https://soundcloud.com/user-561262389/oh-ein-vogel-meditationsanleitung-fur-beginner/s-MH4llxCBDLr
-  - link: https://vimeo.com/548754103/42d1739c22
-    title: "Aufzeichnung: Anna Granta - The risk of undiagnosed ADHD"
-    description: |-
-      Anna Granta talks about the mental health impacts on
-      undiagnosed ADHD and how it shows up.
 ---
 Hier findet ihr Links zu Videos und Audioaufnahmen rund um mentale Gesundheit.
