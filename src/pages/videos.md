@@ -1,7 +1,7 @@
 ---
 templateKey: videos-page
 path: videos
-title: Videos
+title: Videos und Materialien
 videos:
   - link: https://vimeo.com/548754103/42d1739c22
     title: "Aufzeichnung: Anna Granta - The risk of undiagnosed ADHD"
