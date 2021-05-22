@@ -110,5 +110,9 @@ videos:
 
       Bereitgestellt durch: Lennart Schüller, B.A. Sportwissenschaften, B.Sc. Psychologie
     link: https://soundcloud.com/user-561262389/oh-ein-vogel-meditationsanleitung-fur-beginner/s-MH4llxCBDLr
+  - title: Mythen und Fakten über psychische Störungen
+    description: Was sind häufige Mythen über verschiedene Störungen? Was stimmt?
+      Was weißt Du, was kannst du lernen? Finde es hier heraus!
+    link: https://drive.google.com/file/d/1L5rj_AttUrhD892Ajcm_cNIAckpHAiON/view?usp=sharing
 ---
 Hier findet ihr Links zu Videos, Audioaufnahmen und Dokumente rund um mentale Gesundheit.
