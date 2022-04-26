@@ -1,0 +1,12 @@
+---
+title: LACH-Workshop
+start: 2022-05-10T15:30:00.000Z
+end: 2022-05-10T17:00:00.000Z
+place: Hörsaal H, Psychologicum, Liebiggasse 5
+person: Alma Gall
+count: 20
+link: https://www.eventbrite.at/e/lach-workshop-tickets-328322380077
+---
+**Erlebe die wohltuende Kraft des Lachens** bei einem bunten Workshop voller Spaß, Freude und Entspannung. Basierend auf Lachyoga und anderen Lachtrainings-Ansätzen widmen wir uns dem bewussten Lachen ohne Grund und erkunden dabei eine Vielzahl an gesundheitlichen Vorteilen des Lachens. Dabei erhältst du viele positive Impulse und Lachübungen, die du zur Steigerung des Wohlbefindens leicht in deinen Alltag integrieren kannst. 
+
+**Aktuell gültige Corona-Auflagen** werden beim Workshop eingehalten, daher herrscht FFP2-Maskenpflicht während der Veranstaltung. Teilnahme auf eigene Verantwortung.
