@@ -1,5 +1,5 @@
 ---
-title: LACH-Workshop (Workshop)
+title: "MHAW 2022: LACH-Workshop (Workshop)"
 start: 2022-05-10T15:30:00.000Z
 end: 2022-05-10T17:00:00.000Z
 place: Hörsaal H, Psychologicum, Liebiggasse 5
