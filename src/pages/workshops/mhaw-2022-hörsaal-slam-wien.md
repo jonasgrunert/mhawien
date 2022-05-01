@@ -1,7 +1,7 @@
 ---
 title: "MHAW 2022: Hörsaal Slam Wien"
 start: 2022-05-13T16:30:00.000Z
-end: 2022-05-01T19:30:00.000Z
+end: 2022-05-13T19:30:00.000Z
 place: HS 1, Oskar-Morgenstern-Platz
 person: FOMP
 count: 400
