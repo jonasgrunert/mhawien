@@ -1,5 +1,5 @@
 ---
-title: "Events On Sale Soon MHAW 2022: Die Psychologie der Klimakrise (Vortrag)"
+title: "MHAW 2022: Die Psychologie der Klimakrise (Vortrag)"
 start: 2022-05-11T17:30:00.000Z
 end: 2022-05-11T19:00:00.000Z
 place: Hörsaal G, Psychologicum, Liebiggasse 5
