@@ -1,5 +1,5 @@
 ---
-title: "MHAW 2022: Capitalism, Systemic Violence and Intersectionality (Lecture))"
+title: "MHAW 2022: Capitalism, Systemic Violence and Intersectionality (Lecture)"
 start: 2022-05-12T13:00:00.000Z
 end: 2022-05-12T14:00:00.000Z
 place: "Hörsaal F, Psychologicum, Liebiggasse 5 "
