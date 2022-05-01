@@ -1,7 +1,7 @@
 ---
 title: "MHAW 2022: Die Psychologie der Klimakrise (Workshop)"
 start: 2022-05-10T13:00:00.000Z
-end: 2022-05-01T15:00:00.000Z
+end: 2022-05-10T15:00:00.000Z
 place: Hörsaal H, Psychologicum, Liebiggasse 5
 person: Rosa Steinhauser und Giacomo Bach (Psychologists4Future)
 count: 20
