@@ -1,5 +1,6 @@
 ---
-title: "MHAW 2022: Die Psychologie vom Kopf auf die Füße stellen (Vortrag)"
+title: "MHAW 2022: Die Psychologie vom Kopf auf die Füße stellen: Eine
+  Einführung in die Kritische Psychologie (Vortrag)"
 start: 2022-05-11T15:00:00.000Z
 end: 2022-05-11T17:00:00.000Z
 place: Hörsaal G, Psychologicum, Liebiggasse 5
