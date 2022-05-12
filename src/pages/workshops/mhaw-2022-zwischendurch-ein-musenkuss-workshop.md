@@ -2,7 +2,7 @@
 title: "MHAW 2022: Zwischendurch ein Musenkuss (Workshop)"
 start: 2022-05-13T08:00:00.000Z
 end: 2022-05-13T10:00:00.000Z
-place: Hörsaal A, Psychologicum, Liebiggasse 5
+place: HS A, 6. Stock, Neues Institutsgebäude, Universitätsstraße 7, 1010 Wien
 person: Mag.a Melanie Mezera
 count: 40
 link: https://www.eventbrite.at/e/mhaw-2022-zwischendurch-ein-musenkuss-workshop-tickets-331357287567
