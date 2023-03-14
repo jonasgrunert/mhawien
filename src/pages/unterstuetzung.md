@@ -140,5 +140,4 @@ supporters:
       Güssing: Tel.: 03322 / 44311
       Jennersdorf: Tel.: 03329 / 46311
 ---
-
-## **Wir sammeln hier Institutionen, die in der aktuellen Situation zu COVID-19 und auch sonst unterstützend wirken.**
+## **Wir sammeln hier Institutionen, die in psychischen Krisen unterstützend wirken.**
