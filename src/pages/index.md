@@ -10,4 +10,6 @@ tags:
   - "#beaware"
   - "#dontjudge"
   - "#takecare"
+  - "#selfcare"
+  - "#communityhealing"
 ---
