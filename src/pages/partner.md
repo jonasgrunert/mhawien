@@ -16,6 +16,12 @@ partners:
       Studierendenvertretung der Psychologie an der Universität Wien
     title: BaGru krips - StV Psychologie
     link: krips.at
+  - logo: /img/gewi_logo.png
+    title: FV GEWI
+    link: https://www.fv-gewi.at/
+    description: Die Basisgruppe GEWI stellt die Fakultäts­vertretungen der
+      philologisch-kultur­­wissen­schaft­lichen und
+      historisch-kultur­­wissen­schaft­lichen Fakultät an der Uni Wien.
 ---
 Wir bedanken uns herzlich bei allen Unterstützer:innen!
 
