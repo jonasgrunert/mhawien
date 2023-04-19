@@ -3,7 +3,7 @@ templateKey: partner-page
 path: /partner
 title: Partner:innen
 partners:
-  - logo: /img/böp-s-transparenter-hintergrund.png
+  - logo: /img/böp-s_transparent_smaller.png
     description: Studierende im Berufsverband Österreichischer Psycholog:innen
     title: BÖP-S
     link: https://www.boep-s.or.at/
