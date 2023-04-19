@@ -8,6 +8,6 @@ partners:
     title: BÖP-S
     link: https://www.boep-s.or.at/
 ---
-Wir bedanken uns bei allen Unterstützer:innen!
+Wir bedanken uns herzlich bei allen Unterstützer:innen!
 
-Falls Sie Interesse daran haben, unsere nächste Mental Health Awareness Week zu unterstützen, können Sie uns hier kontaktieren: m.h.awarenessweek@gmail.com
+Falls Sie Interesse daran haben, unsere nächste Mental Health Awareness Week zu unterstützen, können Sie uns gerne hier kontaktieren: m.h.awarenessweek@gmail.com
