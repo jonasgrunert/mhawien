@@ -4,7 +4,7 @@ title: "Vortrag (online): Mental Load - Wenn die Last der Familienorganisation
 start: 2023-05-15T08:00:16.063Z
 end: 2023-05-15T09:30:16.068Z
 place: Zoom
-person: Barbara Schrammel Mac
+person: Barbara Schrammel MSc
 count: 100
 link: Folgt
 ---
