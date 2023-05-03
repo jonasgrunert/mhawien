@@ -1,7 +1,7 @@
 ---
 title: "Workshop: Community Care & Being a BIPOC Psychosocial Practitioner"
-start: 2023-05-03T12:25:20.113Z
-end: 2023-05-03T12:25:20.118Z
+start: 2023-05-17T14:00:20.113Z
+end: 2023-05-17T18:00:20.118Z
 place: Hörsaal D, Neues Institutsgebäude (NIG) 6. Stock, Universitätsstraße 7
 person: Parissima und Farah
 count: 15
