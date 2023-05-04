@@ -6,7 +6,7 @@ place: Konferenzraum IPW (A222), Neues Institutsgebäude (NIG) 2. Stock,
   Universitätsstraße 7
 person: Ben Russell
 count: 20
-link: Folgt
+link: https://www.eventbrite.at/e/mhaw-2023-geschlecht-mit-2-aufklarung-workshop-tickets-629205399287
 ---
 Weiß ich, dass ich queer/weiblich/männlich/etc. bin? Woher weiß ich das? Woran mache ich das überhaupt fest?\
 Es wird um Fragen wie “Was ist eigentlich Geschlecht?”, “Was bedeutet Geschlecht für mich?” und weitere Fragen der Wahrnehmung von zugeschriebenen und empfundenen Geschlechtsidentitäten in der eigenen Biographie gehen.
