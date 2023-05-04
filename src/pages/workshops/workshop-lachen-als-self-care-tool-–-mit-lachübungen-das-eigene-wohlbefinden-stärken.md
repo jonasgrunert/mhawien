@@ -6,6 +6,6 @@ end: 2023-05-15T15:30:23.515Z
 place: Hörsaal A, Neues Institutsgebäude (NIG) 6. Stock, Universitätsstraße 7
 person: "Alma Gall "
 count: 25
-link: Folgt
+link: https://www.eventbrite.at/e/mhaw-2023-lachen-als-self-care-tool-mit-alma-gall-workshop-tickets-629162390647
 ---
 In diesem Praxis-Workshop erlernst du einige Lach- & Atemübungen aus Lachyoga und ähnlichen Lachtrainings, die das Wohlbefinden steigern und mentalen, physischen und psychischen Stress entgegenwirken.
