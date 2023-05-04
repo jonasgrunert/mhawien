@@ -1,5 +1,5 @@
 ---
-title: "Workshop: Kollektive Residenz"
+title: "Workshop: Kollektive Resilienz "
 start: 2023-05-17T07:00:03.224Z
 end: 2023-05-17T11:00:03.230Z
 place: tba
