@@ -4,7 +4,7 @@ title: "Vortrag (online): Mental Load - Wenn die Last der Familienorganisation
 start: 2023-05-15T08:00:16.063Z
 end: 2023-05-15T09:30:16.068Z
 place: Zoom
-person: Barbara Schrammel MSc
+person: Barbara Schrammel
 count: 100
 link: https://www.eventbrite.at/e/mhaw-2023-mental-load-mit-frauen-beraten-frauen-vortrag-tickets-629193593977
 ---
