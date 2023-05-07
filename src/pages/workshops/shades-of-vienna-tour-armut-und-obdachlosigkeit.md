@@ -1,7 +1,7 @@
 ---
 title: "Shades of Vienna Tour: Armut und Obdachlosigkeit"
 start: 2023-05-20T08:00:36.333Z
-end: 2023-05-19T22:00:36.337Z
+end: 2023-05-20T10:00:36.337Z
 place: Bäckerstraße 18, 1010 Wien
 person: SHADES TOURS Vienna
 count: 12
