@@ -2,7 +2,7 @@
 title: "Workshop: Slowing down & Less is more!  Finde Ruhe in deinem Body-Mind
   durch somatische Bewegung "
 start: 2023-05-19T08:00:31.603Z
-end: 2023-05-18T22:00:31.607Z
+end: 2023-05-19T10:00:31.607Z
 place: Seminarraum AO621A, Neues Institutsgebäude (NIG) 6. Stock, Universitätsstraße 7
 person: Lena Pirklhuber
 count: 15
