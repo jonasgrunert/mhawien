@@ -1,6 +1,6 @@
 ---
 title: "Workshop: Kollektive Resilienz "
-start: 2023-05-17T07:00:03.224Z
+start: 2023-05-17T08:00:00.000Z
 end: 2023-05-17T11:00:03.230Z
 place: tba
 person: Tom und Marie
