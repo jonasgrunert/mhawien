@@ -26,7 +26,7 @@ partners:
     title: Studo Connect
     description: "Studo wurde 2016 von fünf Studierenden gegründet, um Studierenden
       in ganz Europa den Studienalltag zu erleichtern. "
-    link: studo.com
+    link: https://studo.com#org=981005eed0
 ---
 Wir bedanken uns herzlich bei allen Unterstützer:innen!
 
