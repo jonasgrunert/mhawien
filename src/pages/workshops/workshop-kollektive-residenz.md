@@ -2,7 +2,7 @@
 title: "Workshop: Kollektive Resilienz "
 start: 2023-05-17T08:00:00.000Z
 end: 2023-05-17T11:00:03.230Z
-place: tba
+place: Seminarraum SR-A, Neues Institutsgebäude (NIG) 4. Stock, Universitätsstraße 7
 person: Tom und Marie
 count: 25
 link: https://www.eventbrite.at/e/mhaw-2023-kollektive-resilienz-mit-radix-workshop-tickets-629370854167
