@@ -22,6 +22,11 @@ partners:
     title: ÖH Uni Wien
     description: Österreichische Höchschüler:innenschaft der Universität Wien
     link: https://oeh.univie.ac.at/
+  - logo: /img/studo_logo_red.png
+    title: Studo Connect
+    description: "Studo wurde 2016 von fünf Studierenden gegründet, um Studierenden
+      in ganz Europa den Studienalltag zu erleichtern. "
+    link: studo.com
 ---
 Wir bedanken uns herzlich bei allen Unterstützer:innen!
 
