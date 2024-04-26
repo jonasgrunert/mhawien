@@ -1,5 +1,5 @@
 ---
-title: Über Uns!
+title: Über Uns
 image: /img/logo_regular.png
 ---
 Wir sind ein Zusammenschluss von Psychologie-Studierenden der Universität Wien, welcher in Zusammenarbeit mit sämtlichen externen Beitragenden jährlich eine spannende Woche zum Thema psychische Gesundheit auf die Beine stellt. Die Idee unserer Mental Health Awareness Week lehnt an die gleichnamige Woche der Mental Health Foundation aus Großbritannien an
