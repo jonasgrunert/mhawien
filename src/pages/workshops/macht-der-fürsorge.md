@@ -3,7 +3,7 @@ title: Macht der Fürsorge
 start: 2024-05-14T13:00:00.000Z
 end: 2024-05-14T15:00:00.000Z
 place: Hörsaal A, Neues Institutsgebäude (NIG) - Universitätsstraße 7 (1010 Wien)
-person: "-"
+person: Theater der Unterdrückten
 count: 0
 link: "-"
 ---
