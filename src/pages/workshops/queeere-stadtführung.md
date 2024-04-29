@@ -1,5 +1,5 @@
 ---
-title: Queeere Stadtführung
+title: Queere Stadtführung
 start: 2024-05-11T12:00:00.000Z
 end: 2024-05-11T14:00:00.000Z
 place: "-"
