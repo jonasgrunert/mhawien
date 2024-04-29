@@ -7,4 +7,4 @@ person: Alma Gall
 count: 0
 link: "-"
 ---
-\-
+In diesem Praxis-Workshop erlernst du einige Lach- & Atemübungen aus Lachyoga und ähnlichen Lachtrainings, die das Wohlbefinden steigern und mentalen, physischen und psychischen Stress entgegenwirken.
