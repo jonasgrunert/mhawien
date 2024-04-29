@@ -1,7 +1,7 @@
 ---
 title: Online-Beratungsstrukturen in der psychosozialen Beratung
 start: 2024-05-14T07:30:00.000Z
-end: 2024-05-13T22:00:00.000Z
+end: 2024-05-14T10:00:00.000Z
 place: Seminarraum 8 - Währinger Straße 29
 person: Laura Wernig
 count: -10
