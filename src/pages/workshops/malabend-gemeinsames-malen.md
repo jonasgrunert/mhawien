@@ -1,9 +1,9 @@
 ---
 title: Malabend - Gemeinsames Malen
-start: 2024-05-10T12:00:00.000Z
-end: 2024-05-10T14:00:00.000Z
+start: 2024-05-10T13:00:00.000Z
+end: 2024-05-10T18:00:00.000Z
 place: Seminarraum 1, Universitätscampus Hof 9 (1090 Wien)
-person: "-"
+person: KRIPS und DIE AULA
 count: 0
 link: "-"
 ---
