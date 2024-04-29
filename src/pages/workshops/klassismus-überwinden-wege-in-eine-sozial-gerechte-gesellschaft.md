@@ -3,7 +3,7 @@ title: "Buchvorstellung: Klassismus überwinden - Wege in eine sozial gerechte
   Gesellschaft"
 start: 2024-05-09T16:00:00.000Z
 end: 2024-05-09T17:30:00.000Z
-place: "-"
+place: "online "
 person: Francis Seeck
 count: 0
 link: "-"
