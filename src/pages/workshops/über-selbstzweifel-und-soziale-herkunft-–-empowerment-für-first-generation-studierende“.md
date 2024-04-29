@@ -2,7 +2,7 @@
 title: Über Selbstzweifel und soziale Herkunft – Empowerment für
   First-Generation-Studierende“
 start: 2024-05-13T15:30:00.000Z
-end: 2024-05-13T18:00:00.000Z
+end: 2024-05-13T17:30:00.000Z
 place: Oskar-Morgenstern-Platz, Seminarraum 03
 person: Melanie Wegerer
 count: 0
