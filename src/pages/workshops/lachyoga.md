@@ -5,6 +5,6 @@ end: 2024-05-09T09:30:00.000Z
 place: Großer Besprechungsraum - Taubstummengasse 7-9 (2. Stock)
 person: Alma Gall
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/mhaw-2024-lachyoga-tickets-893639248047
 ---
 In diesem Praxis-Workshop erlernst du einige Lach- & Atemübungen aus Lachyoga und ähnlichen Lachtrainings, die das Wohlbefinden steigern und mentalen, physischen und psychischen Stress entgegenwirken.
