@@ -5,7 +5,7 @@ end: 2024-05-16T14:30:00.000Z
 place: Oskar-Morgenstern-Platz, Seminarraum 06
 person: Nightline
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/mhaw-2024-aktives-zuhoren-als-starkung-der-mentalen-gesundheit-tickets-893880981077
 ---
 <!--StartFragment-->
 
