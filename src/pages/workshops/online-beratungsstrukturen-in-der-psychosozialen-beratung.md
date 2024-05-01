@@ -5,7 +5,7 @@ end: 2024-05-14T10:00:00.000Z
 place: Seminarraum 8 - Währinger Straße 29
 person: Laura Wernig
 count: -10
-link: "-"
+link: https://www.eventbrite.at/e/mhaw-2024-online-beratungsstrukturen-in-der-psychosozialen-beratung-tickets-893650170717
 ---
 <!--StartFragment-->
 
