@@ -6,7 +6,7 @@ end: 2024-05-17T09:00:00.000Z
 place: online
 person: Erik Petter
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/mhaw-2024-ich-hab-ein-recht-auf-mein-problem-mit-erik-petter-tickets-893881542757
 ---
 <!--StartFragment-->
 
