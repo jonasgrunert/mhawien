@@ -5,7 +5,7 @@ end: 2024-05-11T14:00:00.000Z
 place: "-"
 person: QWIEN
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/mhaw-2024-queere-stadtfuhrung-mit-qwien-tickets-893647302137
 ---
 <!--StartFragment-->
 
