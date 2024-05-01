@@ -5,7 +5,7 @@ end: 2024-05-18T19:00:42.997Z
 place: "Liebiggasse 5, Hörsaal G "
 person: Krips x Zimt-Magazin
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/mhaw-2024-filmscreening-wald-tickets-894988373317
 ---
 Wir haben da gemeinsam mit dem[@zimtmagazin ](https://www.instagram.com/zimtmagazin/)und [@psychotherapie_minic](https://www.instagram.com/psychotherapie_minic/)einen tollen Abend für euch vorbereitet! ✨\
 \
