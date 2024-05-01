@@ -6,7 +6,7 @@ end: 2024-05-13T17:30:00.000Z
 place: Oskar-Morgenstern-Platz, Seminarraum 03
 person: Melanie Wegerer
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/mhaw-2024-uber-selbstzweifel-und-soziale-herkunft-mit-melanie-wegerer-tickets-893649729397
 ---
 <!--StartFragment-->
 
