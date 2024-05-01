@@ -5,7 +5,7 @@ end: 2024-05-15T14:30:00.000Z
 place: Oskar-Morgenstern-Platz, Seminarraum 06
 person: Wir sind auch Wien/Farah Saad
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/mhaw-2024-self-und-community-care-as-a-bipoc-psychosocial-practitioner-tickets-893653821637
 ---
 <!--StartFragment-->
 
