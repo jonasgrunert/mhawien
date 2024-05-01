@@ -6,7 +6,7 @@ end: 2024-05-13T11:00:00.000Z
 place: online
 person: Sagal Hussein
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/schreiben-als-form-des-widerstands-fur-von-rassismus-betroffene-personen-tickets-893648726397
 ---
 <!--StartFragment-->
 
