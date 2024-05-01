@@ -5,7 +5,7 @@ end: 2024-05-16T11:30:00.000Z
 place: Hörsaal H, Fakultät für Psychologie - Liebiggasse 5
 person: Hanna Reichhold
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/mhaw-2024-neuroaffirmative-praxis-mit-hanna-reichhold-tickets-893654694247
 ---
 <!--StartFragment-->
 
