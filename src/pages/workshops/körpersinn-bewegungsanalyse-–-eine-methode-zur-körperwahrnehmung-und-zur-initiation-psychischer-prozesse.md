@@ -6,7 +6,7 @@ end: 2024-05-15T09:00:00.000Z
 place: Kolingasse, Seminarraum 9
 person: Gabriele Haselberger
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/mhaw-2024-korpersinn-bewegungsanalyse-mit-gabriele-haselberger-tickets-893651514737
 ---
 <!--StartFragment-->
 
