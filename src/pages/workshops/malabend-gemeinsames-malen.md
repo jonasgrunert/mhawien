@@ -5,7 +5,7 @@ end: 2024-05-10T18:00:00.000Z
 place: Seminarraum 1, Universitätscampus Hof 9 (1090 Wien)
 person: KRIPS und DIE AULA
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/mhaw-2024-malabend-gemeinsames-malen-mit-krips-x-die-aula-tickets-893646710367
 ---
 <!--StartFragment-->
 
