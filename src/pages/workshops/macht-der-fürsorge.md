@@ -5,7 +5,7 @@ end: 2024-05-14T15:00:00.000Z
 place: Hörsaal A, Neues Institutsgebäude (NIG) - Universitätsstraße 7 (1010 Wien)
 person: Theater der Unterdrückten
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/mhaw-2024-macht-der-fursorge-mit-theater-der-unterdruckten-tdu-tickets-893650762487
 ---
 <!--StartFragment-->
 
