@@ -6,7 +6,7 @@ end: 2024-05-09T17:30:00.000Z
 place: "online "
 person: Francis Seeck
 count: 0
-link: "-"
+link: https://www.eventbrite.at/e/mhaw2024-klassismus-uberwinden-wege-in-eine-sozial-gerechte-gesellschaft-tickets-893642307197
 ---
 <!--StartFragment-->
 
