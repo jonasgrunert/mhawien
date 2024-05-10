@@ -9,6 +9,8 @@ link: https://www.eventbrite.at/e/mhaw-2024-neuroaffirmative-praxis-mit-hanna-re
 ---
 <!--StartFragment-->
 
-m Rahmen dieses Workshops setzen wir uns mit dem Konzept der Neurodiversität und der Bedeutung und Umsetzung neuroaffirmativen Praxis auseinander. Neuroaffirmative Praxis ist ein relativ neuer Ansatz im Gesundheitswesen, der darauf abzielt, ein sicheres und einladendes Umfeld für neurodiverse Menschen zu schaffen. Unterschiede zwischen Menschen werden anerkannt und Unterstützungsangebote werden auf die spezifischen Bedürfnisse abgestimmt.
+Im Rahmen dieses Workshops setzen wir uns mit dem Konzept der Neurodiversität und der Bedeutung und Umsetzung neuroaffirmativen Praxis auseinander. Neuroaffirmative Praxis ist ein relativ neuer Ansatz im Gesundheitswesen, der darauf abzielt, ein sicheres und einladendes Umfeld für neurodiverse Menschen zu schaffen. Unterschiede zwischen Menschen werden anerkannt und Unterstützungsangebote werden auf die spezifischen Bedürfnisse abgestimmt.\
+\
+F﻿ür Psychologiestudierende!
 
 <!--EndFragment-->
