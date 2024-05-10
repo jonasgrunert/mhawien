@@ -8,3 +8,5 @@ count: 0
 link: Kommt einfach vorbei!
 ---
 Eine Dragshow im Hörsaal?? Das Kollektiv Dragon macht es für euch möglich!
+
+Kommt einfach vorbei, keine Anmeldung nötig!
