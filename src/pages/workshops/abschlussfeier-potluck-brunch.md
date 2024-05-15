@@ -8,3 +8,7 @@ count: 0
 link: Kommt einfach vorbei!
 ---
 Zum Abschluss der MHAW wollen wir uns nochmal alle zusammen im Votivpark zum gemütlichen Potluck Brunch treffen!
+
+Essen, Getränke, Decken - Jede Person bringt was mit & wir teilen alles!\
+\
+Wir freuen uns auf alle die kommen!
