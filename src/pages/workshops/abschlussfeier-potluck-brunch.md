@@ -11,4 +11,4 @@ Zum Abschluss der MHAW wollen wir uns nochmal alle zusammen im Votivpark zum gem
 
 Essen, Getränke, Decken - Jede Person bringt was mit & wir teilen alles!\
 \
-Wir freuen uns auf alle die kommen!
+Kommt einfach vorbei, wir freuen uns!
